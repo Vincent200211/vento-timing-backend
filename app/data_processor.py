@@ -1249,10 +1249,11 @@ class DataProcessor:
             self._intra_lap_active = False
 
     def get_sorted_timing(self) -> list[dict]:
-        entries = sorted(
-            [e for e in self.timing.values() if not e.retired and e.position is not None and str(e.position).strip().isdigit() and int(str(e.position).strip()) > 0],
-            key=lambda e: int(e.position),
-        )
+        raw_entries = [e for e in self.timing.values() if not e.retired and e.position is not None]
+        valid = [e for e in raw_entries if str(e.position).strip().lstrip("-").isdigit() and int(str(e.position).strip()) > 0]
+        entries = sorted(valid, key=lambda e: int(e.position))
+        if not entries and raw_entries:
+            entries = sorted(raw_entries, key=lambda e: e.driver_number)
         result = []
         for i, e in enumerate(entries, 1):
             d = dict(e.__dict__)
