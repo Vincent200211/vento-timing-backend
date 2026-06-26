@@ -1,0 +1,8 @@
+{"ts": 1782485868.5808291, "topic": "TrackStatus", "data": {"Status": "1", "Message": "AllClear", "_kf": true}}
+{"ts": 1782486005.3779368, "topic": "TrackStatus", "data": {"Status": "1", "Message": "AllClear", "_kf": true}}
+{"ts": 1782486320.6971304, "topic": "TrackStatus", "data": {"Status": "1", "Message": "AllClear", "_kf": true}}
+{"ts": 1782486497.0517824, "topic": "TrackStatus", "data": {"Status": "2", "Message": "Yellow", "_kf": true}}
+{"ts": 1782486516.2993891, "topic": "TrackStatus", "data": {"Status": "6", "Message": "VSCDeployed", "_kf": true}}
+{"ts": 1782487560.6145508, "topic": "TrackStatus", "data": {"Status": "1", "Message": "AllClear", "_kf": true}}
+{"ts": 1782487601.0796096, "topic": "TrackStatus", "data": {"Status": "1", "Message": "AllClear", "_kf": true}}
+{"ts": 1782490082.7233393, "topic": "TrackStatus", "data": {"Status": "2", "Message": "Yellow", "_kf": true}}

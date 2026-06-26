@@ -1,0 +1,6 @@
+{"ts": 1782485868.5789063, "topic": "ExtrapolatedClock", "data": {"Utc": "2026-06-26T14:57:46.0360037Z", "Remaining": "01:00:00", "Extrapolating": false, "_kf": true}}
+{"ts": 1782486005.3779368, "topic": "ExtrapolatedClock", "data": {"Utc": "2026-06-26T15:00:02.8259581Z", "Remaining": "00:59:57", "Extrapolating": true, "_kf": true}}
+{"ts": 1782486320.6897447, "topic": "ExtrapolatedClock", "data": {"Utc": "2026-06-26T15:05:18.1241486Z", "Remaining": "00:54:41", "Extrapolating": true, "_kf": true}}
+{"ts": 1782487560.6145508, "topic": "ExtrapolatedClock", "data": {"Utc": "2026-06-26T15:25:58.0508563Z", "Remaining": "00:34:01", "Extrapolating": true, "_kf": true}}
+{"ts": 1782487601.0760489, "topic": "ExtrapolatedClock", "data": {"Utc": "2026-06-26T15:26:38.5022287Z", "Remaining": "00:33:21", "Extrapolating": true, "_kf": true}}
+{"ts": 1782489602.666678, "topic": "ExtrapolatedClock", "data": {"Utc": "2026-06-26T15:59:59.941Z", "Remaining": "00:00:00", "Extrapolating": false}}

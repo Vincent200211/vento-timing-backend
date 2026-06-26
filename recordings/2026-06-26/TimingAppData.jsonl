@@ -1,0 +1,595 @@
+{"ts": 1782485868.579943, "topic": "TimingAppData", "data": {"Lines": {"1": {"RacingNumber": "1", "Stints": [], "Line": 1}, "10": {"RacingNumber": "10", "Stints": [], "Line": 5}, "11": {"RacingNumber": "11", "Stints": [], "Line": 6}, "12": {"RacingNumber": "12", "Stints": [], "Line": 7}, "14": {"RacingNumber": "14", "Stints": [], "Line": 8}, "16": {"RacingNumber": "16", "Stints": [], "Line": 9}, "18": {"RacingNumber": "18", "Stints": [], "Line": 10}, "23": {"RacingNumber": "23", "Stints": [], "Line": 11}, "27": {"RacingNumber": "27", "Stints": [], "Line": 12}, "3": {"RacingNumber": "3", "Stints": [], "Line": 2}, "30": {"RacingNumber": "30", "Stints": [], "Line": 13}, "31": {"RacingNumber": "31", "Stints": [], "Line": 14}, "41": {"RacingNumber": "41", "Stints": [], "Line": 15}, "43": {"RacingNumber": "43", "Stints": [], "Line": 16}, "44": {"RacingNumber": "44", "Stints": [], "Line": 17}, "5": {"RacingNumber": "5", "Stints": [], "Line": 3}, "55": {"RacingNumber": "55", "Stints": [], "Line": 18}, "6": {"RacingNumber": "6", "Stints": [], "Line": 4}, "63": {"RacingNumber": "63", "Stints": [], "Line": 19}, "77": {"RacingNumber": "77", "Stints": [], "Line": 20}, "81": {"RacingNumber": "81", "Stints": [], "Line": 21}, "87": {"RacingNumber": "87", "Stints": [], "Line": 22}}, "_kf": true}}
+{"ts": 1782486005.3779368, "topic": "TimingAppData", "data": {"Lines": {"1": {"RacingNumber": "1", "Stints": [], "Line": 1}, "10": {"RacingNumber": "10", "Stints": [], "Line": 5}, "11": {"RacingNumber": "11", "Stints": [], "Line": 6}, "12": {"RacingNumber": "12", "Stints": [], "Line": 7}, "14": {"RacingNumber": "14", "Stints": [], "Line": 8}, "16": {"RacingNumber": "16", "Stints": [], "Line": 9}, "18": {"RacingNumber": "18", "Stints": [], "Line": 10}, "23": {"RacingNumber": "23", "Stints": [], "Line": 11}, "27": {"RacingNumber": "27", "Stints": [], "Line": 12}, "3": {"RacingNumber": "3", "Stints": [], "Line": 2}, "30": {"RacingNumber": "30", "Stints": [], "Line": 13}, "31": {"RacingNumber": "31", "Stints": [], "Line": 14}, "41": {"RacingNumber": "41", "Stints": [], "Line": 15}, "43": {"RacingNumber": "43", "Stints": [], "Line": 16}, "44": {"RacingNumber": "44", "Stints": [], "Line": 17}, "5": {"RacingNumber": "5", "Stints": [], "Line": 3}, "55": {"RacingNumber": "55", "Stints": [], "Line": 18}, "6": {"RacingNumber": "6", "Stints": [], "Line": 4}, "63": {"RacingNumber": "63", "Stints": [], "Line": 19}, "77": {"RacingNumber": "77", "Stints": [], "Line": 20}, "81": {"RacingNumber": "81", "Stints": [], "Line": 21}, "87": {"RacingNumber": "87", "Stints": [], "Line": 22}}, "_kf": true}}
+{"ts": 1782486006.6362524, "topic": "TimingAppData", "data": {"Lines": {"1": {"Line": 2}, "10": {"Line": 6}, "11": {"Line": 7}, "12": {"Line": 8}, "14": {"Line": 9}, "16": {"Line": 10}, "18": {"Line": 11}, "23": {"Line": 12}, "27": {"Line": 1}, "3": {"Line": 3}, "5": {"Line": 4}, "6": {"Line": 5}}}}
+{"ts": 1782486006.8251796, "topic": "TimingAppData", "data": {"Lines": {"27": {"Stints": {"0": {"LapFlags": 0, "Compound": "UNKNOWN", "New": "false", "TyresNotChanged": "0", "TotalLaps": 0, "StartLaps": 0}}}}}}
+{"ts": 1782486011.8457854, "topic": "TimingAppData", "data": {"Lines": {"27": {"Stints": {"0": {"Compound": "HARD", "New": "true"}}}}}}
+{"ts": 1782486014.0505702, "topic": "TimingAppData", "data": {"Lines": {"1": {"Line": 3}, "3": {"Line": 4}, "5": {"Line": 2}}}}
+{"ts": 1782486016.8468995, "topic": "TimingAppData", "data": {"Lines": {"5": {"Stints": {"0": {"LapFlags": 0, "Compound": "HARD", "New": "true", "TyresNotChanged": "0", "TotalLaps": 0, "StartLaps": 0}}}}}}
+{"ts": 1782486032.2599132, "topic": "TimingAppData", "data": {"Lines": {"1": {"Line": 4}, "10": {"Line": 7}, "11": {"Line": 8}, "12": {"Line": 9}, "14": {"Line": 10}, "16": {"Line": 11}, "18": {"Line": 12}, "23": {"Line": 13}, "3": {"Line": 5}, "30": {"Line": 14}, "31": {"Line": 15}, "41": {"Line": 16}, "43": {"Line": 3}, "6": {"Line": 6}}}}
+{"ts": 1782486036.8351872, "topic": "TimingAppData", "data": {"Lines": {"43": {"Stints": {"0": {"LapFlags": 0, "Compound": "HARD", "New": "true", "TyresNotChanged": "0", "TotalLaps": 0, "StartLaps": 0}}}}}}
+{"ts": 1782486038.8391695, "topic": "TimingAppData", "data": {"Lines": {"1": {"Line": 5}, "10": {"Line": 4}, "3": {"Line": 6}, "6": {"Line": 7}}}}
+{"ts": 1782486041.5772245, "topic": "TimingAppData", "data": {"Lines": {"1": {"Line": 6}, "11": {"Line": 9}, "12": {"Line": 10}, "14": {"Line": 11}, "16": {"Line": 12}, "18": {"Line": 13}, "23": {"Line": 14}, "3": {"Line": 7}, "30": {"Line": 5}, "6": {"Line": 8}}}}
+{"ts": 1782486041.8663187, "topic": "TimingAppData", "data": {"Lines": {"10": {"Stints": {"0": {"LapFlags": 0, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 0, "StartLaps": 0}}}, "30": {"Stints": {"0": {"LapFlags": 0, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 0, "StartLaps": 0}}}}}}
+{"ts": 1782486048.9085324, "topic": "TimingAppData", "data": {"Lines": {"1": {"Line": 7}, "11": {"Line": 10}, "12": {"Line": 11}, "14": {"Line": 12}, "16": {"Line": 13}, "18": {"Line": 14}, "23": {"Line": 15}, "3": {"Line": 8}, "31": {"Line": 16}, "41": {"Line": 17}, "44": {"Line": 6}, "6": {"Line": 9}}}}
+{"ts": 1782486051.8700402, "topic": "TimingAppData", "data": {"Lines": {"44": {"Stints": {"0": {"LapFlags": 0, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 0, "StartLaps": 0}}}}}}
+{"ts": 1782486055.5521436, "topic": "TimingAppData", "data": {"Lines": {"1": {"Line": 8}, "11": {"Line": 11}, "12": {"Line": 12}, "14": {"Line": 13}, "16": {"Line": 14}, "18": {"Line": 15}, "23": {"Line": 16}, "3": {"Line": 9}, "31": {"Line": 17}, "41": {"Line": 18}, "55": {"Line": 7}, "6": {"Line": 10}}}}
+{"ts": 1782486056.8685575, "topic": "TimingAppData", "data": {"Lines": {"55": {"Stints": {"0": {"LapFlags": 0, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 0, "StartLaps": 0}}}}}}
+{"ts": 1782486068.6712627, "topic": "TimingAppData", "data": {"Lines": {"1": {"Line": 9}, "11": {"Line": 12}, "12": {"Line": 13}, "14": {"Line": 14}, "16": {"Line": 15}, "18": {"Line": 16}, "23": {"Line": 8}, "3": {"Line": 10}, "6": {"Line": 11}}}}
+{"ts": 1782486071.8749936, "topic": "TimingAppData", "data": {"Lines": {"23": {"Stints": {"0": {"LapFlags": 0, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 0, "StartLaps": 0}}}}}}
+{"ts": 1782486074.8419363, "topic": "TimingAppData", "data": {"Lines": {"1": {"Line": 10}, "3": {"Line": 11}, "6": {"Line": 9}}}}
+{"ts": 1782486076.8821065, "topic": "TimingAppData", "data": {"Lines": {"6": {"Stints": {"0": {"LapFlags": 0, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 0, "StartLaps": 0}}}}}}
+{"ts": 1782486091.9003694, "topic": "TimingAppData", "data": {"Lines": {"27": {"Stints": {"0": {"TotalLaps": 1}}}}}}
+{"ts": 1782486093.3038092, "topic": "TimingAppData", "data": {"Lines": {"1": {"Line": 11}, "3": {"Line": 10}}}}
+{"ts": 1782486094.8721814, "topic": "TimingAppData", "data": {"Lines": {"1": {"Line": 12}, "11": {"Line": 13}, "12": {"Line": 14}, "14": {"Line": 15}, "16": {"Line": 16}, "18": {"Line": 17}, "31": {"Line": 18}, "41": {"Line": 19}, "63": {"Line": 20}, "77": {"Line": 11}}}}
+{"ts": 1782486096.9242773, "topic": "TimingAppData", "data": {"Lines": {"3": {"Stints": {"0": {"LapFlags": 0, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 0, "StartLaps": 0}}}, "77": {"Stints": {"0": {"LapFlags": 0, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 0, "StartLaps": 0}}}}}}
+{"ts": 1782486098.242549, "topic": "TimingAppData", "data": {"Lines": {"1": {"Line": 13}, "11": {"Line": 14}, "12": {"Line": 15}, "14": {"Line": 16}, "16": {"Line": 17}, "18": {"Line": 18}, "31": {"Line": 12}}}}
+{"ts": 1782486101.2647026, "topic": "TimingAppData", "data": {"Lines": {"1": {"Line": 14}, "11": {"Line": 15}, "12": {"Line": 16}, "14": {"Line": 13}}}}
+{"ts": 1782486101.9321914, "topic": "TimingAppData", "data": {"Lines": {"14": {"Stints": {"0": {"LapFlags": 0, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 0, "StartLaps": 0}}}, "31": {"Stints": {"0": {"LapFlags": 0, "Compound": "HARD", "New": "true", "TyresNotChanged": "0", "TotalLaps": 0, "StartLaps": 0}}}, "5": {"Stints": {"0": {"TotalLaps": 1}}}}}}
+{"ts": 1782486110.009401, "topic": "TimingAppData", "data": {"Lines": {"1": {"Line": 15}, "11": {"Line": 16}, "12": {"Line": 17}, "16": {"Line": 18}, "18": {"Line": 19}, "41": {"Line": 20}, "63": {"Line": 21}, "81": {"Line": 22}, "87": {"Line": 14}}}}
+{"ts": 1782486111.949594, "topic": "TimingAppData", "data": {"Lines": {"87": {"Stints": {"0": {"LapFlags": 0, "Compound": "HARD", "New": "true", "TyresNotChanged": "0", "TotalLaps": 0, "StartLaps": 0}}}}}}
+{"ts": 1782486123.5489793, "topic": "TimingAppData", "data": {"Lines": {"1": {"Line": 16}, "11": {"Line": 17}, "12": {"Line": 15}}}}
+{"ts": 1782486126.958661, "topic": "TimingAppData", "data": {"Lines": {"12": {"Stints": {"0": {"LapFlags": 0, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 0, "StartLaps": 0}}}}}}
+{"ts": 1782486131.973136, "topic": "TimingAppData", "data": {"Lines": {"1": {"Stints": {"0": {"LapFlags": 0, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 0, "StartLaps": 0}}}, "43": {"Stints": {"0": {"TotalLaps": 1}}}}}}
+{"ts": 1782486132.1900647, "topic": "TimingAppData", "data": {"Lines": {"11": {"Line": 18}, "16": {"Line": 19}, "18": {"Line": 20}, "41": {"Line": 21}, "63": {"Line": 22}, "81": {"Line": 17}}}}
+{"ts": 1782486136.9662814, "topic": "TimingAppData", "data": {"Lines": {"10": {"Stints": {"0": {"TotalLaps": 1}}}, "81": {"Stints": {"0": {"LapFlags": 0, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 0, "StartLaps": 0}}}}}}
+{"ts": 1782486141.9602888, "topic": "TimingAppData", "data": {"Lines": {"30": {"Stints": {"0": {"TotalLaps": 1}}}}}}
+{"ts": 1782486146.9421947, "topic": "TimingAppData", "data": {"Lines": {"44": {"Stints": {"0": {"TotalLaps": 1}}}}}}
+{"ts": 1782486156.9510634, "topic": "TimingAppData", "data": {"Lines": {"55": {"Stints": {"0": {"TotalLaps": 1}}}}}}
+{"ts": 1782486169.90174, "topic": "TimingAppData", "data": {"Lines": {"27": {"Line": 2}, "5": {"Line": 1}}}}
+{"ts": 1782486171.9674652, "topic": "TimingAppData", "data": {"Lines": {"23": {"Stints": {"0": {"TotalLaps": 1}}}, "5": {"Stints": {"0": {"TotalLaps": 2}}}}}}
+{"ts": 1782486171.9888828, "topic": "TimingAppData", "data": {"Lines": {"5": {"Stints": {"0": {"LapTime": "1:10.927", "LapNumber": 3, "LapFlags": 3}}}}}}
+{"ts": 1782486176.969648, "topic": "TimingAppData", "data": {"Lines": {"27": {"Stints": {"0": {"TotalLaps": 2}}}}}}
+{"ts": 1782486177.0329564, "topic": "TimingAppData", "data": {"Lines": {"27": {"Stints": {"0": {"LapTime": "1:25.670", "LapNumber": 3, "LapFlags": 1}}}}}}
+{"ts": 1782486186.9578855, "topic": "TimingAppData", "data": {"Lines": {"6": {"Stints": {"0": {"TotalLaps": 1}}}}}}
+{"ts": 1782486191.976029, "topic": "TimingAppData", "data": {"Lines": {"3": {"Stints": {"0": {"TotalLaps": 1}}}}}}
+{"ts": 1782486194.5978427, "topic": "TimingAppData", "data": {"Lines": {"11": {"Line": 19}, "16": {"Line": 18}}}}
+{"ts": 1782486196.9864318, "topic": "TimingAppData", "data": {"Lines": {"16": {"Stints": {"0": {"LapFlags": 0, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 0, "StartLaps": 0}}}, "77": {"Stints": {"0": {"TotalLaps": 1}}}}}}
+{"ts": 1782486199.0078328, "topic": "TimingAppData", "data": {"Lines": {"27": {"Line": 3}, "43": {"Line": 1}, "5": {"Line": 2}}}}
+{"ts": 1782486201.9817896, "topic": "TimingAppData", "data": {"Lines": {"14": {"Stints": {"0": {"TotalLaps": 1}}}, "31": {"Stints": {"0": {"TotalLaps": 1}}}, "43": {"Stints": {"0": {"TotalLaps": 2}}}}}}
+{"ts": 1782486202.181771, "topic": "TimingAppData", "data": {"Lines": {"43": {"Stints": {"0": {"LapTime": "1:10.898", "LapNumber": 3, "LapFlags": 3}}}, "5": {"Stints": {"0": {"LapFlags": 1}}}}}}
+{"ts": 1782486203.7494774, "topic": "TimingAppData", "data": {"Lines": {"10": {"Line": 1}, "27": {"Line": 4}, "43": {"Line": 2}, "5": {"Line": 3}}}}
+{"ts": 1782486205.227892, "topic": "TimingAppData", "data": {"Lines": {"11": {"Line": 20}, "18": {"Line": 19}}}}
+{"ts": 1782486206.9789245, "topic": "TimingAppData", "data": {"Lines": {"10": {"Stints": {"0": {"TotalLaps": 2}}}, "18": {"Stints": {"0": {"LapFlags": 0, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 0, "StartLaps": 0}}}}}}
+{"ts": 1782486207.0391493, "topic": "TimingAppData", "data": {"Lines": {"10": {"Stints": {"0": {"LapTime": "1:10.746", "LapNumber": 3, "LapFlags": 3}}}, "43": {"Stints": {"0": {"LapFlags": 1}}}}}}
+{"ts": 1782486209.781287, "topic": "TimingAppData", "data": {"Lines": {"27": {"Line": 5}, "30": {"Line": 2}, "43": {"Line": 3}, "5": {"Line": 4}}}}
+{"ts": 1782486211.9813569, "topic": "TimingAppData", "data": {"Lines": {"30": {"Stints": {"0": {"TotalLaps": 2}}}, "87": {"Stints": {"0": {"TotalLaps": 1}}}}}}
+{"ts": 1782486212.029477, "topic": "TimingAppData", "data": {"Lines": {"30": {"Stints": {"0": {"LapTime": "1:10.851", "LapNumber": 3, "LapFlags": 1}}}}}}
+{"ts": 1782486221.975186, "topic": "TimingAppData", "data": {"Lines": {"12": {"Stints": {"0": {"TotalLaps": 1}}}}}}
+{"ts": 1782486224.4424486, "topic": "TimingAppData", "data": {"Lines": {"27": {"Line": 6}, "44": {"Line": 7}, "55": {"Line": 5}}}}
+{"ts": 1782486226.972544, "topic": "TimingAppData", "data": {"Lines": {"55": {"Stints": {"0": {"TotalLaps": 2}}}}}}
+{"ts": 1782486227.2670064, "topic": "TimingAppData", "data": {"Lines": {"55": {"Stints": {"0": {"LapTime": "1:11.296", "LapNumber": 3, "LapFlags": 1}}}}}}
+{"ts": 1782486231.981875, "topic": "TimingAppData", "data": {"Lines": {"1": {"Stints": {"0": {"TotalLaps": 1}}}}}}
+{"ts": 1782486236.9658148, "topic": "TimingAppData", "data": {"Lines": {"81": {"Stints": {"0": {"TotalLaps": 1}}}}}}
+{"ts": 1782486239.567647, "topic": "TimingAppData", "data": {"Lines": {"27": {"Line": 7}, "44": {"Line": 6}}}}
+{"ts": 1782486241.970686, "topic": "TimingAppData", "data": {"Lines": {"44": {"Stints": {"0": {"TotalLaps": 2}}}}}}
+{"ts": 1782486242.2329261, "topic": "TimingAppData", "data": {"Lines": {"44": {"Stints": {"0": {"LapTime": "1:33.286", "LapNumber": 3, "LapFlags": 1}}}}}}
+{"ts": 1782486246.7000804, "topic": "TimingAppData", "data": {"Lines": {"27": {"Line": 5, "Stints": {"0": {"LapTime": "1:11.178", "LapNumber": 4}}}, "44": {"Line": 7}, "55": {"Line": 6}}}}
+{"ts": 1782486246.971781, "topic": "TimingAppData", "data": {"Lines": {"27": {"Stints": {"0": {"TotalLaps": 3}}}}}}
+{"ts": 1782486252.4667127, "topic": "TimingAppData", "data": {"Lines": {"10": {"Line": 2}, "23": {"Line": 9}, "27": {"Line": 6}, "30": {"Line": 3}, "43": {"Line": 4}, "44": {"Line": 8}, "5": {"Line": 5}, "55": {"Line": 7}, "6": {"Line": 1}}}}
+{"ts": 1782486256.9753804, "topic": "TimingAppData", "data": {"Lines": {"6": {"Stints": {"0": {"TotalLaps": 2}}}}}}
+{"ts": 1782486257.2124453, "topic": "TimingAppData", "data": {"Lines": {"10": {"Stints": {"0": {"LapFlags": 1}}}, "6": {"Stints": {"0": {"LapTime": "1:09.135", "LapNumber": 3, "LapFlags": 3}}}}}}
+{"ts": 1782486259.1820838, "topic": "TimingAppData", "data": {"Lines": {"10": {"Line": 3}, "23": {"Line": 10}, "27": {"Line": 7}, "3": {"Line": 2}, "30": {"Line": 4}, "43": {"Line": 5}, "44": {"Line": 9}, "5": {"Line": 6}, "55": {"Line": 8}}}}
+{"ts": 1782486262.0319648, "topic": "TimingAppData", "data": {"Lines": {"3": {"Stints": {"0": {"TotalLaps": 2}}}, "5": {"Stints": {"0": {"TotalLaps": 3}}}}}}
+{"ts": 1782486262.0319648, "topic": "TimingAppData", "data": {"Lines": {"3": {"Stints": {"0": {"LapTime": "1:09.272", "LapNumber": 3, "LapFlags": 1}}}}}}
+{"ts": 1782486263.8170319, "topic": "TimingAppData", "data": {"Lines": {"23": {"Line": 11}, "44": {"Line": 10}, "77": {"Line": 9}}}}
+{"ts": 1782486266.972935, "topic": "TimingAppData", "data": {"Lines": {"77": {"Stints": {"0": {"TotalLaps": 2}}}}}}
+{"ts": 1782486267.1652977, "topic": "TimingAppData", "data": {"Lines": {"77": {"Stints": {"0": {"LapTime": "1:11.307", "LapNumber": 3, "LapFlags": 1}}}}}}
+{"ts": 1782486273.3226068, "topic": "TimingAppData", "data": {"Lines": {"23": {"Line": 12}, "31": {"Line": 10}, "44": {"Line": 11}}}}
+{"ts": 1782486277.0041924, "topic": "TimingAppData", "data": {"Lines": {"31": {"Stints": {"0": {"TotalLaps": 2}}}}}}
+{"ts": 1782486277.3963666, "topic": "TimingAppData", "data": {"Lines": {"31": {"Stints": {"0": {"LapTime": "1:11.919", "LapNumber": 3, "LapFlags": 1}}}}}}
+{"ts": 1782486281.3991773, "topic": "TimingAppData", "data": {"Lines": {"10": {"Line": 4}, "14": {"Line": 14}, "23": {"Line": 13}, "27": {"Line": 8}, "30": {"Line": 5}, "31": {"Line": 11}, "43": {"Line": 6}, "44": {"Line": 12}, "5": {"Line": 7}, "55": {"Line": 9}, "77": {"Line": 10}, "87": {"Line": 3}}}}
+{"ts": 1782486281.975633, "topic": "TimingAppData", "data": {"Lines": {"87": {"Stints": {"0": {"TotalLaps": 2}}}}}}
+{"ts": 1782486282.3547544, "topic": "TimingAppData", "data": {"Lines": {"87": {"Stints": {"0": {"LapTime": "1:10.095", "LapNumber": 3, "LapFlags": 1}}}}}}
+{"ts": 1782486286.0945897, "topic": "TimingAppData", "data": {"Lines": {"12": {"Line": 1}, "3": {"Line": 3}, "6": {"Line": 2}, "87": {"Line": 15}}}}
+{"ts": 1782486286.1604025, "topic": "TimingAppData", "data": {"Lines": {"10": {"Line": 5}, "14": {"Line": 15}, "23": {"Line": 14}, "27": {"Line": 9}, "30": {"Line": 6}, "31": {"Line": 12}, "43": {"Line": 7}, "44": {"Line": 13}, "5": {"Line": 8}, "55": {"Line": 10}, "77": {"Line": 11}, "87": {"Line": 4}}}}
+{"ts": 1782486286.9861178, "topic": "TimingAppData", "data": {"Lines": {"12": {"Stints": {"0": {"TotalLaps": 2}}}, "16": {"Stints": {"0": {"TotalLaps": 1}}}}}}
+{"ts": 1782486287.3135023, "topic": "TimingAppData", "data": {"Lines": {"12": {"Stints": {"0": {"LapTime": "1:08.342", "LapNumber": 3, "LapFlags": 3}}}, "6": {"Stints": {"0": {"LapFlags": 1}}}}}}
+{"ts": 1782486292.2181103, "topic": "TimingAppData", "data": {"Lines": {"14": {"Line": 14}, "23": {"Line": 15}}}}
+{"ts": 1782486295.5289733, "topic": "TimingAppData", "data": {"Lines": {"1": {"Line": 1}, "10": {"Line": 6}, "12": {"Line": 2}, "14": {"Line": 15}, "23": {"Line": 16}, "27": {"Line": 10}, "3": {"Line": 4}, "30": {"Line": 7}, "31": {"Line": 13}, "43": {"Line": 8}, "44": {"Line": 14}, "5": {"Line": 9}, "55": {"Line": 11}, "6": {"Line": 3}, "77": {"Line": 12}, "87": {"Line": 5}}}}
+{"ts": 1782486296.9718225, "topic": "TimingAppData", "data": {"Lines": {"1": {"Stints": {"0": {"TotalLaps": 2}}}, "14": {"Stints": {"0": {"TotalLaps": 2}}}}}}
+{"ts": 1782486297.344584, "topic": "TimingAppData", "data": {"Lines": {"1": {"Stints": {"0": {"LapTime": "1:08.000", "LapNumber": 3, "LapFlags": 3}}}, "12": {"Stints": {"0": {"LapFlags": 1}}}, "14": {"Stints": {"0": {"LapTime": "1:35.141", "LapNumber": 3, "LapFlags": 1}}}}}}
+{"ts": 1782486301.9777892, "topic": "TimingAppData", "data": {"Lines": {"18": {"Stints": {"0": {"TotalLaps": 1}}}}}}
+{"ts": 1782486303.292987, "topic": "TimingAppData", "data": {"Lines": {"10": {"Line": 7}, "12": {"Line": 3}, "14": {"Line": 16}, "23": {"Line": 17}, "27": {"Line": 11}, "3": {"Line": 5}, "30": {"Line": 8}, "31": {"Line": 14}, "43": {"Line": 9}, "44": {"Line": 15}, "5": {"Line": 10}, "55": {"Line": 12}, "6": {"Line": 4}, "77": {"Line": 13}, "81": {"Line": 2}, "87": {"Line": 6}}}}
+{"ts": 1782486306.9594564, "topic": "TimingAppData", "data": {"Lines": {"81": {"Stints": {"0": {"TotalLaps": 2}}}}}}
+{"ts": 1782486306.996422, "topic": "TimingAppData", "data": {"Lines": {"81": {"Stints": {"0": {"LapTime": "1:08.249", "LapNumber": 3, "LapFlags": 1}}}}}}
+{"ts": 1782486308.6252716, "topic": "TimingAppData", "data": {"Lines": {"10": {"Line": 8}, "27": {"Line": 12}, "3": {"Line": 6}, "30": {"Line": 9}, "31": {"Line": 15}, "43": {"Line": 10}, "44": {"Line": 4, "Stints": {"0": {"LapTime": "1:08.950", "LapNumber": 4}}}, "5": {"Line": 11}, "55": {"Line": 13}, "6": {"Line": 5}, "77": {"Line": 14}, "87": {"Line": 7}}}}
+{"ts": 1782486311.9778721, "topic": "TimingAppData", "data": {"Lines": {"44": {"Stints": {"0": {"TotalLaps": 3}}}}}}
+{"ts": 1782486320.6971304, "topic": "TimingAppData", "data": {"Lines": {"1": {"RacingNumber": "1", "Stints": [{"LapFlags": 3, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 2, "StartLaps": 0, "LapTime": "1:08.000", "LapNumber": 3}], "Line": 1}, "10": {"RacingNumber": "10", "Stints": [{"LapFlags": 1, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 2, "StartLaps": 0, "LapTime": "1:10.746", "LapNumber": 3}], "Line": 8}, "11": {"RacingNumber": "11", "Stints": [{"LapFlags": 0, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 0, "StartLaps": 0}], "Line": 20}, "12": {"RacingNumber": "12", "Stints": [{"LapFlags": 1, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 2, "StartLaps": 0, "LapTime": "1:08.342", "LapNumber": 3}], "Line": 3}, "14": {"RacingNumber": "14", "Stints": [{"LapFlags": 1, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 2, "StartLaps": 0, "LapTime": "1:35.141", "LapNumber": 3}], "Line": 16}, "16": {"RacingNumber": "16", "Stints": [{"LapFlags": 0, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 1, "StartLaps": 0}], "Line": 18}, "18": {"RacingNumber": "18", "Stints": [{"LapFlags": 0, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 1, "StartLaps": 0}], "Line": 19}, "23": {"RacingNumber": "23", "Stints": [{"LapFlags": 0, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 1, "StartLaps": 0}], "Line": 17}, "27": {"RacingNumber": "27", "Stints": [{"LapFlags": 1, "Compound": "HARD", "New": "true", "TyresNotChanged": "0", "TotalLaps": 3, "StartLaps": 0, "LapTime": "1:11.178", "LapNumber": 4}], "Line": 12}, "3": {"RacingNumber": "3", "Stints": [{"LapFlags": 1, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 2, "StartLaps": 0, "LapTime": "1:09.272", "LapNumber": 3}], "Line": 6}, "30": {"RacingNumber": "30", "Stints": [{"LapFlags": 1, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 2, "StartLaps": 0, "LapTime": "1:10.851", "LapNumber": 3}], "Line": 9}, "31": {"RacingNumber": "31", "Stints": [{"LapFlags": 1, "Compound": "HARD", "New": "true", "TyresNotChanged": "0", "TotalLaps": 2, "StartLaps": 0, "LapTime": "1:11.919", "LapNumber": 3}], "Line": 15}, "41": {"RacingNumber": "41", "Stints": [], "Line": 21}, "43": {"RacingNumber": "43", "Stints": [{"LapFlags": 1, "Compound": "HARD", "New": "true", "TyresNotChanged": "0", "TotalLaps": 2, "StartLaps": 0, "LapTime": "1:10.898", "LapNumber": 3}], "Line": 10}, "44": {"RacingNumber": "44", "Stints": [{"LapFlags": 1, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 3, "StartLaps": 0, "LapTime": "1:08.950", "LapNumber": 4}], "Line": 4}, "5": {"RacingNumber": "5", "Stints": [{"LapFlags": 1, "Compound": "HARD", "New": "true", "TyresNotChanged": "0", "TotalLaps": 3, "StartLaps": 0, "LapTime": "1:10.927", "LapNumber": 3}], "Line": 11}, "55": {"RacingNumber": "55", "Stints": [{"LapFlags": 1, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 2, "StartLaps": 0, "LapTime": "1:11.296", "LapNumber": 3}], "Line": 13}, "6": {"RacingNumber": "6", "Stints": [{"LapFlags": 1, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 2, "StartLaps": 0, "LapTime": "1:09.135", "LapNumber": 3}], "Line": 5}, "63": {"RacingNumber": "63", "Stints": [], "Line": 22}, "77": {"RacingNumber": "77", "Stints": [{"LapFlags": 1, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 2, "StartLaps": 0, "LapTime": "1:11.307", "LapNumber": 3}], "Line": 14}, "81": {"RacingNumber": "81", "Stints": [{"LapFlags": 1, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 2, "StartLaps": 0, "LapTime": "1:08.249", "LapNumber": 3}], "Line": 2}, "87": {"RacingNumber": "87", "Stints": [{"LapFlags": 1, "Compound": "HARD", "New": "true", "TyresNotChanged": "0", "TotalLaps": 2, "StartLaps": 0, "LapTime": "1:10.095", "LapNumber": 3}], "Line": 7}}, "_kf": true}}
+{"ts": 1782486321.9935226, "topic": "TimingAppData", "data": {"Lines": {"10": {"Stints": {"0": {"TotalLaps": 3}}}, "43": {"Stints": {"0": {"TotalLaps": 3}}}}}}
+{"ts": 1782486326.9737148, "topic": "TimingAppData", "data": {"Lines": {"30": {"Stints": {"0": {"TotalLaps": 3}}}}}}
+{"ts": 1782486330.689908, "topic": "TimingAppData", "data": {"Lines": {"10": {"Line": 9}, "30": {"Line": 10}, "43": {"Line": 11}, "5": {"Line": 8, "Stints": {"0": {"LapTime": "1:10.198", "LapNumber": 5}}}}}}
+{"ts": 1782486331.9868886, "topic": "TimingAppData", "data": {"Lines": {"5": {"Stints": {"0": {"TotalLaps": 4}}}}}}
+{"ts": 1782486336.972666, "topic": "TimingAppData", "data": {"Lines": {"55": {"Stints": {"0": {"TotalLaps": 3}}}}}}
+{"ts": 1782486351.9890673, "topic": "TimingAppData", "data": {"Lines": {"27": {"Stints": {"0": {"TotalLaps": 4}}}}}}
+{"ts": 1782486354.7869303, "topic": "TimingAppData", "data": {"Lines": {"10": {"Line": 10}, "14": {"Line": 18}, "16": {"Line": 9}, "27": {"Line": 13}, "30": {"Line": 11}, "31": {"Line": 16}, "43": {"Line": 12}, "55": {"Line": 14}, "77": {"Line": 15}}}}
+{"ts": 1782486357.585513, "topic": "TimingAppData", "data": {"Lines": {"16": {"Stints": {"0": {"TotalLaps": 2}}}}}}
+{"ts": 1782486357.585513, "topic": "TimingAppData", "data": {"Lines": {"16": {"Stints": {"0": {"LapTime": "1:10.259", "LapNumber": 3, "LapFlags": 1}}}}}}
+{"ts": 1782486365.4024832, "topic": "TimingAppData", "data": {"Lines": {"14": {"Line": 17, "Stints": {"0": {"LapTime": "1:12.411", "LapNumber": 4}}}, "23": {"Line": 18}}}}
+{"ts": 1782486366.9853783, "topic": "TimingAppData", "data": {"Lines": {"14": {"Stints": {"0": {"TotalLaps": 3}}}}}}
+{"ts": 1782486371.9518914, "topic": "TimingAppData", "data": {"Lines": {"18": {"Line": 18}, "23": {"Line": 19}}}}
+{"ts": 1782486372.0335946, "topic": "TimingAppData", "data": {"Lines": {"18": {"Stints": {"0": {"TotalLaps": 2}}}}}}
+{"ts": 1782486372.0518217, "topic": "TimingAppData", "data": {"Lines": {"18": {"Stints": {"0": {"LapTime": "1:12.747", "LapNumber": 3, "LapFlags": 1}}}}}}
+{"ts": 1782486382.0213528, "topic": "TimingAppData", "data": {"Lines": {"6": {"Stints": {"0": {"TotalLaps": 3}}}}}}
+{"ts": 1782486386.9896436, "topic": "TimingAppData", "data": {"Lines": {"3": {"Stints": {"0": {"TotalLaps": 3}}}, "31": {"Stints": {"0": {"TotalLaps": 3}}}}}}
+{"ts": 1782486392.726847, "topic": "TimingAppData", "data": {"Lines": {"77": {"Stints": {"0": {"TotalLaps": 3}}}}}}
+{"ts": 1782486397.5725107, "topic": "TimingAppData", "data": {"Lines": {"12": {"Stints": {"0": {"TotalLaps": 3}}}}}}
+{"ts": 1782486402.397431, "topic": "TimingAppData", "data": {"Lines": {"23": {"Stints": {"1": {"LapFlags": 0, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 1, "StartLaps": 1}}}}}}
+{"ts": 1782486407.2360861, "topic": "TimingAppData", "data": {"Lines": {"27": {"Line": 14}, "55": {"Line": 13, "Stints": {"0": {"LapTime": "1:10.977", "LapNumber": 5}}}}}}
+{"ts": 1782486407.2360861, "topic": "TimingAppData", "data": {"Lines": {"55": {"Stints": {"0": {"TotalLaps": 4}}}, "81": {"Stints": {"0": {"TotalLaps": 3}}}}}}
+{"ts": 1782486412.0676506, "topic": "TimingAppData", "data": {"Lines": {"6": {"Stints": {"1": {"LapFlags": 0, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 3, "StartLaps": 3}}}}}}
+{"ts": 1782486417.0143042, "topic": "TimingAppData", "data": {"Lines": {"10": {"Stints": {"0": {"TotalLaps": 4}}}, "11": {"Stints": {"0": {"TotalLaps": 1}}}}}}
+{"ts": 1782486422.0292645, "topic": "TimingAppData", "data": {"Lines": {"1": {"Stints": {"0": {"TotalLaps": 3}}}, "43": {"Stints": {"0": {"TotalLaps": 4}}}, "87": {"Stints": {"0": {"TotalLaps": 3}}}}}}
+{"ts": 1782486427.0138307, "topic": "TimingAppData", "data": {"Lines": {"30": {"Stints": {"0": {"TotalLaps": 4}}}}}}
+{"ts": 1782486432.0111024, "topic": "TimingAppData", "data": {"Lines": {"44": {"Stints": {"0": {"TotalLaps": 4}}}}}}
+{"ts": 1782486442.0267417, "topic": "TimingAppData", "data": {"Lines": {"5": {"Stints": {"0": {"TotalLaps": 5}}}}}}
+{"ts": 1782486453.4278076, "topic": "TimingAppData", "data": {"Lines": {"27": {"Stints": {"0": {"TotalLaps": 5}}}}}}
+{"ts": 1782486458.2875047, "topic": "TimingAppData", "data": {"Lines": {"12": {"Stints": {"1": {"LapFlags": 0, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 3, "StartLaps": 3}}}, "44": {"Stints": {"1": {"LapFlags": 0, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 4, "StartLaps": 4}}}}}}
+{"ts": 1782486463.2507212, "topic": "TimingAppData", "data": {"Lines": {"31": {"Stints": {"0": {"TotalLaps": 4}}}, "87": {"Stints": {"1": {"LapFlags": 0, "Compound": "HARD", "New": "false", "TyresNotChanged": "1", "TotalLaps": 3, "StartLaps": 3}}}}}}
+{"ts": 1782486468.19695, "topic": "TimingAppData", "data": {"Lines": {"16": {"Stints": {"0": {"TotalLaps": 3}}}}}}
+{"ts": 1782486473.1318455, "topic": "TimingAppData", "data": {"Lines": {"14": {"Stints": {"0": {"TotalLaps": 4}}}, "5": {"Stints": {"1": {"LapFlags": 0, "Compound": "UNKNOWN", "New": "false", "TyresNotChanged": "1", "TotalLaps": 0, "StartLaps": 0}}}}}}
+{"ts": 1782486477.999673, "topic": "TimingAppData", "data": {"Lines": {"5": {"Stints": {"1": {"Compound": "HARD", "TotalLaps": 5, "StartLaps": 5}}}}}}
+{"ts": 1782486482.8337612, "topic": "TimingAppData", "data": {"Lines": {"18": {"Stints": {"0": {"TotalLaps": 3}}}}}}
+{"ts": 1782486482.8337612, "topic": "TimingAppData", "data": {"Lines": {"10": {"Line": 7, "Stints": {"0": {"LapTime": "1:10.015", "LapNumber": 6}}}, "16": {"Line": 10}, "5": {"Line": 9}, "87": {"Line": 8}}}}
+{"ts": 1782486487.0298798, "topic": "TimingAppData", "data": {"Lines": {"10": {"Stints": {"0": {"TotalLaps": 5}}}}}}
+{"ts": 1782486490.7333238, "topic": "TimingAppData", "data": {"Lines": {"30": {"Line": 12}, "43": {"Line": 11, "Stints": {"0": {"LapTime": "1:10.262", "LapNumber": 6}}}}}}
+{"ts": 1782486492.0202835, "topic": "TimingAppData", "data": {"Lines": {"23": {"Stints": {"1": {"TotalLaps": 2}}}, "3": {"Stints": {"0": {"TotalLaps": 4}}}, "43": {"Stints": {"0": {"TotalLaps": 5}}}}}}
+{"ts": 1782486494.652847, "topic": "TimingAppData", "data": {"Lines": {"10": {"Line": 8}, "16": {"Line": 11}, "30": {"Line": 7, "Stints": {"0": {"LapTime": "1:09.505", "LapNumber": 6}}}, "43": {"Line": 12}, "5": {"Line": 10}, "87": {"Line": 9}}}}
+{"ts": 1782486497.0771873, "topic": "TimingAppData", "data": {"Lines": {"30": {"Stints": {"0": {"TotalLaps": 5}}}, "77": {"Stints": {"0": {"TotalLaps": 4}}}}}}
+{"ts": 1782486507.0318987, "topic": "TimingAppData", "data": {"Lines": {"81": {"Stints": {"0": {"TotalLaps": 4}}}}}}
+{"ts": 1782486517.0002282, "topic": "TimingAppData", "data": {"Lines": {"10": {"Line": 9}, "16": {"Line": 12}, "27": {"Line": 8, "Stints": {"0": {"LapTime": "1:09.807", "LapNumber": 7}}}, "43": {"Line": 13}, "5": {"Line": 11}, "55": {"Line": 14}, "87": {"Line": 10}}}}
+{"ts": 1782486517.375833, "topic": "TimingAppData", "data": {"Lines": {"27": {"Stints": {"0": {"TotalLaps": 6}}}}}}
+{"ts": 1782486522.461028, "topic": "TimingAppData", "data": {"Lines": {"55": {"Stints": {"0": {"TotalLaps": 5}}}, "6": {"Stints": {"1": {"TotalLaps": 4}}}}}}
+{"ts": 1782487560.6145508, "topic": "TimingAppData", "data": {"Lines": {"1": {"RacingNumber": "1", "Stints": [{"LapFlags": 3, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 6, "StartLaps": 0, "LapTime": "1:08.000", "LapNumber": 3}, {"LapFlags": 0, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 7, "StartLaps": 6}, {"LapFlags": 0, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 11, "StartLaps": 7, "LapTime": "1:27.316", "LapNumber": 10}], "Line": 1}, "10": {"RacingNumber": "10", "Stints": [{"LapFlags": 0, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 6, "StartLaps": 0, "LapTime": "1:10.015", "LapNumber": 6}, {"LapFlags": 1, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 11, "StartLaps": 6, "LapTime": "1:09.569", "LapNumber": 11}], "Line": 12}, "11": {"RacingNumber": "11", "Stints": [{"LapFlags": 0, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 1, "StartLaps": 0}], "Line": 22}, "12": {"RacingNumber": "12", "Stints": [{"LapFlags": 0, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 0, "StartLaps": 0, "LapTime": "1:08.342", "LapNumber": 3}, {"LapFlags": 0, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 3, "StartLaps": 3}, {"LapFlags": 1, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 4, "StartLaps": 4, "LapTime": "1:08.198", "LapNumber": 10}, {"LapFlags": 0, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 11, "StartLaps": 10}], "Line": 2}, "14": {"RacingNumber": "14", "Stints": [{"LapFlags": 0, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 5, "StartLaps": 0, "LapTime": "1:12.411", "LapNumber": 4}, {"LapFlags": 1, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 10, "StartLaps": 5, "LapTime": "1:12.074", "LapNumber": 11}], "Line": 21}, "16": {"RacingNumber": "16", "Stints": [{"LapFlags": 0, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 10, "StartLaps": 0, "LapTime": "1:09.320", "LapNumber": 10}, {"LapFlags": 1, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 14, "StartLaps": 10, "LapTime": "1:08.339", "LapNumber": 15}], "Line": 5}, "18": {"RacingNumber": "18", "Stints": [{"LapFlags": 0, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 5, "StartLaps": 0, "LapTime": "1:12.747", "LapNumber": 3}, {"LapFlags": 1, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 11, "StartLaps": 5, "LapTime": "1:11.915", "LapNumber": 12}], "Line": 20}, "23": {"RacingNumber": "23", "Stints": [{"LapFlags": 0, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 1, "StartLaps": 0}, {"LapFlags": 0, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 5, "StartLaps": 1, "LapTime": "1:52.023", "LapNumber": 4}, {"LapFlags": 1, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 10, "StartLaps": 5, "LapTime": "1:09.737", "LapNumber": 8}], "Line": 15}, "27": {"RacingNumber": "27", "Stints": [{"LapFlags": 0, "Compound": "HARD", "New": "true", "TyresNotChanged": "0", "TotalLaps": 7, "StartLaps": 0, "LapTime": "1:09.807", "LapNumber": 7}, {"LapFlags": 1, "Compound": "HARD", "New": "false", "TyresNotChanged": "1", "TotalLaps": 10, "StartLaps": 7, "LapTime": "1:09.586", "LapNumber": 10}], "Line": 13}, "3": {"RacingNumber": "3", "Stints": [{"LapFlags": 0, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 5, "StartLaps": 0, "LapTime": "1:09.272", "LapNumber": 3}, {"LapFlags": 1, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 8, "StartLaps": 5, "LapTime": "1:08.658", "LapNumber": 8}, {"LapFlags": 0, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 10, "StartLaps": 8, "LapTime": "1:47.757", "LapNumber": 11}], "Line": 6}, "30": {"RacingNumber": "30", "Stints": [{"LapFlags": 0, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 6, "StartLaps": 0, "LapTime": "1:09.505", "LapNumber": 6}, {"LapFlags": 1, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 12, "StartLaps": 6, "LapTime": "1:09.012", "LapNumber": 12}], "Line": 9}, "31": {"RacingNumber": "31", "Stints": [{"LapFlags": 1, "Compound": "HARD", "New": "true", "TyresNotChanged": "0", "TotalLaps": 13, "StartLaps": 0, "LapTime": "1:10.538", "LapNumber": 10}], "Line": 17}, "41": {"RacingNumber": "41", "Stints": [{"LapFlags": 1, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 6, "StartLaps": 0, "LapTime": "1:08.974", "LapNumber": 6}], "Line": 8}, "43": {"RacingNumber": "43", "Stints": [{"LapFlags": 1, "Compound": "HARD", "New": "true", "TyresNotChanged": "0", "TotalLaps": 6, "StartLaps": 0, "LapTime": "1:10.262", "LapNumber": 6}, {"LapFlags": 0, "Compound": "HARD", "New": "false", "TyresNotChanged": "1", "TotalLaps": 10, "StartLaps": 6, "LapTime": "1:20.799", "LapNumber": 10}], "Line": 16}, "44": {"RacingNumber": "44", "Stints": [{"LapFlags": 0, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 4, "StartLaps": 0, "LapTime": "1:08.950", "LapNumber": 4}, {"LapFlags": 1, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 13, "StartLaps": 4, "LapTime": "1:08.675", "LapNumber": 11}], "Line": 7}, "5": {"RacingNumber": "5", "Stints": [{"LapFlags": 0, "Compound": "HARD", "New": "true", "TyresNotChanged": "0", "TotalLaps": 5, "StartLaps": 0, "LapTime": "1:10.198", "LapNumber": 5}, {"LapFlags": 1, "Compound": "HARD", "New": "false", "TyresNotChanged": "1", "TotalLaps": 15, "StartLaps": 5, "LapTime": "1:09.640", "LapNumber": 11}], "Line": 14}, "55": {"RacingNumber": "55", "Stints": [{"LapFlags": 1, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 5, "StartLaps": 0, "LapTime": "1:10.977", "LapNumber": 5}, {"LapFlags": 0, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 6, "StartLaps": 5}, {"LapFlags": 0, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 11, "StartLaps": 6, "LapTime": "1:11.578", "LapNumber": 9}], "Line": 18}, "6": {"RacingNumber": "6", "Stints": [{"LapFlags": 1, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 3, "StartLaps": 0, "LapTime": "1:09.135", "LapNumber": 3}, {"LapFlags": 0, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 5, "StartLaps": 3, "LapTime": "2:05.577", "LapNumber": 6}, {"LapFlags": 0, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 10, "StartLaps": 5, "LapTime": "1:33.898", "LapNumber": 8}], "Line": 10}, "63": {"RacingNumber": "63", "Stints": [{"LapFlags": 1, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 6, "StartLaps": 0, "LapTime": "1:08.221", "LapNumber": 7}], "Line": 4}, "77": {"RacingNumber": "77", "Stints": [{"LapFlags": 1, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 5, "StartLaps": 0, "LapTime": "1:11.307", "LapNumber": 3}], "Line": 19}, "81": {"RacingNumber": "81", "Stints": [{"LapFlags": 0, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 7, "StartLaps": 0, "LapTime": "1:08.249", "LapNumber": 3}, {"LapFlags": 1, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 10, "StartLaps": 7, "LapTime": "1:08.214", "LapNumber": 10}], "Line": 3}, "87": {"RacingNumber": "87", "Stints": [{"LapFlags": 0, "Compound": "HARD", "New": "true", "TyresNotChanged": "0", "TotalLaps": 3, "StartLaps": 0, "LapTime": "1:10.095", "LapNumber": 3}, {"LapFlags": 1, "Compound": "HARD", "New": "false", "TyresNotChanged": "1", "TotalLaps": 11, "StartLaps": 3, "LapTime": "1:09.499", "LapNumber": 9}], "Line": 11}}, "_kf": true}}
+{"ts": 1782487560.8149304, "topic": "TimingAppData", "data": {"Lines": {"1": {"Line": 2}, "12": {"Line": 1}}}}
+{"ts": 1782487562.2169936, "topic": "TimingAppData", "data": {"Lines": {"12": {"Stints": {"3": {"TotalLaps": 12}}}}}}
+{"ts": 1782487562.5522492, "topic": "TimingAppData", "data": {"Lines": {"1": {"Stints": {"0": {"LapFlags": 1}}}, "12": {"Stints": {"2": {"LapFlags": 0}, "3": {"LapTime": "1:07.657", "LapNumber": 13, "LapFlags": 3}}}}}}
+{"ts": 1782487567.2308705, "topic": "TimingAppData", "data": {"Lines": {"14": {"Stints": {"1": {"TotalLaps": 11}}}, "77": {"Stints": {"1": {"LapFlags": 0, "Compound": "UNKNOWN", "New": "false", "TyresNotChanged": "1", "TotalLaps": 0, "StartLaps": 0}}}}}}
+{"ts": 1782487575.0817304, "topic": "TimingAppData", "data": {"Lines": {"30": {"Line": 10}, "41": {"Line": 9}, "6": {"Line": 8, "Stints": {"0": {"LapFlags": 0}, "2": {"LapTime": "1:08.772", "LapNumber": 12, "LapFlags": 1}}}}}}
+{"ts": 1782487601.0786116, "topic": "TimingAppData", "data": {"Lines": {"1": {"RacingNumber": "1", "Stints": [{"LapFlags": 1, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 6, "StartLaps": 0, "LapTime": "1:08.000", "LapNumber": 3}, {"LapFlags": 0, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 7, "StartLaps": 6}, {"LapFlags": 0, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 11, "StartLaps": 7, "LapTime": "1:27.316", "LapNumber": 10}], "Line": 2}, "10": {"RacingNumber": "10", "Stints": [{"LapFlags": 0, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 6, "StartLaps": 0, "LapTime": "1:10.015", "LapNumber": 6}, {"LapFlags": 1, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 11, "StartLaps": 6, "LapTime": "1:09.569", "LapNumber": 11}], "Line": 12}, "11": {"RacingNumber": "11", "Stints": [{"LapFlags": 0, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 1, "StartLaps": 0}], "Line": 22}, "12": {"RacingNumber": "12", "Stints": [{"LapFlags": 0, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 0, "StartLaps": 0, "LapTime": "1:08.342", "LapNumber": 3}, {"LapFlags": 0, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 3, "StartLaps": 3}, {"LapFlags": 0, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 4, "StartLaps": 4, "LapTime": "1:08.198", "LapNumber": 10}, {"LapFlags": 3, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 12, "StartLaps": 10, "LapTime": "1:07.657", "LapNumber": 13}], "Line": 1}, "14": {"RacingNumber": "14", "Stints": [{"LapFlags": 0, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 5, "StartLaps": 0, "LapTime": "1:12.411", "LapNumber": 4}, {"LapFlags": 1, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 11, "StartLaps": 5, "LapTime": "1:12.074", "LapNumber": 11}], "Line": 21}, "16": {"RacingNumber": "16", "Stints": [{"LapFlags": 0, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 10, "StartLaps": 0, "LapTime": "1:09.320", "LapNumber": 10}, {"LapFlags": 1, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 14, "StartLaps": 10, "LapTime": "1:08.339", "LapNumber": 15}], "Line": 5}, "18": {"RacingNumber": "18", "Stints": [{"LapFlags": 0, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 5, "StartLaps": 0, "LapTime": "1:12.747", "LapNumber": 3}, {"LapFlags": 1, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 12, "StartLaps": 5, "LapTime": "1:11.915", "LapNumber": 12}], "Line": 20}, "23": {"RacingNumber": "23", "Stints": [{"LapFlags": 0, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 1, "StartLaps": 0}, {"LapFlags": 0, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 5, "StartLaps": 1, "LapTime": "1:52.023", "LapNumber": 4}, {"LapFlags": 1, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 10, "StartLaps": 5, "LapTime": "1:09.737", "LapNumber": 8}], "Line": 15}, "27": {"RacingNumber": "27", "Stints": [{"LapFlags": 0, "Compound": "HARD", "New": "true", "TyresNotChanged": "0", "TotalLaps": 7, "StartLaps": 0, "LapTime": "1:09.807", "LapNumber": 7}, {"LapFlags": 1, "Compound": "HARD", "New": "false", "TyresNotChanged": "1", "TotalLaps": 10, "StartLaps": 7, "LapTime": "1:09.586", "LapNumber": 10}], "Line": 13}, "3": {"RacingNumber": "3", "Stints": [{"LapFlags": 0, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 5, "StartLaps": 0, "LapTime": "1:09.272", "LapNumber": 3}, {"LapFlags": 1, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 8, "StartLaps": 5, "LapTime": "1:08.658", "LapNumber": 8}, {"LapFlags": 0, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 10, "StartLaps": 8, "LapTime": "1:47.757", "LapNumber": 11}], "Line": 6}, "30": {"RacingNumber": "30", "Stints": [{"LapFlags": 0, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 6, "StartLaps": 0, "LapTime": "1:09.505", "LapNumber": 6}, {"LapFlags": 1, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 12, "StartLaps": 6, "LapTime": "1:09.012", "LapNumber": 12}], "Line": 10}, "31": {"RacingNumber": "31", "Stints": [{"LapFlags": 1, "Compound": "HARD", "New": "true", "TyresNotChanged": "0", "TotalLaps": 13, "StartLaps": 0, "LapTime": "1:10.538", "LapNumber": 10}], "Line": 17}, "41": {"RacingNumber": "41", "Stints": [{"LapFlags": 1, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 6, "StartLaps": 0, "LapTime": "1:08.974", "LapNumber": 6}], "Line": 9}, "43": {"RacingNumber": "43", "Stints": [{"LapFlags": 1, "Compound": "HARD", "New": "true", "TyresNotChanged": "0", "TotalLaps": 6, "StartLaps": 0, "LapTime": "1:10.262", "LapNumber": 6}, {"LapFlags": 0, "Compound": "HARD", "New": "false", "TyresNotChanged": "1", "TotalLaps": 10, "StartLaps": 6, "LapTime": "1:20.799", "LapNumber": 10}], "Line": 16}, "44": {"RacingNumber": "44", "Stints": [{"LapFlags": 0, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 4, "StartLaps": 0, "LapTime": "1:08.950", "LapNumber": 4}, {"LapFlags": 1, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 13, "StartLaps": 4, "LapTime": "1:08.675", "LapNumber": 11}], "Line": 7}, "5": {"RacingNumber": "5", "Stints": [{"LapFlags": 0, "Compound": "HARD", "New": "true", "TyresNotChanged": "0", "TotalLaps": 5, "StartLaps": 0, "LapTime": "1:10.198", "LapNumber": 5}, {"LapFlags": 1, "Compound": "HARD", "New": "false", "TyresNotChanged": "1", "TotalLaps": 15, "StartLaps": 5, "LapTime": "1:09.640", "LapNumber": 11}], "Line": 14}, "55": {"RacingNumber": "55", "Stints": [{"LapFlags": 1, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 5, "StartLaps": 0, "LapTime": "1:10.977", "LapNumber": 5}, {"LapFlags": 0, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 6, "StartLaps": 5}, {"LapFlags": 0, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 11, "StartLaps": 6, "LapTime": "1:11.578", "LapNumber": 9}], "Line": 18}, "6": {"RacingNumber": "6", "Stints": [{"LapFlags": 0, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 3, "StartLaps": 0, "LapTime": "1:09.135", "LapNumber": 3}, {"LapFlags": 0, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 5, "StartLaps": 3, "LapTime": "2:05.577", "LapNumber": 6}, {"LapFlags": 1, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 11, "StartLaps": 5, "LapTime": "1:08.772", "LapNumber": 12}], "Line": 8}, "63": {"RacingNumber": "63", "Stints": [{"LapFlags": 1, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 6, "StartLaps": 0, "LapTime": "1:08.221", "LapNumber": 7}], "Line": 4}, "77": {"RacingNumber": "77", "Stints": [{"LapFlags": 1, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 5, "StartLaps": 0, "LapTime": "1:11.307", "LapNumber": 3}, {"LapFlags": 0, "Compound": "UNKNOWN", "New": "false", "TyresNotChanged": "1", "TotalLaps": 0, "StartLaps": 0}], "Line": 19}, "81": {"RacingNumber": "81", "Stints": [{"LapFlags": 0, "Compound": "MEDIUM", "New": "true", "TyresNotChanged": "0", "TotalLaps": 7, "StartLaps": 0, "LapTime": "1:08.249", "LapNumber": 3}, {"LapFlags": 1, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 10, "StartLaps": 7, "LapTime": "1:08.214", "LapNumber": 10}], "Line": 3}, "87": {"RacingNumber": "87", "Stints": [{"LapFlags": 0, "Compound": "HARD", "New": "true", "TyresNotChanged": "0", "TotalLaps": 3, "StartLaps": 0, "LapTime": "1:10.095", "LapNumber": 3}, {"LapFlags": 1, "Compound": "HARD", "New": "false", "TyresNotChanged": "1", "TotalLaps": 11, "StartLaps": 3, "LapTime": "1:09.499", "LapNumber": 9}], "Line": 11}}, "_kf": true}}
+{"ts": 1782487607.2910585, "topic": "TimingAppData", "data": {"Lines": {"77": {"Stints": {"1": {"Compound": "SOFT", "New": "true", "TyresNotChanged": "0"}}}}}}
+{"ts": 1782487617.2696667, "topic": "TimingAppData", "data": {"Lines": {"23": {"Stints": {"2": {"TotalLaps": 11}}}, "27": {"Stints": {"2": {"LapFlags": 0, "Compound": "SOFT", "New": "true", "TyresNotChanged": "0", "TotalLaps": 0, "StartLaps": 0}}}, "63": {"Stints": {"0": {"TotalLaps": 7}}}}}}
+{"ts": 1782487625.5088325, "topic": "TimingAppData", "data": {"Lines": {"3": {"Stints": {"1": {"LapFlags": 0}, "2": {"LapTime": "1:08.511", "LapNumber": 12, "LapFlags": 1}}}}}}
+{"ts": 1782487627.2734745, "topic": "TimingAppData", "data": {"Lines": {"18": {"Stints": {"2": {"LapFlags": 0, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 12, "StartLaps": 12}}}, "3": {"Stints": {"2": {"TotalLaps": 11}}}}}}
+{"ts": 1782487642.3097706, "topic": "TimingAppData", "data": {"Lines": {"16": {"Stints": {"1": {"TotalLaps": 15}}}}}}
+{"ts": 1782487647.314963, "topic": "TimingAppData", "data": {"Lines": {"23": {"Stints": {"3": {"LapFlags": 0, "Compound": "SOFT", "New": "true", "TyresNotChanged": "0", "TotalLaps": 0, "StartLaps": 0}}}}}}
+{"ts": 1782487652.3157449, "topic": "TimingAppData", "data": {"Lines": {"12": {"Stints": {"3": {"TotalLaps": 13}}}}}}
+{"ts": 1782487657.2874455, "topic": "TimingAppData", "data": {"Lines": {"6": {"Stints": {"2": {"TotalLaps": 12}}}}}}
+{"ts": 1782487707.2635734, "topic": "TimingAppData", "data": {"Lines": {"27": {"Stints": {"2": {"TotalLaps": 1}}}}}}
+{"ts": 1782487712.3046184, "topic": "TimingAppData", "data": {"Lines": {"3": {"Stints": {"2": {"TotalLaps": 12}}}}}}
+{"ts": 1782487722.4098904, "topic": "TimingAppData", "data": {"Lines": {"18": {"Stints": {"2": {"TotalLaps": 13}}}}}}
+{"ts": 1782487732.3051577, "topic": "TimingAppData", "data": {"Lines": {"23": {"Stints": {"3": {"TotalLaps": 1}}}}}}
+{"ts": 1782487742.3042958, "topic": "TimingAppData", "data": {"Lines": {"87": {"Stints": {"2": {"LapFlags": 0, "Compound": "SOFT", "New": "true", "TyresNotChanged": "0", "TotalLaps": 0, "StartLaps": 0}}}}}}
+{"ts": 1782487747.3476398, "topic": "TimingAppData", "data": {"Lines": {"77": {"Stints": {"1": {"TotalLaps": 1}}}}}}
+{"ts": 1782487767.3732138, "topic": "TimingAppData", "data": {"Lines": {"10": {"Stints": {"2": {"LapFlags": 0, "Compound": "SOFT", "New": "true", "TyresNotChanged": "0", "TotalLaps": 0, "StartLaps": 0}}}}}}
+{"ts": 1782487772.3179662, "topic": "TimingAppData", "data": {"Lines": {"30": {"Stints": {"2": {"LapFlags": 0, "Compound": "UNKNOWN", "New": "false", "TyresNotChanged": "1", "TotalLaps": 0, "StartLaps": 0}}}}}}
+{"ts": 1782487773.9714444, "topic": "TimingAppData", "data": {"Lines": {"10": {"Line": 13}, "27": {"Line": 7}, "30": {"Line": 11}, "41": {"Line": 10}, "44": {"Line": 8}, "6": {"Line": 9}, "87": {"Line": 12}}}}
+{"ts": 1782487777.308379, "topic": "TimingAppData", "data": {"Lines": {"27": {"Stints": {"2": {"TotalLaps": 2}}}, "30": {"Stints": {"2": {"Compound": "SOFT", "New": "true", "TyresNotChanged": "0"}}}}}}
+{"ts": 1782487777.7140253, "topic": "TimingAppData", "data": {"Lines": {"27": {"Stints": {"1": {"LapFlags": 0}, "2": {"LapTime": "1:08.559", "LapNumber": 13, "LapFlags": 1}}}}}}
+{"ts": 1782487792.3361473, "topic": "TimingAppData", "data": {"Lines": {"18": {"Stints": {"2": {"TotalLaps": 14}}}, "81": {"Stints": {"2": {"LapFlags": 0, "Compound": "SOFT", "New": "true", "TyresNotChanged": "0", "TotalLaps": 0, "StartLaps": 0}}}}}}
+{"ts": 1782487792.9683726, "topic": "TimingAppData", "data": {"Lines": {"18": {"Stints": {"2": {"LapTime": "1:12.069", "LapNumber": 15}}}}}}
+{"ts": 1782487797.0769935, "topic": "TimingAppData", "data": {"Lines": {"10": {"Line": 14}, "23": {"Line": 10}, "30": {"Line": 12}, "41": {"Line": 11}, "5": {"Line": 15}, "87": {"Line": 13}}}}
+{"ts": 1782487797.3004556, "topic": "TimingAppData", "data": {"Lines": {"23": {"Stints": {"3": {"TotalLaps": 2}}}}}}
+{"ts": 1782487797.6073217, "topic": "TimingAppData", "data": {"Lines": {"23": {"Stints": {"2": {"LapFlags": 0}, "3": {"LapTime": "1:08.838", "LapNumber": 14, "LapFlags": 1}}}}}}
+{"ts": 1782487802.3215277, "topic": "TimingAppData", "data": {"Lines": {"41": {"Stints": {"1": {"LapFlags": 0, "Compound": "SOFT", "New": "true", "TyresNotChanged": "0", "TotalLaps": 0, "StartLaps": 0}}}}}}
+{"ts": 1782487827.3725238, "topic": "TimingAppData", "data": {"Lines": {"44": {"Stints": {"2": {"LapFlags": 0, "Compound": "UNKNOWN", "New": "false", "TyresNotChanged": "1", "TotalLaps": 0, "StartLaps": 0}}}}}}
+{"ts": 1782487832.359029, "topic": "TimingAppData", "data": {"Lines": {"87": {"Stints": {"2": {"TotalLaps": 1}}}}}}
+{"ts": 1782487837.3271408, "topic": "TimingAppData", "data": {"Lines": {"44": {"Stints": {"2": {"Compound": "SOFT", "New": "true", "TyresNotChanged": "0"}}}}}}
+{"ts": 1782487857.3225477, "topic": "TimingAppData", "data": {"Lines": {"10": {"Stints": {"2": {"TotalLaps": 1}}}}}}
+{"ts": 1782487867.3317852, "topic": "TimingAppData", "data": {"Lines": {"30": {"Stints": {"2": {"TotalLaps": 1}}}}}}
+{"ts": 1782487877.3358376, "topic": "TimingAppData", "data": {"Lines": {"81": {"Stints": {"2": {"TotalLaps": 1}}}}}}
+{"ts": 1782487887.3264775, "topic": "TimingAppData", "data": {"Lines": {"18": {"Stints": {"2": {"TotalLaps": 15}}}, "27": {"Stints": {"2": {"TotalLaps": 3}}}}}}
+{"ts": 1782487892.3126664, "topic": "TimingAppData", "data": {"Lines": {"1": {"Stints": {"3": {"LapFlags": 0, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 11, "StartLaps": 11}}}, "41": {"Stints": {"1": {"TotalLaps": 1}}}}}}
+{"ts": 1782487898.8805192, "topic": "TimingAppData", "data": {"Lines": {"23": {"Line": 11}, "30": {"Line": 13}, "41": {"Line": 12}, "6": {"Line": 10}, "87": {"Line": 9}}}}
+{"ts": 1782487902.3145175, "topic": "TimingAppData", "data": {"Lines": {"23": {"Stints": {"3": {"TotalLaps": 3}}}, "87": {"Stints": {"2": {"TotalLaps": 2}}}}}}
+{"ts": 1782487903.0051088, "topic": "TimingAppData", "data": {"Lines": {"87": {"Stints": {"1": {"LapFlags": 0}, "2": {"LapTime": "1:08.686", "LapNumber": 14, "LapFlags": 1}}}}}}
+{"ts": 1782487917.3202796, "topic": "TimingAppData", "data": {"Lines": {"44": {"Stints": {"2": {"TotalLaps": 1}}}}}}
+{"ts": 1782487922.1988182, "topic": "TimingAppData", "data": {"Lines": {"10": {"Line": 6}, "23": {"Line": 12}, "27": {"Line": 8}, "3": {"Line": 7}, "30": {"Line": 14}, "41": {"Line": 13}, "44": {"Line": 9}, "6": {"Line": 11}, "87": {"Line": 10}}}}
+{"ts": 1782487922.3628447, "topic": "TimingAppData", "data": {"Lines": {"10": {"Stints": {"2": {"TotalLaps": 2}}}}}}
+{"ts": 1782487923.0925152, "topic": "TimingAppData", "data": {"Lines": {"10": {"Stints": {"1": {"LapFlags": 0}, "2": {"LapTime": "1:08.376", "LapNumber": 14, "LapFlags": 1}}}}}}
+{"ts": 1782487927.343599, "topic": "TimingAppData", "data": {"Lines": {"23": {"Stints": {"4": {"LapFlags": 0, "Compound": "SOFT", "New": "false", "TyresNotChanged": "1", "TotalLaps": 3, "StartLaps": 3}}}}}}
+{"ts": 1782487930.854204, "topic": "TimingAppData", "data": {"Lines": {"23": {"Line": 13}, "27": {"Line": 9}, "3": {"Line": 8}, "30": {"Line": 7}, "41": {"Line": 14}, "44": {"Line": 10}, "6": {"Line": 12}, "87": {"Line": 11}}}}
+{"ts": 1782487932.3330057, "topic": "TimingAppData", "data": {"Lines": {"30": {"Stints": {"2": {"TotalLaps": 2}}}}}}
+{"ts": 1782487932.5674164, "topic": "TimingAppData", "data": {"Lines": {"30": {"Stints": {"1": {"LapFlags": 0}, "2": {"LapTime": "1:08.508", "LapNumber": 15, "LapFlags": 1}}}}}}
+{"ts": 1782487942.3924415, "topic": "TimingAppData", "data": {"Lines": {"81": {"Stints": {"2": {"TotalLaps": 2}}}}}}
+{"ts": 1782487942.7246587, "topic": "TimingAppData", "data": {"Lines": {"1": {"Line": 3}, "12": {"Line": 2, "Stints": {"3": {"LapFlags": 1}}}, "81": {"Line": 1, "Stints": {"1": {"LapFlags": 0}, "2": {"LapTime": "1:07.251", "LapNumber": 13, "LapFlags": 3}}}}}}
+{"ts": 1782487952.3481112, "topic": "TimingAppData", "data": {"Lines": {"12": {"Stints": {"4": {"LapFlags": 0, "Compound": "SOFT", "New": "true", "TyresNotChanged": "0", "TotalLaps": 0, "StartLaps": 0}}}}}}
+{"ts": 1782487958.8374915, "topic": "TimingAppData", "data": {"Lines": {"23": {"Line": 14}, "27": {"Line": 10}, "3": {"Line": 9}, "30": {"Line": 8}, "41": {"Line": 7}, "44": {"Line": 11}, "6": {"Line": 13}, "87": {"Line": 12}}}}
+{"ts": 1782487962.3820364, "topic": "TimingAppData", "data": {"Lines": {"31": {"Stints": {"1": {"LapFlags": 0, "Compound": "SOFT", "New": "true", "TyresNotChanged": "0", "TotalLaps": 0, "StartLaps": 0}}}, "41": {"Stints": {"1": {"TotalLaps": 2}}}}}}
+{"ts": 1782487962.4158943, "topic": "TimingAppData", "data": {"Lines": {"41": {"Stints": {"0": {"LapFlags": 0}, "1": {"LapTime": "1:08.417", "LapNumber": 9, "LapFlags": 1}}}}}}
+{"ts": 1782487967.3573725, "topic": "TimingAppData", "data": {"Lines": {"63": {"Stints": {"1": {"LapFlags": 0, "Compound": "SOFT", "New": "true", "TyresNotChanged": "0", "TotalLaps": 0, "StartLaps": 0}}}}}}
+{"ts": 1782487972.476436, "topic": "TimingAppData", "data": {"Lines": {"1": {"Stints": {"3": {"TotalLaps": 12}}}}}}
+{"ts": 1782487982.2768574, "topic": "TimingAppData", "data": {"Lines": {"1": {"Line": 4}, "10": {"Line": 7}, "12": {"Line": 3}, "16": {"Line": 6}, "27": {"Line": 11}, "3": {"Line": 10}, "30": {"Line": 9}, "41": {"Line": 8}, "44": {"Line": 2}, "63": {"Line": 5}}}}
+{"ts": 1782487982.3708363, "topic": "TimingAppData", "data": {"Lines": {"44": {"Stints": {"2": {"TotalLaps": 2}}}}}}
+{"ts": 1782487982.5548334, "topic": "TimingAppData", "data": {"Lines": {"44": {"Stints": {"1": {"LapFlags": 0}, "2": {"LapTime": "1:07.611", "LapNumber": 16, "LapFlags": 1}}}}}}
+{"ts": 1782488017.3562083, "topic": "TimingAppData", "data": {"Lines": {"23": {"Stints": {"4": {"TotalLaps": 4}}}}}}
+{"ts": 1782488022.3783772, "topic": "TimingAppData", "data": {"Lines": {"16": {"Stints": {"2": {"LapFlags": 0, "Compound": "SOFT", "New": "true", "TyresNotChanged": "0", "TotalLaps": 0, "StartLaps": 0}}}}}}
+{"ts": 1782488032.3487043, "topic": "TimingAppData", "data": {"Lines": {"1": {"Stints": {"3": {"Compound": "SOFT"}}}}}}
+{"ts": 1782488037.3975542, "topic": "TimingAppData", "data": {"Lines": {"10": {"Stints": {"2": {"TotalLaps": 3}}}, "27": {"Stints": {"3": {"LapFlags": 0, "Compound": "UNKNOWN", "New": "false", "TyresNotChanged": "1", "TotalLaps": 0, "StartLaps": 0}}}}}}
+{"ts": 1782488038.3897185, "topic": "TimingAppData", "data": {"Lines": {"1": {"Line": 2}, "12": {"Line": 4}, "44": {"Line": 3}}}}
+{"ts": 1782488042.402958, "topic": "TimingAppData", "data": {"Lines": {"1": {"Stints": {"3": {"TotalLaps": 13}}}}}}
+{"ts": 1782488042.8733156, "topic": "TimingAppData", "data": {"Lines": {"1": {"Stints": {"0": {"LapFlags": 0}, "3": {"LapTime": "1:07.339", "LapNumber": 14, "LapFlags": 1}}}}}}
+{"ts": 1782488047.3718517, "topic": "TimingAppData", "data": {"Lines": {"10": {"Stints": {"3": {"LapFlags": 0, "Compound": "SOFT", "New": "false", "TyresNotChanged": "1", "TotalLaps": 3, "StartLaps": 3}}}, "12": {"Stints": {"4": {"TotalLaps": 1}}}, "27": {"Stints": {"3": {"Compound": "SOFT", "TotalLaps": 3, "StartLaps": 3}}}, "81": {"Stints": {"2": {"TotalLaps": 3}}}}}}
+{"ts": 1782488051.0198941, "topic": "TimingAppData", "data": {"Lines": {"43": {"Stints": {"1": {"LapNumber": 11}}}}}}
+{"ts": 1782488052.434017, "topic": "TimingAppData", "data": {"Lines": {"30": {"Stints": {"2": {"TotalLaps": 3}}}, "43": {"Stints": {"2": {"LapFlags": 0, "Compound": "SOFT", "New": "true", "TyresNotChanged": "0", "TotalLaps": 0, "StartLaps": 0}}}, "87": {"Stints": {"2": {"TotalLaps": 3}}}}}}
+{"ts": 1782488057.3645072, "topic": "TimingAppData", "data": {"Lines": {"31": {"Stints": {"1": {"TotalLaps": 1}}}, "81": {"Stints": {"3": {"LapFlags": 0, "Compound": "SOFT", "New": "false", "TyresNotChanged": "1", "TotalLaps": 3, "StartLaps": 3}}}}}}
+{"ts": 1782488062.3840957, "topic": "TimingAppData", "data": {"Lines": {"41": {"Stints": {"1": {"TotalLaps": 3}}}}}}
+{"ts": 1782488067.3807178, "topic": "TimingAppData", "data": {"Lines": {"6": {"Stints": {"3": {"LapFlags": 0, "Compound": "SOFT", "New": "true", "TyresNotChanged": "0", "TotalLaps": 0, "StartLaps": 0}}}, "63": {"Stints": {"1": {"TotalLaps": 1}}}}}}
+{"ts": 1782488082.389543, "topic": "TimingAppData", "data": {"Lines": {"55": {"Stints": {"3": {"LapFlags": 0, "Compound": "SOFT", "New": "true", "TyresNotChanged": "0", "TotalLaps": 0, "StartLaps": 0}}}}}}
+{"ts": 1782488087.4143, "topic": "TimingAppData", "data": {"Lines": {"14": {"Stints": {"2": {"LapFlags": 0, "Compound": "SOFT", "New": "true", "TyresNotChanged": "0", "TotalLaps": 0, "StartLaps": 0}}}, "23": {"Stints": {"4": {"TotalLaps": 5}}}}}}
+{"ts": 1782488087.8923485, "topic": "TimingAppData", "data": {"Lines": {"23": {"Stints": {"4": {"LapTime": "1:09.244", "LapNumber": 17}}}}}}
+{"ts": 1782488092.4330957, "topic": "TimingAppData", "data": {"Lines": {"87": {"Stints": {"3": {"LapFlags": 0, "Compound": "SOFT", "New": "false", "TyresNotChanged": "1", "TotalLaps": 3, "StartLaps": 3}}}}}}
+{"ts": 1782488102.4464283, "topic": "TimingAppData", "data": {"Lines": {"1": {"Stints": {"3": {"New": "true", "TyresNotChanged": "0", "TotalLaps": 2, "StartLaps": 0}}}}}}
+{"ts": 1782488107.4173605, "topic": "TimingAppData", "data": {"Lines": {"16": {"Stints": {"2": {"TotalLaps": 1}}}, "44": {"Stints": {"2": {"TotalLaps": 3}}}}}}
+{"ts": 1782488111.9692955, "topic": "TimingAppData", "data": {"Lines": {"1": {"Line": 3}, "12": {"Line": 1}, "44": {"Line": 4}, "81": {"Line": 2}}}}
+{"ts": 1782488112.4386744, "topic": "TimingAppData", "data": {"Lines": {"12": {"Stints": {"4": {"TotalLaps": 2}}}}}}
+{"ts": 1782488112.6925104, "topic": "TimingAppData", "data": {"Lines": {"12": {"Stints": {"3": {"LapFlags": 0}, "4": {"LapTime": "1:07.209", "LapNumber": 16, "LapFlags": 3}}}, "81": {"Stints": {"2": {"LapFlags": 1}}}}}}
+{"ts": 1782488124.2974153, "topic": "TimingAppData", "data": {"Lines": {"23": {"Line": 15}, "31": {"Line": 14}, "43": {"Line": 17}, "5": {"Line": 16}}}}
+{"ts": 1782488127.4004598, "topic": "TimingAppData", "data": {"Lines": {"31": {"Stints": {"1": {"TotalLaps": 2}}}}}}
+{"ts": 1782488127.7705297, "topic": "TimingAppData", "data": {"Lines": {"31": {"Stints": {"0": {"LapFlags": 0}, "1": {"LapTime": "1:08.830", "LapNumber": 16, "LapFlags": 1}}}}}}
+{"ts": 1782488132.4979804, "topic": "TimingAppData", "data": {"Lines": {"63": {"Stints": {"1": {"TotalLaps": 2}}}}}}
+{"ts": 1782488132.526986, "topic": "TimingAppData", "data": {"Lines": {"63": {"Stints": {"0": {"LapFlags": 0}, "1": {"LapTime": "1:07.739", "LapNumber": 10, "LapFlags": 1}}}}}}
+{"ts": 1782488137.4078293, "topic": "TimingAppData", "data": {"Lines": {"27": {"Stints": {"3": {"TotalLaps": 4}}}}}}
+{"ts": 1782488147.4035015, "topic": "TimingAppData", "data": {"Lines": {"43": {"Stints": {"2": {"TotalLaps": 1}}}}}}
+{"ts": 1782488152.4249542, "topic": "TimingAppData", "data": {"Lines": {"1": {"Stints": {"3": {"TotalLaps": 3}}}, "10": {"Stints": {"3": {"TotalLaps": 4}}}}}}
+{"ts": 1782488157.4816532, "topic": "TimingAppData", "data": {"Lines": {"30": {"Stints": {"2": {"TotalLaps": 4}}}}}}
+{"ts": 1782488162.401575, "topic": "TimingAppData", "data": {"Lines": {"41": {"Stints": {"1": {"TotalLaps": 4}}}}}}
+{"ts": 1782488167.441291, "topic": "TimingAppData", "data": {"Lines": {"81": {"Stints": {"3": {"TotalLaps": 4}}}}}}
+{"ts": 1782488172.4064026, "topic": "TimingAppData", "data": {"Lines": {"14": {"Stints": {"2": {"TotalLaps": 1}}}, "23": {"Stints": {"4": {"TotalLaps": 6}}}}}}
+{"ts": 1782488177.4409764, "topic": "TimingAppData", "data": {"Lines": {"1": {"Stints": {"4": {"LapFlags": 0, "Compound": "SOFT", "New": "false", "TyresNotChanged": "1", "TotalLaps": 3, "StartLaps": 3}}}, "16": {"Stints": {"2": {"TotalLaps": 2}}}, "55": {"Stints": {"3": {"TotalLaps": 1}}}}}}
+{"ts": 1782488177.6728246, "topic": "TimingAppData", "data": {"Lines": {"16": {"Stints": {"1": {"LapFlags": 0}, "2": {"LapTime": "1:07.855", "LapNumber": 18, "LapFlags": 1}}}}}}
+{"ts": 1782488182.3954177, "topic": "TimingAppData", "data": {"Lines": {"6": {"Stints": {"3": {"TotalLaps": 1}}}}}}
+{"ts": 1782488197.4601426, "topic": "TimingAppData", "data": {"Lines": {"87": {"Stints": {"3": {"TotalLaps": 4}}}}}}
+{"ts": 1782488207.4118524, "topic": "TimingAppData", "data": {"Lines": {"27": {"Stints": {"3": {"TotalLaps": 5}}}}}}
+{"ts": 1782488207.5977135, "topic": "TimingAppData", "data": {"Lines": {"27": {"Stints": {"3": {"LapTime": "1:09.065", "LapNumber": 16}}}}}}
+{"ts": 1782488211.9122298, "topic": "TimingAppData", "data": {"Lines": {"43": {"Line": 16}, "5": {"Line": 17}}}}
+{"ts": 1782488212.4322908, "topic": "TimingAppData", "data": {"Lines": {"43": {"Stints": {"2": {"TotalLaps": 2}}}}}}
+{"ts": 1782488213.18729, "topic": "TimingAppData", "data": {"Lines": {"43": {"Stints": {"0": {"LapFlags": 0}, "2": {"LapTime": "1:08.862", "LapNumber": 13, "LapFlags": 1}}}}}}
+{"ts": 1782488217.397344, "topic": "TimingAppData", "data": {"Lines": {"12": {"Stints": {"4": {"TotalLaps": 3}}}}}}
+{"ts": 1782488222.4218736, "topic": "TimingAppData", "data": {"Lines": {"44": {"Stints": {"2": {"TotalLaps": 4}}}}}}
+{"ts": 1782488223.3278337, "topic": "TimingAppData", "data": {"Lines": {"10": {"Line": 8}, "30": {"Line": 7, "Stints": {"2": {"LapTime": "1:08.235", "LapNumber": 18}}}, "41": {"Line": 9}}}}
+{"ts": 1782488227.4293976, "topic": "TimingAppData", "data": {"Lines": {"10": {"Stints": {"3": {"TotalLaps": 5}}}, "30": {"Stints": {"2": {"TotalLaps": 5}}}}}}
+{"ts": 1782488227.4293976, "topic": "TimingAppData", "data": {"Lines": {"10": {"Stints": {"3": {"LapTime": "1:14.350", "LapNumber": 16}}}}}}
+{"ts": 1782488229.4743907, "topic": "TimingAppData", "data": {"Lines": {"41": {"Stints": {"1": {"LapTime": "1:08.378", "LapNumber": 12}}}}}}
+{"ts": 1782488232.3956814, "topic": "TimingAppData", "data": {"Lines": {"41": {"Stints": {"1": {"TotalLaps": 5}}}}}}
+{"ts": 1782488237.4119408, "topic": "TimingAppData", "data": {"Lines": {"81": {"Stints": {"3": {"TotalLaps": 5}}}}}}
+{"ts": 1782488238.3213007, "topic": "TimingAppData", "data": {"Lines": {"81": {"Stints": {"3": {"LapTime": "1:09.482", "LapNumber": 16}}}}}}
+{"ts": 1782488241.3441293, "topic": "TimingAppData", "data": {"Lines": {"14": {"Line": 18}, "18": {"Line": 21}, "55": {"Line": 19}, "77": {"Line": 20}}}}
+{"ts": 1782488242.476178, "topic": "TimingAppData", "data": {"Lines": {"14": {"Stints": {"2": {"TotalLaps": 2}}}}}}
+{"ts": 1782488242.5736208, "topic": "TimingAppData", "data": {"Lines": {"14": {"Stints": {"1": {"LapFlags": 0}, "2": {"LapTime": "1:10.544", "LapNumber": 14, "LapFlags": 1}}}}}}
+{"ts": 1782488247.4119344, "topic": "TimingAppData", "data": {"Lines": {"18": {"Stints": {"3": {"LapFlags": 0, "Compound": "SOFT", "New": "true", "TyresNotChanged": "0", "TotalLaps": 0, "StartLaps": 0}}}, "31": {"Stints": {"1": {"TotalLaps": 3}}}}}}
+{"ts": 1782488257.4429595, "topic": "TimingAppData", "data": {"Lines": {"55": {"Stints": {"3": {"TotalLaps": 2}}}}}}
+{"ts": 1782488257.4930642, "topic": "TimingAppData", "data": {"Lines": {"55": {"Stints": {"3": {"LapTime": "1:22.717", "LapNumber": 14}}}}}}
+{"ts": 1782488262.4162357, "topic": "TimingAppData", "data": {"Lines": {"63": {"Stints": {"1": {"TotalLaps": 3}}}}}}
+{"ts": 1782488266.0381887, "topic": "TimingAppData", "data": {"Lines": {"27": {"Line": 12}, "87": {"Line": 11}}}}
+{"ts": 1782488267.457019, "topic": "TimingAppData", "data": {"Lines": {"87": {"Stints": {"3": {"TotalLaps": 5}}}}}}
+{"ts": 1782488267.457019, "topic": "TimingAppData", "data": {"Lines": {"87": {"Stints": {"2": {"LapFlags": 0}, "3": {"LapTime": "1:08.532", "LapNumber": 17, "LapFlags": 1}}}}}}
+{"ts": 1782488272.5139875, "topic": "TimingAppData", "data": {"Lines": {"1": {"Stints": {"4": {"TotalLaps": 4}}}}}}
+{"ts": 1782488287.6438088, "topic": "TimingAppData", "data": {"Lines": {"16": {"Stints": {"2": {"TotalLaps": 3}}}, "27": {"Stints": {"3": {"TotalLaps": 6}}}, "6": {"Stints": {"3": {"TotalLaps": 2}}}}}}
+{"ts": 1782488287.6438088, "topic": "TimingAppData", "data": {"Lines": {"6": {"Stints": {"3": {"LapTime": "1:43.333", "LapNumber": 15}}}}}}
+{"ts": 1782488292.452157, "topic": "TimingAppData", "data": {"Lines": {"12": {"Stints": {"5": {"LapFlags": 0, "Compound": "SOFT", "New": "false", "TyresNotChanged": "1", "TotalLaps": 3, "StartLaps": 3}}}}}}
+{"ts": 1782488302.4436662, "topic": "TimingAppData", "data": {"Lines": {"16": {"Stints": {"3": {"LapFlags": 0, "Compound": "SOFT", "New": "false", "TyresNotChanged": "1", "TotalLaps": 3, "StartLaps": 3}}}}}}
+{"ts": 1782488307.4587972, "topic": "TimingAppData", "data": {"Lines": {"41": {"Stints": {"1": {"TotalLaps": 6}}}}}}
+{"ts": 1782488312.5198743, "topic": "TimingAppData", "data": {"Lines": {"44": {"Stints": {"2": {"TotalLaps": 5}}}}}}
+{"ts": 1782488322.4595554, "topic": "TimingAppData", "data": {"Lines": {"81": {"Stints": {"3": {"TotalLaps": 6}}}}}}
+{"ts": 1782488326.0042188, "topic": "TimingAppData", "data": {"Lines": {"14": {"Line": 19}, "5": {"Line": 18}, "55": {"Line": 17, "Stints": {"0": {"LapFlags": 0}, "3": {"LapTime": "1:09.478", "LapNumber": 15, "LapFlags": 1}}}}}}
+{"ts": 1782488327.4525197, "topic": "TimingAppData", "data": {"Lines": {"30": {"Stints": {"2": {"TotalLaps": 6}}}, "31": {"Stints": {"2": {"LapFlags": 0, "Compound": "SOFT", "New": "false", "TyresNotChanged": "1", "TotalLaps": 3, "StartLaps": 3}}}, "55": {"Stints": {"3": {"TotalLaps": 3}}}}}}
+{"ts": 1782488332.4348397, "topic": "TimingAppData", "data": {"Lines": {"77": {"Stints": {"1": {"Compound": "MEDIUM", "New": "false", "TyresNotChanged": "1", "TotalLaps": 6, "StartLaps": 5}}}}}}
+{"ts": 1782488337.4333265, "topic": "TimingAppData", "data": {"Lines": {"1": {"Stints": {"4": {"TotalLaps": 5}}}, "18": {"Stints": {"3": {"TotalLaps": 1}}}}}}
+{"ts": 1782488338.1908667, "topic": "TimingAppData", "data": {"Lines": {"1": {"Stints": {"4": {"LapTime": "1:07.515", "LapNumber": 17}}}}}}
+{"ts": 1782488347.5610375, "topic": "TimingAppData", "data": {"Lines": {"3": {"Stints": {"3": {"LapFlags": 0, "Compound": "SOFT", "New": "true", "TyresNotChanged": "0", "TotalLaps": 0, "StartLaps": 0}}}, "43": {"Stints": {"2": {"TotalLaps": 3}}}}}}
+{"ts": 1782488352.4364314, "topic": "TimingAppData", "data": {"Lines": {"14": {"Stints": {"2": {"TotalLaps": 3}}}}}}
+{"ts": 1782488357.4655995, "topic": "TimingAppData", "data": {"Lines": {"43": {"Stints": {"3": {"LapFlags": 0, "Compound": "SOFT", "New": "false", "TyresNotChanged": "1", "TotalLaps": 3, "StartLaps": 3}}}}}}
+{"ts": 1782488362.4754138, "topic": "TimingAppData", "data": {"Lines": {"87": {"Stints": {"3": {"TotalLaps": 6}}}}}}
+{"ts": 1782488372.4609373, "topic": "TimingAppData", "data": {"Lines": {"63": {"Stints": {"1": {"TotalLaps": 4}}}}}}
+{"ts": 1782488377.4695606, "topic": "TimingAppData", "data": {"Lines": {"14": {"Stints": {"3": {"LapFlags": 0, "Compound": "SOFT", "New": "false", "TyresNotChanged": "1", "TotalLaps": 3, "StartLaps": 3}}}}}}
+{"ts": 1782488387.446856, "topic": "TimingAppData", "data": {"Lines": {"44": {"Stints": {"2": {"TotalLaps": 6}}}}}}
+{"ts": 1782488392.4863775, "topic": "TimingAppData", "data": {"Lines": {"12": {"Stints": {"5": {"TotalLaps": 4}}}}}}
+{"ts": 1782488397.4557102, "topic": "TimingAppData", "data": {"Lines": {"6": {"Stints": {"3": {"TotalLaps": 3}}}}}}
+{"ts": 1782488402.4928489, "topic": "TimingAppData", "data": {"Lines": {"16": {"Stints": {"3": {"TotalLaps": 4}}}}}}
+{"ts": 1782488405.5665908, "topic": "TimingAppData", "data": {"Lines": {"18": {"Line": 20}, "77": {"Line": 21}}}}
+{"ts": 1782488407.453662, "topic": "TimingAppData", "data": {"Lines": {"18": {"Stints": {"3": {"TotalLaps": 2}}}, "5": {"Stints": {"2": {"LapFlags": 0, "Compound": "SOFT", "New": "true", "TyresNotChanged": "0", "TotalLaps": 0, "StartLaps": 0}}}}}}
+{"ts": 1782488407.7203472, "topic": "TimingAppData", "data": {"Lines": {"18": {"Stints": {"1": {"LapFlags": 0}, "3": {"LapTime": "1:10.698", "LapNumber": 18, "LapFlags": 1}}}}}}
+{"ts": 1782488422.4727755, "topic": "TimingAppData", "data": {"Lines": {"1": {"Stints": {"4": {"TotalLaps": 6}}}}}}
+{"ts": 1782488427.5053322, "topic": "TimingAppData", "data": {"Lines": {"3": {"Stints": {"3": {"TotalLaps": 1}}}}}}
+{"ts": 1782488432.4457226, "topic": "TimingAppData", "data": {"Lines": {"31": {"Stints": {"2": {"TotalLaps": 4}}}}}}
+{"ts": 1782488447.4714754, "topic": "TimingAppData", "data": {"Lines": {"55": {"Stints": {"3": {"TotalLaps": 4}}}}}}
+{"ts": 1782488457.4847658, "topic": "TimingAppData", "data": {"Lines": {"12": {"Stints": {"5": {"TotalLaps": 5}}}, "55": {"Stints": {"4": {"LapFlags": 0, "Compound": "SOFT", "New": "false", "TyresNotChanged": "1", "TotalLaps": 4, "StartLaps": 4}}}}}}
+{"ts": 1782488458.3490152, "topic": "TimingAppData", "data": {"Lines": {"12": {"Stints": {"4": {"LapFlags": 0}, "5": {"LapTime": "1:07.014", "LapNumber": 19, "LapFlags": 3}}}}}}
+{"ts": 1782488467.4732206, "topic": "TimingAppData", "data": {"Lines": {"16": {"Stints": {"3": {"TotalLaps": 5}}}}}}
+{"ts": 1782488467.9341316, "topic": "TimingAppData", "data": {"Lines": {"16": {"Stints": {"3": {"LapTime": "1:08.052", "LapNumber": 21}}}}}}
+{"ts": 1782488472.48248, "topic": "TimingAppData", "data": {"Lines": {"43": {"Stints": {"3": {"TotalLaps": 4}}}}}}
+{"ts": 1782488477.4697764, "topic": "TimingAppData", "data": {"Lines": {"63": {"Stints": {"1": {"TotalLaps": 5}}}}}}
+{"ts": 1782488482.517101, "topic": "TimingAppData", "data": {"Lines": {"14": {"Stints": {"3": {"TotalLaps": 4}}}}}}
+{"ts": 1782488493.528697, "topic": "TimingAppData", "data": {"Lines": {"10": {"Line": 9}, "16": {"Line": 7}, "3": {"Line": 4}, "30": {"Line": 8}, "41": {"Line": 10}, "44": {"Line": 5}, "63": {"Line": 6}}}}
+{"ts": 1782488497.497432, "topic": "TimingAppData", "data": {"Lines": {"3": {"Stints": {"3": {"TotalLaps": 2}}}, "5": {"Stints": {"2": {"TotalLaps": 1}}}}}}
+{"ts": 1782488497.6500468, "topic": "TimingAppData", "data": {"Lines": {"3": {"Stints": {"2": {"LapFlags": 0}, "3": {"LapTime": "1:07.564", "LapNumber": 15, "LapFlags": 1}}}}}}
+{"ts": 1782488502.4857018, "topic": "TimingAppData", "data": {"Lines": {"31": {"Stints": {"2": {"TotalLaps": 5}}}}}}
+{"ts": 1782488502.6084993, "topic": "TimingAppData", "data": {"Lines": {"31": {"Stints": {"2": {"LapTime": "1:08.876", "LapNumber": 19}}}}}}
+{"ts": 1782488507.58475, "topic": "TimingAppData", "data": {"Lines": {"6": {"Stints": {"3": {"TotalLaps": 4}}}}}}
+{"ts": 1782488532.5672855, "topic": "TimingAppData", "data": {"Lines": {"18": {"Stints": {"3": {"TotalLaps": 3}}}}}}
+{"ts": 1782488538.820817, "topic": "TimingAppData", "data": {"Lines": {"23": {"Line": 16}, "43": {"Line": 15}}}}
+{"ts": 1782488542.594728, "topic": "TimingAppData", "data": {"Lines": {"12": {"Stints": {"5": {"TotalLaps": 6}}}, "18": {"Stints": {"4": {"LapFlags": 0, "Compound": "SOFT", "New": "false", "TyresNotChanged": "1", "TotalLaps": 3, "StartLaps": 3}}}, "43": {"Stints": {"3": {"TotalLaps": 5}}}}}}
+{"ts": 1782488542.594728, "topic": "TimingAppData", "data": {"Lines": {"43": {"Stints": {"2": {"LapFlags": 0}, "3": {"LapTime": "1:08.831", "LapNumber": 16, "LapFlags": 1}}}}}}
+{"ts": 1782488544.879629, "topic": "TimingAppData", "data": {"Lines": {"63": {"Stints": {"1": {"LapTime": "1:07.637", "LapNumber": 14}}}}}}
+{"ts": 1782488547.531728, "topic": "TimingAppData", "data": {"Lines": {"55": {"Stints": {"4": {"TotalLaps": 5}}}, "63": {"Stints": {"1": {"TotalLaps": 6}}}}}}
+{"ts": 1782488557.4876056, "topic": "TimingAppData", "data": {"Lines": {"16": {"Stints": {"3": {"TotalLaps": 6}}}}}}
+{"ts": 1782488563.6935246, "topic": "TimingAppData", "data": {"Lines": {"10": {"Line": 10}, "23": {"Line": 17}, "27": {"Line": 13}, "31": {"Line": 15}, "41": {"Line": 11}, "43": {"Line": 16}, "5": {"Line": 9}, "55": {"Line": 18}, "6": {"Line": 14}, "87": {"Line": 12}}}}
+{"ts": 1782488567.541753, "topic": "TimingAppData", "data": {"Lines": {"14": {"Stints": {"3": {"TotalLaps": 5}}}, "41": {"Stints": {"2": {"LapFlags": 0, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "0", "TotalLaps": 6, "StartLaps": 6}}}, "5": {"Stints": {"2": {"TotalLaps": 2}}}}}}
+{"ts": 1782488567.5821815, "topic": "TimingAppData", "data": {"Lines": {"14": {"Stints": {"3": {"LapTime": "1:23.554", "LapNumber": 16}}}, "5": {"Stints": {"1": {"LapFlags": 0}, "2": {"LapTime": "1:08.300", "LapNumber": 18, "LapFlags": 1}}}}}}
+{"ts": 1782488573.5978847, "topic": "TimingAppData", "data": {"Lines": {"10": {"Line": 11}, "16": {"Line": 8}, "27": {"Line": 14}, "30": {"Line": 9}, "41": {"Line": 12}, "5": {"Line": 10}, "6": {"Line": 7, "Stints": {"2": {"LapFlags": 0}, "3": {"LapTime": "1:07.758", "LapNumber": 18, "LapFlags": 1}}}, "87": {"Line": 13}}}}
+{"ts": 1782488577.4766817, "topic": "TimingAppData", "data": {"Lines": {"3": {"Stints": {"3": {"TotalLaps": 3}}}, "6": {"Stints": {"3": {"TotalLaps": 5}}}}}}
+{"ts": 1782488587.5016572, "topic": "TimingAppData", "data": {"Lines": {"23": {"Stints": {"5": {"LapFlags": 0, "Compound": "SOFT", "New": "false", "TyresNotChanged": "1", "TotalLaps": 6, "StartLaps": 6}}}, "31": {"Stints": {"2": {"TotalLaps": 6}}}}}}
+{"ts": 1782488607.2482872, "topic": "TimingAppData", "data": {"Lines": {"10": {"Stints": {"3": {"LapNumber": 17}}}}}}
+{"ts": 1782488607.543026, "topic": "TimingAppData", "data": {"Lines": {"10": {"Stints": {"4": {"LapFlags": 0, "Compound": "UNKNOWN", "New": "false", "TyresNotChanged": "1", "TotalLaps": 0, "StartLaps": 0}}}}}}
+{"ts": 1782488617.5616891, "topic": "TimingAppData", "data": {"Lines": {"55": {"Stints": {"4": {"TotalLaps": 6}}}}}}
+{"ts": 1782488617.6450775, "topic": "TimingAppData", "data": {"Lines": {"55": {"Stints": {"3": {"LapFlags": 0}, "4": {"LapTime": "1:09.131", "LapNumber": 18, "LapFlags": 1}}}}}}
+{"ts": 1782488627.529602, "topic": "TimingAppData", "data": {"Lines": {"10": {"Stints": {"4": {"Compound": "MEDIUM", "TyresNotChanged": "0", "TotalLaps": 11, "StartLaps": 11}}}}}}
+{"ts": 1782488632.5088215, "topic": "TimingAppData", "data": {"Lines": {"16": {"Stints": {"3": {"TotalLaps": 7}}}, "27": {"Stints": {"4": {"LapFlags": 0, "Compound": "HARD", "New": "false", "TyresNotChanged": "0", "TotalLaps": 10, "StartLaps": 10}}}, "63": {"Stints": {"1": {"TotalLaps": 7}}}}}}
+{"ts": 1782488637.5000632, "topic": "TimingAppData", "data": {"Lines": {"43": {"Stints": {"3": {"TotalLaps": 6}}}, "87": {"Stints": {"4": {"LapFlags": 0, "Compound": "SOFT", "New": "false", "TyresNotChanged": "1", "TotalLaps": 6, "StartLaps": 6}}}}}}
+{"ts": 1782488642.5483475, "topic": "TimingAppData", "data": {"Lines": {"18": {"Stints": {"4": {"TotalLaps": 4}}}}}}
+{"ts": 1782488647.5232005, "topic": "TimingAppData", "data": {"Lines": {"41": {"Stints": {"2": {"TotalLaps": 7}}}}}}
+{"ts": 1782488652.5097327, "topic": "TimingAppData", "data": {"Lines": {"5": {"Stints": {"2": {"TotalLaps": 3}}}, "6": {"Stints": {"3": {"TotalLaps": 6}}}}}}
+{"ts": 1782488672.507089, "topic": "TimingAppData", "data": {"Lines": {"23": {"Stints": {"5": {"TotalLaps": 7}}}}}}
+{"ts": 1782488677.5211604, "topic": "TimingAppData", "data": {"Lines": {"30": {"Stints": {"3": {"LapFlags": 0, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "0", "TotalLaps": 12, "StartLaps": 12}}}}}}
+{"ts": 1782488682.5185957, "topic": "TimingAppData", "data": {"Lines": {"81": {"Stints": {"4": {"LapFlags": 0, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "0", "TotalLaps": 10, "StartLaps": 10}}}}}}
+{"ts": 1782488692.5351632, "topic": "TimingAppData", "data": {"Lines": {"23": {"Stints": {"6": {"LapFlags": 0, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "0", "TotalLaps": 11, "StartLaps": 11}}}}}}
+{"ts": 1782488697.5189097, "topic": "TimingAppData", "data": {"Lines": {"10": {"Stints": {"4": {"TotalLaps": 12}}}}}}
+{"ts": 1782488702.5349236, "topic": "TimingAppData", "data": {"Lines": {"55": {"Stints": {"4": {"TotalLaps": 7}}}}}}
+{"ts": 1782488707.5319607, "topic": "TimingAppData", "data": {"Lines": {"44": {"Stints": {"3": {"LapFlags": 0, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "0", "TotalLaps": 13, "StartLaps": 13}}}}}}
+{"ts": 1782488712.5375342, "topic": "TimingAppData", "data": {"Lines": {"27": {"Stints": {"4": {"TotalLaps": 11}}}, "87": {"Stints": {"4": {"TotalLaps": 7}}}}}}
+{"ts": 1782488717.6029398, "topic": "TimingAppData", "data": {"Lines": {"18": {"Stints": {"4": {"TotalLaps": 5}}}}}}
+{"ts": 1782488717.6715384, "topic": "TimingAppData", "data": {"Lines": {"18": {"Stints": {"4": {"LapTime": "1:10.886", "LapNumber": 21}}}}}}
+{"ts": 1782488722.547535, "topic": "TimingAppData", "data": {"Lines": {"41": {"Stints": {"2": {"TotalLaps": 8}}}}}}
+{"ts": 1782488722.629814, "topic": "TimingAppData", "data": {"Lines": {"41": {"Stints": {"2": {"LapTime": "1:12.063", "LapNumber": 15}}}}}}
+{"ts": 1782488727.6172285, "topic": "TimingAppData", "data": {"Lines": {"1": {"Stints": {"5": {"LapFlags": 0, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "0", "TotalLaps": 11, "StartLaps": 11}}}}}}
+{"ts": 1782488752.5297189, "topic": "TimingAppData", "data": {"Lines": {"30": {"Stints": {"3": {"TotalLaps": 13}}}}}}
+{"ts": 1782488762.545647, "topic": "TimingAppData", "data": {"Lines": {"81": {"Stints": {"4": {"TotalLaps": 11}}}}}}
+{"ts": 1782488767.561578, "topic": "TimingAppData", "data": {"Lines": {"10": {"Stints": {"4": {"TotalLaps": 13}}}}}}
+{"ts": 1782488767.6550918, "topic": "TimingAppData", "data": {"Lines": {"10": {"Stints": {"4": {"LapTime": "1:11.561", "LapNumber": 19}}}}}}
+{"ts": 1782488772.5922358, "topic": "TimingAppData", "data": {"Lines": {"23": {"Stints": {"6": {"TotalLaps": 12}}}}}}
+{"ts": 1782488782.6311233, "topic": "TimingAppData", "data": {"Lines": {"27": {"Stints": {"4": {"TotalLaps": 12}}}}}}
+{"ts": 1782488782.6913872, "topic": "TimingAppData", "data": {"Lines": {"27": {"Stints": {"4": {"LapTime": "1:12.133", "LapNumber": 19}}}}}}
+{"ts": 1782488787.604228, "topic": "TimingAppData", "data": {"Lines": {"44": {"Stints": {"3": {"TotalLaps": 14}}}, "87": {"Stints": {"4": {"TotalLaps": 8}}}}}}
+{"ts": 1782488787.604228, "topic": "TimingAppData", "data": {"Lines": {"87": {"Stints": {"4": {"LapTime": "1:16.259", "LapNumber": 20}}}}}}
+{"ts": 1782488790.0221236, "topic": "TimingAppData", "data": {"Lines": {"41": {"Stints": {"2": {"LapTime": "1:11.969", "LapNumber": 16}}}}}}
+{"ts": 1782488792.594627, "topic": "TimingAppData", "data": {"Lines": {"41": {"Stints": {"2": {"TotalLaps": 9}}}}}}
+{"ts": 1782488802.5460594, "topic": "TimingAppData", "data": {"Lines": {"1": {"Stints": {"5": {"TotalLaps": 12}}}}}}
+{"ts": 1782488807.5240743, "topic": "TimingAppData", "data": {"Lines": {"18": {"Stints": {"4": {"TotalLaps": 6}}}}}}
+{"ts": 1782488822.5586293, "topic": "TimingAppData", "data": {"Lines": {"31": {"Stints": {"3": {"LapFlags": 0, "Compound": "HARD", "New": "false", "TyresNotChanged": "0", "TotalLaps": 13, "StartLaps": 13}}}}}}
+{"ts": 1782488827.5548093, "topic": "TimingAppData", "data": {"Lines": {"30": {"Stints": {"3": {"TotalLaps": 14}}}}}}
+{"ts": 1782488827.7254155, "topic": "TimingAppData", "data": {"Lines": {"30": {"Stints": {"3": {"LapTime": "1:12.522", "LapNumber": 21}}}}}}
+{"ts": 1782488832.5501683, "topic": "TimingAppData", "data": {"Lines": {"81": {"Stints": {"4": {"TotalLaps": 12}}}}}}
+{"ts": 1782488833.292206, "topic": "TimingAppData", "data": {"Lines": {"81": {"Stints": {"4": {"LapTime": "1:11.322", "LapNumber": 19}}}}}}
+{"ts": 1782488837.5578187, "topic": "TimingAppData", "data": {"Lines": {"10": {"Stints": {"4": {"TotalLaps": 14}}}}}}
+{"ts": 1782488842.563907, "topic": "TimingAppData", "data": {"Lines": {"23": {"Stints": {"6": {"TotalLaps": 13}}}, "3": {"Stints": {"4": {"LapFlags": 0, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "0", "TotalLaps": 12, "StartLaps": 12}}}}}}
+{"ts": 1782488842.6635687, "topic": "TimingAppData", "data": {"Lines": {"23": {"Stints": {"6": {"LapTime": "1:13.161", "LapNumber": 21}}}}}}
+{"ts": 1782488852.5605195, "topic": "TimingAppData", "data": {"Lines": {"27": {"Stints": {"4": {"TotalLaps": 13}}}}}}
+{"ts": 1782488857.549426, "topic": "TimingAppData", "data": {"Lines": {"44": {"Stints": {"3": {"TotalLaps": 15}}}}}}
+{"ts": 1782488857.948609, "topic": "TimingAppData", "data": {"Lines": {"44": {"Stints": {"3": {"LapTime": "1:11.461", "LapNumber": 22}}}}}}
+{"ts": 1782488860.273008, "topic": "TimingAppData", "data": {"Lines": {"87": {"Stints": {"4": {"LapTime": "1:12.854", "LapNumber": 21}}}}}}
+{"ts": 1782488861.8374097, "topic": "TimingAppData", "data": {"Lines": {"41": {"Stints": {"2": {"LapTime": "1:11.828", "LapNumber": 17}}}}}}
+{"ts": 1782488862.542431, "topic": "TimingAppData", "data": {"Lines": {"12": {"Stints": {"6": {"LapFlags": 0, "Compound": "UNKNOWN", "New": "false", "TyresNotChanged": "1", "TotalLaps": 0, "StartLaps": 0}}}, "41": {"Stints": {"2": {"TotalLaps": 10}}}, "87": {"Stints": {"4": {"TotalLaps": 9}}}}}}
+{"ts": 1782488867.5669847, "topic": "TimingAppData", "data": {"Lines": {"12": {"Stints": {"6": {"Compound": "MEDIUM", "TyresNotChanged": "0", "TotalLaps": 13, "StartLaps": 13}}}, "43": {"Stints": {"4": {"LapFlags": 0, "Compound": "HARD", "New": "false", "TyresNotChanged": "0", "TotalLaps": 10, "StartLaps": 10}}}}}}
+{"ts": 1782488872.6701138, "topic": "TimingAppData", "data": {"Lines": {"1": {"Stints": {"5": {"TotalLaps": 13}}}}}}
+{"ts": 1782488872.8392508, "topic": "TimingAppData", "data": {"Lines": {"1": {"Stints": {"5": {"LapTime": "1:10.849", "LapNumber": 20}}}}}}
+{"ts": 1782488897.6461878, "topic": "TimingAppData", "data": {"Lines": {"31": {"Stints": {"3": {"TotalLaps": 14}}}}}}
+{"ts": 1782488901.4653192, "topic": "TimingAppData", "data": {"Lines": {"81": {"Stints": {"4": {"LapTime": "1:10.845", "LapNumber": 20}}}}}}
+{"ts": 1782488902.5921493, "topic": "TimingAppData", "data": {"Lines": {"30": {"Stints": {"3": {"TotalLaps": 15}}}, "81": {"Stints": {"4": {"TotalLaps": 13}}}}}}
+{"ts": 1782488912.5585227, "topic": "TimingAppData", "data": {"Lines": {"10": {"Stints": {"4": {"TotalLaps": 15}}}}}}
+{"ts": 1782488915.574376, "topic": "TimingAppData", "data": {"Lines": {"23": {"Stints": {"6": {"LapTime": "1:12.931", "LapNumber": 22}}}}}}
+{"ts": 1782488917.6060941, "topic": "TimingAppData", "data": {"Lines": {"23": {"Stints": {"6": {"TotalLaps": 14}}}}}}
+{"ts": 1782488924.3298066, "topic": "TimingAppData", "data": {"Lines": {"27": {"Stints": {"4": {"LapTime": "1:11.872", "LapNumber": 21}}}}}}
+{"ts": 1782488927.0253944, "topic": "TimingAppData", "data": {"Lines": {"44": {"Stints": {"3": {"LapTime": "1:11.236", "LapNumber": 23}}}}}}
+{"ts": 1782488927.6154723, "topic": "TimingAppData", "data": {"Lines": {"27": {"Stints": {"4": {"TotalLaps": 14}}}, "3": {"Stints": {"4": {"TotalLaps": 13}}}, "44": {"Stints": {"3": {"TotalLaps": 16}}}}}}
+{"ts": 1782488932.6672785, "topic": "TimingAppData", "data": {"Lines": {"87": {"Stints": {"4": {"TotalLaps": 10}}}}}}
+{"ts": 1782488932.6672785, "topic": "TimingAppData", "data": {"Lines": {"87": {"Stints": {"4": {"LapTime": "1:12.399", "LapNumber": 22}}}}}}
+{"ts": 1782488937.622033, "topic": "TimingAppData", "data": {"Lines": {"41": {"Stints": {"2": {"TotalLaps": 11}}}}}}
+{"ts": 1782488942.5659955, "topic": "TimingAppData", "data": {"Lines": {"1": {"Stints": {"5": {"TotalLaps": 14}}}, "16": {"Stints": {"4": {"LapFlags": 0, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "0", "TotalLaps": 15, "StartLaps": 15}}}}}}
+{"ts": 1782488952.7342901, "topic": "TimingAppData", "data": {"Lines": {"12": {"Stints": {"6": {"TotalLaps": 14}}}, "43": {"Stints": {"4": {"TotalLaps": 11}}}}}}
+{"ts": 1782488957.5936592, "topic": "TimingAppData", "data": {"Lines": {"55": {"Stints": {"5": {"LapFlags": 0, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "0", "TotalLaps": 11, "StartLaps": 11}}}}}}
+{"ts": 1782488967.5843282, "topic": "TimingAppData", "data": {"Lines": {"5": {"Stints": {"3": {"LapFlags": 0, "Compound": "HARD", "New": "false", "TyresNotChanged": "0", "TotalLaps": 15, "StartLaps": 15}}}}}}
+{"ts": 1782488972.669114, "topic": "TimingAppData", "data": {"Lines": {"30": {"Stints": {"3": {"TotalLaps": 16}}}, "31": {"Stints": {"3": {"TotalLaps": 15}}}}}}
+{"ts": 1782488972.7688873, "topic": "TimingAppData", "data": {"Lines": {"31": {"Stints": {"3": {"LapTime": "1:14.614", "LapNumber": 22}}}}}}
+{"ts": 1782488977.6139314, "topic": "TimingAppData", "data": {"Lines": {"81": {"Stints": {"4": {"TotalLaps": 14}}}}}}
+{"ts": 1782488982.5906386, "topic": "TimingAppData", "data": {"Lines": {"10": {"Stints": {"4": {"TotalLaps": 16}}}}}}
+{"ts": 1782488988.1324117, "topic": "TimingAppData", "data": {"Lines": {"23": {"Stints": {"6": {"LapTime": "1:12.846", "LapNumber": 23}}}}}}
+{"ts": 1782488992.6479821, "topic": "TimingAppData", "data": {"Lines": {"23": {"Stints": {"6": {"TotalLaps": 15}}}}}}
+{"ts": 1782488995.9303844, "topic": "TimingAppData", "data": {"Lines": {"27": {"Stints": {"4": {"LapTime": "1:11.716", "LapNumber": 22}}}}}}
+{"ts": 1782488997.6025672, "topic": "TimingAppData", "data": {"Lines": {"27": {"Stints": {"4": {"TotalLaps": 15}}}, "3": {"Stints": {"4": {"TotalLaps": 14}}}}}}
+{"ts": 1782488997.6285655, "topic": "TimingAppData", "data": {"Lines": {"3": {"Stints": {"4": {"LapTime": "1:10.668", "LapNumber": 18}}}}}}
+{"ts": 1782489002.6502054, "topic": "TimingAppData", "data": {"Lines": {"44": {"Stints": {"3": {"TotalLaps": 17}}}}}}
+{"ts": 1782489005.0217628, "topic": "TimingAppData", "data": {"Lines": {"87": {"Stints": {"4": {"LapTime": "1:12.188", "LapNumber": 23}}}}}}
+{"ts": 1782489007.6738853, "topic": "TimingAppData", "data": {"Lines": {"87": {"Stints": {"4": {"TotalLaps": 11}}}}}}
+{"ts": 1782489012.6211085, "topic": "TimingAppData", "data": {"Lines": {"1": {"Stints": {"5": {"TotalLaps": 15}}}, "41": {"Stints": {"2": {"TotalLaps": 12}}}}}}
+{"ts": 1782489022.6514835, "topic": "TimingAppData", "data": {"Lines": {"12": {"Stints": {"6": {"TotalLaps": 15}}}, "16": {"Stints": {"4": {"TotalLaps": 16}}}}}}
+{"ts": 1782489022.8763187, "topic": "TimingAppData", "data": {"Lines": {"12": {"Stints": {"6": {"LapTime": "1:11.254", "LapNumber": 22}}}}}}
+{"ts": 1782489023.4330308, "topic": "TimingAppData", "data": {"Lines": {"14": {"Stints": {"3": {"LapNumber": 17}}}}}}
+{"ts": 1782489027.7502542, "topic": "TimingAppData", "data": {"Lines": {"14": {"Stints": {"4": {"LapFlags": 0, "Compound": "SOFT", "New": "false", "TyresNotChanged": "1", "TotalLaps": 5, "StartLaps": 5}}}, "43": {"Stints": {"4": {"TotalLaps": 12}}}}}}
+{"ts": 1782489027.9049559, "topic": "TimingAppData", "data": {"Lines": {"43": {"Stints": {"4": {"LapTime": "1:12.207", "LapNumber": 19}}}}}}
+{"ts": 1782489032.7439356, "topic": "TimingAppData", "data": {"Lines": {"55": {"Stints": {"5": {"TotalLaps": 12}}}}}}
+{"ts": 1782489037.671358, "topic": "TimingAppData", "data": {"Lines": {"63": {"Stints": {"2": {"LapFlags": 0, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "0", "TotalLaps": 7, "StartLaps": 7}}}}}}
+{"ts": 1782489042.6458602, "topic": "TimingAppData", "data": {"Lines": {"18": {"Stints": {"5": {"LapFlags": 0, "Compound": "SOFT", "New": "false", "TyresNotChanged": "1", "TotalLaps": 6, "StartLaps": 6}}}, "5": {"Stints": {"3": {"TotalLaps": 16}}}}}}
+{"ts": 1782489047.6311653, "topic": "TimingAppData", "data": {"Lines": {"30": {"Stints": {"3": {"TotalLaps": 17}}}, "81": {"Stints": {"4": {"TotalLaps": 15}}}}}}
+{"ts": 1782489052.603939, "topic": "TimingAppData", "data": {"Lines": {"10": {"Stints": {"4": {"TotalLaps": 17}}}, "31": {"Stints": {"3": {"TotalLaps": 16}}}}}}
+{"ts": 1782489062.5951557, "topic": "TimingAppData", "data": {"Lines": {"23": {"Stints": {"6": {"TotalLaps": 16}}}}}}
+{"ts": 1782489067.646005, "topic": "TimingAppData", "data": {"Lines": {"3": {"Stints": {"4": {"TotalLaps": 15}}}}}}
+{"ts": 1782489072.6200259, "topic": "TimingAppData", "data": {"Lines": {"27": {"Stints": {"4": {"TotalLaps": 16}}}}}}
+{"ts": 1782489077.6319466, "topic": "TimingAppData", "data": {"Lines": {"44": {"Stints": {"3": {"TotalLaps": 18}}}, "87": {"Stints": {"4": {"TotalLaps": 12}}}}}}
+{"ts": 1782489082.6787724, "topic": "TimingAppData", "data": {"Lines": {"41": {"Stints": {"2": {"TotalLaps": 13}}}}}}
+{"ts": 1782489087.7651181, "topic": "TimingAppData", "data": {"Lines": {"1": {"Stints": {"5": {"TotalLaps": 16}}}}}}
+{"ts": 1782489091.501615, "topic": "TimingAppData", "data": {"Lines": {"12": {"Stints": {"6": {"LapTime": "1:10.912", "LapNumber": 23}}}}}}
+{"ts": 1782489092.6516788, "topic": "TimingAppData", "data": {"Lines": {"12": {"Stints": {"6": {"TotalLaps": 16}}}, "16": {"Stints": {"4": {"TotalLaps": 17}}}}}}
+{"ts": 1782489092.7677457, "topic": "TimingAppData", "data": {"Lines": {"16": {"Stints": {"4": {"LapTime": "1:12.019", "LapNumber": 25}}}}}}
+{"ts": 1782489095.8840122, "topic": "TimingAppData", "data": {"Lines": {"43": {"Stints": {"4": {"LapTime": "1:11.594", "LapNumber": 20}}}}}}
+{"ts": 1782489097.6203082, "topic": "TimingAppData", "data": {"Lines": {"43": {"Stints": {"4": {"TotalLaps": 13}}}, "6": {"Stints": {"4": {"LapFlags": 0, "Compound": "MEDIUM", "New": "false", "TyresNotChanged": "0", "TotalLaps": 12, "StartLaps": 12}}}}}}
+{"ts": 1782489102.7467935, "topic": "TimingAppData", "data": {"Lines": {"55": {"Stints": {"5": {"TotalLaps": 13}}}}}}
+{"ts": 1782489102.7987432, "topic": "TimingAppData", "data": {"Lines": {"55": {"Stints": {"5": {"LapTime": "1:12.890", "LapNumber": 21}}}}}}
+{"ts": 1782489107.6482465, "topic": "TimingAppData", "data": {"Lines": {"14": {"Stints": {"4": {"TotalLaps": 6}}}}}}
+{"ts": 1782489112.6321008, "topic": "TimingAppData", "data": {"Lines": {"63": {"Stints": {"2": {"TotalLaps": 8}}}}}}
+{"ts": 1782489117.6362677, "topic": "TimingAppData", "data": {"Lines": {"30": {"Stints": {"3": {"TotalLaps": 18}}}, "5": {"Stints": {"3": {"TotalLaps": 17}}}, "81": {"Stints": {"4": {"TotalLaps": 16}}}}}}
+{"ts": 1782489117.7092693, "topic": "TimingAppData", "data": {"Lines": {"5": {"Stints": {"3": {"LapTime": "1:13.284", "LapNumber": 21}}}}}}
+{"ts": 1782489120.981101, "topic": "TimingAppData", "data": {"Lines": {"31": {"Stints": {"3": {"LapTime": "1:13.046", "LapNumber": 24}}}}}}
+{"ts": 1782489122.6270492, "topic": "TimingAppData", "data": {"Lines": {"31": {"Stints": {"3": {"TotalLaps": 17}}}}}}
+{"ts": 1782489127.6751635, "topic": "TimingAppData", "data": {"Lines": {"10": {"Stints": {"4": {"TotalLaps": 18}}}}}}
+{"ts": 1782489132.6313012, "topic": "TimingAppData", "data": {"Lines": {"18": {"Stints": {"5": {"TotalLaps": 7}}}}}}
+{"ts": 1782489137.6458683, "topic": "TimingAppData", "data": {"Lines": {"23": {"Stints": {"6": {"TotalLaps": 17}}}, "3": {"Stints": {"4": {"TotalLaps": 16}}}}}}
+{"ts": 1782489142.6456573, "topic": "TimingAppData", "data": {"Lines": {"27": {"Stints": {"4": {"TotalLaps": 17}}}}}}
+{"ts": 1782489147.666922, "topic": "TimingAppData", "data": {"Lines": {"44": {"Stints": {"3": {"TotalLaps": 19}}}}}}
+{"ts": 1782489152.6354666, "topic": "TimingAppData", "data": {"Lines": {"41": {"Stints": {"2": {"TotalLaps": 14}}}, "87": {"Stints": {"4": {"TotalLaps": 13}}}}}}
+{"ts": 1782489157.6765642, "topic": "TimingAppData", "data": {"Lines": {"1": {"Stints": {"5": {"TotalLaps": 17}}}}}}
+{"ts": 1782489162.1864867, "topic": "TimingAppData", "data": {"Lines": {"16": {"Stints": {"4": {"LapTime": "1:11.913", "LapNumber": 26}}}}}}
+{"ts": 1782489162.6552532, "topic": "TimingAppData", "data": {"Lines": {"16": {"Stints": {"4": {"TotalLaps": 18}}}}}}
+{"ts": 1782489167.6280787, "topic": "TimingAppData", "data": {"Lines": {"12": {"Stints": {"6": {"TotalLaps": 17}}}, "43": {"Stints": {"4": {"TotalLaps": 14}}}}}}
+{"ts": 1782489175.2857041, "topic": "TimingAppData", "data": {"Lines": {"55": {"Stints": {"5": {"LapTime": "1:12.805", "LapNumber": 22}}}}}}
+{"ts": 1782489177.6775272, "topic": "TimingAppData", "data": {"Lines": {"55": {"Stints": {"5": {"TotalLaps": 14}}}, "6": {"Stints": {"4": {"TotalLaps": 13}}}}}}
+{"ts": 1782489182.624523, "topic": "TimingAppData", "data": {"Lines": {"14": {"Stints": {"4": {"TotalLaps": 7}}}, "63": {"Stints": {"2": {"TotalLaps": 9}}}}}}
+{"ts": 1782489182.9572825, "topic": "TimingAppData", "data": {"Lines": {"14": {"Stints": {"4": {"LapTime": "1:13.967", "LapNumber": 19}}}, "63": {"Stints": {"2": {"LapTime": "1:11.180", "LapNumber": 17}}}}}}
+{"ts": 1782489186.3810937, "topic": "TimingAppData", "data": {"Lines": {"5": {"Stints": {"3": {"LapTime": "1:12.498", "LapNumber": 22}}}}}}
+{"ts": 1782489187.6531737, "topic": "TimingAppData", "data": {"Lines": {"5": {"Stints": {"3": {"TotalLaps": 18}}}}}}
+{"ts": 1782489188.658099, "topic": "TimingAppData", "data": {"Lines": {"30": {"Stints": {"3": {"LapTime": "1:12.519", "LapNumber": 26}}}}}}
+{"ts": 1782489192.6141155, "topic": "TimingAppData", "data": {"Lines": {"30": {"Stints": {"3": {"TotalLaps": 19}}}, "81": {"Stints": {"4": {"TotalLaps": 17}}}}}}
+{"ts": 1782489197.722566, "topic": "TimingAppData", "data": {"Lines": {"10": {"Stints": {"4": {"TotalLaps": 19}}}, "31": {"Stints": {"3": {"TotalLaps": 18}}}}}}
+{"ts": 1782489207.6767251, "topic": "TimingAppData", "data": {"Lines": {"18": {"Stints": {"5": {"TotalLaps": 8}}}}}}
+{"ts": 1782489207.753769, "topic": "TimingAppData", "data": {"Lines": {"18": {"Stints": {"5": {"LapTime": "1:14.282", "LapNumber": 24}}}}}}
+{"ts": 1782489212.6564314, "topic": "TimingAppData", "data": {"Lines": {"23": {"Stints": {"6": {"TotalLaps": 18}}}, "27": {"Stints": {"4": {"TotalLaps": 18}}}, "3": {"Stints": {"4": {"TotalLaps": 17}}}}}}
+{"ts": 1782489222.6160243, "topic": "TimingAppData", "data": {"Lines": {"44": {"Stints": {"3": {"TotalLaps": 20}}}, "87": {"Stints": {"4": {"TotalLaps": 14}}}}}}
+{"ts": 1782489227.6295702, "topic": "TimingAppData", "data": {"Lines": {"1": {"Stints": {"5": {"TotalLaps": 18}}}, "41": {"Stints": {"2": {"TotalLaps": 15}}}}}}
+{"ts": 1782489234.1793866, "topic": "TimingAppData", "data": {"Lines": {"16": {"Stints": {"4": {"LapTime": "1:11.868", "LapNumber": 27}}}}}}
+{"ts": 1782489237.6656878, "topic": "TimingAppData", "data": {"Lines": {"16": {"Stints": {"4": {"TotalLaps": 19}}}}}}
+{"ts": 1782489242.7463174, "topic": "TimingAppData", "data": {"Lines": {"12": {"Stints": {"6": {"TotalLaps": 18}}}, "43": {"Stints": {"4": {"TotalLaps": 15}}}}}}
+{"ts": 1782489247.6310306, "topic": "TimingAppData", "data": {"Lines": {"6": {"Stints": {"4": {"TotalLaps": 14}}}}}}
+{"ts": 1782489247.8132012, "topic": "TimingAppData", "data": {"Lines": {"6": {"Stints": {"4": {"LapTime": "1:12.254", "LapNumber": 21}}}}}}
+{"ts": 1782489248.1304295, "topic": "TimingAppData", "data": {"Lines": {"55": {"Stints": {"5": {"LapTime": "1:12.781", "LapNumber": 23}}}}}}
+{"ts": 1782489252.6314206, "topic": "TimingAppData", "data": {"Lines": {"55": {"Stints": {"5": {"TotalLaps": 15}}}, "63": {"Stints": {"2": {"TotalLaps": 10}}}}}}
+{"ts": 1782489257.7285864, "topic": "TimingAppData", "data": {"Lines": {"14": {"Stints": {"4": {"TotalLaps": 8}}}}}}
+{"ts": 1782489262.6499357, "topic": "TimingAppData", "data": {"Lines": {"30": {"Stints": {"3": {"TotalLaps": 20}}}, "5": {"Stints": {"3": {"TotalLaps": 19}}}}}}
+{"ts": 1782489267.6834323, "topic": "TimingAppData", "data": {"Lines": {"31": {"Stints": {"3": {"TotalLaps": 19}}}, "81": {"Stints": {"4": {"TotalLaps": 18}}}}}}
+{"ts": 1782489272.6610336, "topic": "TimingAppData", "data": {"Lines": {"10": {"Stints": {"4": {"TotalLaps": 20}}}}}}
+{"ts": 1782489277.6400378, "topic": "TimingAppData", "data": {"Lines": {"18": {"Stints": {"5": {"TotalLaps": 9}}}}}}
+{"ts": 1782489282.6681037, "topic": "TimingAppData", "data": {"Lines": {"23": {"Stints": {"6": {"TotalLaps": 19}}}, "3": {"Stints": {"4": {"TotalLaps": 18}}}}}}
+{"ts": 1782489287.6961079, "topic": "TimingAppData", "data": {"Lines": {"27": {"Stints": {"4": {"TotalLaps": 19}}}}}}
+{"ts": 1782489292.6392453, "topic": "TimingAppData", "data": {"Lines": {"44": {"Stints": {"3": {"TotalLaps": 21}}}}}}
+{"ts": 1782489297.6522121, "topic": "TimingAppData", "data": {"Lines": {"87": {"Stints": {"4": {"TotalLaps": 15}}}}}}
+{"ts": 1782489302.6583664, "topic": "TimingAppData", "data": {"Lines": {"1": {"Stints": {"5": {"TotalLaps": 19}}}, "41": {"Stints": {"2": {"TotalLaps": 16}}}}}}
+{"ts": 1782489307.6042697, "topic": "TimingAppData", "data": {"Lines": {"16": {"Stints": {"4": {"TotalLaps": 20}}}}}}
+{"ts": 1782489312.677366, "topic": "TimingAppData", "data": {"Lines": {"12": {"Stints": {"6": {"TotalLaps": 19}}}, "43": {"Stints": {"4": {"TotalLaps": 16}}}}}}
+{"ts": 1782489316.8439283, "topic": "TimingAppData", "data": {"Lines": {"6": {"Stints": {"4": {"LapTime": "1:11.873", "LapNumber": 22}}}}}}
+{"ts": 1782489317.7891717, "topic": "TimingAppData", "data": {"Lines": {"6": {"Stints": {"4": {"TotalLaps": 15}}}}}}
+{"ts": 1782489322.7010646, "topic": "TimingAppData", "data": {"Lines": {"55": {"Stints": {"5": {"TotalLaps": 16}}}}}}
+{"ts": 1782489323.5730357, "topic": "TimingAppData", "data": {"Lines": {"63": {"Stints": {"2": {"LapTime": "1:11.155", "LapNumber": 19}}}}}}
+{"ts": 1782489327.6480114, "topic": "TimingAppData", "data": {"Lines": {"63": {"Stints": {"2": {"TotalLaps": 11}}}}}}
+{"ts": 1782489332.6472833, "topic": "TimingAppData", "data": {"Lines": {"14": {"Stints": {"4": {"TotalLaps": 9}}}, "5": {"Stints": {"3": {"TotalLaps": 20}}}}}}
+{"ts": 1782489334.027843, "topic": "TimingAppData", "data": {"Lines": {"30": {"Stints": {"3": {"LapTime": "1:12.421", "LapNumber": 28}}}}}}
+{"ts": 1782489337.6793547, "topic": "TimingAppData", "data": {"Lines": {"30": {"Stints": {"3": {"TotalLaps": 21}}}, "81": {"Stints": {"4": {"TotalLaps": 19}}}}}}
+{"ts": 1782489342.6905456, "topic": "TimingAppData", "data": {"Lines": {"10": {"Stints": {"4": {"TotalLaps": 21}}}, "31": {"Stints": {"3": {"TotalLaps": 20}}}}}}
+{"ts": 1782489351.7714486, "topic": "TimingAppData", "data": {"Lines": {"18": {"Stints": {"5": {"LapTime": "1:14.200", "LapNumber": 26}}}}}}
+{"ts": 1782489352.635323, "topic": "TimingAppData", "data": {"Lines": {"18": {"Stints": {"5": {"TotalLaps": 10}}}, "3": {"Stints": {"4": {"TotalLaps": 19}}}}}}
+{"ts": 1782489357.6229494, "topic": "TimingAppData", "data": {"Lines": {"23": {"Stints": {"6": {"TotalLaps": 20}}}}}}
+{"ts": 1782489362.6565673, "topic": "TimingAppData", "data": {"Lines": {"27": {"Stints": {"4": {"TotalLaps": 20}}}}}}
+{"ts": 1782489372.6642485, "topic": "TimingAppData", "data": {"Lines": {"1": {"Stints": {"5": {"TotalLaps": 20}}}, "41": {"Stints": {"2": {"TotalLaps": 17}}}, "87": {"Stints": {"4": {"TotalLaps": 16}}}}}}
+{"ts": 1782489377.652742, "topic": "TimingAppData", "data": {"Lines": {"44": {"Stints": {"3": {"TotalLaps": 22}}}}}}
+{"ts": 1782489382.683418, "topic": "TimingAppData", "data": {"Lines": {"12": {"Stints": {"6": {"TotalLaps": 20}}}, "16": {"Stints": {"4": {"TotalLaps": 21}}}, "27": {"Stints": {"5": {"LapFlags": 0, "Compound": "UNKNOWN", "New": "false", "TyresNotChanged": "1", "TotalLaps": 0, "StartLaps": 0}}}}}}
+{"ts": 1782489387.6752696, "topic": "TimingAppData", "data": {"Lines": {"43": {"Stints": {"4": {"TotalLaps": 17}}}}}}
+{"ts": 1782489392.6912718, "topic": "TimingAppData", "data": {"Lines": {"6": {"Stints": {"4": {"TotalLaps": 16}}}, "87": {"Stints": {"5": {"LapFlags": 0, "Compound": "HARD", "New": "false", "TyresNotChanged": "0", "TotalLaps": 11, "StartLaps": 11}}}}}}
+{"ts": 1782489397.692807, "topic": "TimingAppData", "data": {"Lines": {"55": {"Stints": {"5": {"TotalLaps": 17}}}}}}
+{"ts": 1782489402.6710389, "topic": "TimingAppData", "data": {"Lines": {"27": {"Stints": {"5": {"Compound": "SOFT", "TyresNotChanged": "0", "TotalLaps": 6, "StartLaps": 6}}}, "63": {"Stints": {"2": {"TotalLaps": 12}}}}}}
+{"ts": 1782489407.6765366, "topic": "TimingAppData", "data": {"Lines": {"14": {"Stints": {"4": {"TotalLaps": 10}}}, "5": {"Stints": {"3": {"TotalLaps": 21}}}}}}
+{"ts": 1782489412.7276366, "topic": "TimingAppData", "data": {"Lines": {"30": {"Stints": {"3": {"TotalLaps": 22}}}, "81": {"Stints": {"4": {"TotalLaps": 20}}}}}}
+{"ts": 1782489417.7947848, "topic": "TimingAppData", "data": {"Lines": {"10": {"Stints": {"4": {"TotalLaps": 22}}}, "31": {"Stints": {"3": {"TotalLaps": 21}}}}}}
+{"ts": 1782489427.690386, "topic": "TimingAppData", "data": {"Lines": {"18": {"Stints": {"5": {"TotalLaps": 11}}}, "3": {"Stints": {"4": {"TotalLaps": 20}}}}}}
+{"ts": 1782489432.7083738, "topic": "TimingAppData", "data": {"Lines": {"23": {"Stints": {"6": {"TotalLaps": 21}}}}}}
+{"ts": 1782489447.7108395, "topic": "TimingAppData", "data": {"Lines": {"1": {"Stints": {"5": {"TotalLaps": 21}}}, "41": {"Stints": {"2": {"TotalLaps": 18}}}}}}
+{"ts": 1782489452.6763225, "topic": "TimingAppData", "data": {"Lines": {"12": {"Stints": {"6": {"TotalLaps": 21}}}}}}
+{"ts": 1782489457.6959045, "topic": "TimingAppData", "data": {"Lines": {"16": {"Stints": {"4": {"TotalLaps": 22}}}, "27": {"Stints": {"5": {"TotalLaps": 7}}}, "43": {"Stints": {"4": {"TotalLaps": 18}}}}}}
+{"ts": 1782489467.6943452, "topic": "TimingAppData", "data": {"Lines": {"55": {"Stints": {"5": {"TotalLaps": 18}}}, "6": {"Stints": {"4": {"TotalLaps": 17}}}, "87": {"Stints": {"5": {"TotalLaps": 12}}}}}}
+{"ts": 1782489472.6376803, "topic": "TimingAppData", "data": {"Lines": {"63": {"Stints": {"2": {"TotalLaps": 13}}}}}}
+{"ts": 1782489482.6813514, "topic": "TimingAppData", "data": {"Lines": {"14": {"Stints": {"4": {"TotalLaps": 11}}}, "30": {"Stints": {"3": {"TotalLaps": 23}}}, "5": {"Stints": {"3": {"TotalLaps": 22}}}, "81": {"Stints": {"4": {"TotalLaps": 21}}}}}}
+{"ts": 1782489492.6871529, "topic": "TimingAppData", "data": {"Lines": {"10": {"Stints": {"4": {"TotalLaps": 23}}}, "31": {"Stints": {"3": {"TotalLaps": 22}}}}}}
+{"ts": 1782489497.6422336, "topic": "TimingAppData", "data": {"Lines": {"3": {"Stints": {"4": {"TotalLaps": 21}}}}}}
+{"ts": 1782489500.5379727, "topic": "TimingAppData", "data": {"Lines": {"18": {"Stints": {"5": {"LapTime": "1:14.104", "LapNumber": 28}}}}}}
+{"ts": 1782489502.657571, "topic": "TimingAppData", "data": {"Lines": {"18": {"Stints": {"5": {"TotalLaps": 12}}}}}}
+{"ts": 1782489512.7118871, "topic": "TimingAppData", "data": {"Lines": {"23": {"Stints": {"6": {"TotalLaps": 22}}}}}}
+{"ts": 1782489517.9265873, "topic": "TimingAppData", "data": {"Lines": {"41": {"Stints": {"2": {"TotalLaps": 19}}}, "44": {"Stints": {"4": {"LapFlags": 0, "Compound": "SOFT", "New": "false", "TyresNotChanged": "0", "TotalLaps": 6, "StartLaps": 6}}}}}}
+{"ts": 1782489527.6770074, "topic": "TimingAppData", "data": {"Lines": {"1": {"Stints": {"5": {"TotalLaps": 22}}}}}}
+{"ts": 1782489532.67174, "topic": "TimingAppData", "data": {"Lines": {"12": {"Stints": {"6": {"TotalLaps": 22}}}, "16": {"Stints": {"4": {"TotalLaps": 23}}}, "27": {"Stints": {"5": {"TotalLaps": 8}}}, "43": {"Stints": {"4": {"TotalLaps": 19}}}}}}
+{"ts": 1782489532.7927725, "topic": "TimingAppData", "data": {"Lines": {"27": {"Stints": {"5": {"LapTime": "1:12.227", "LapNumber": 29}}}}}}
+{"ts": 1782489534.5921497, "topic": "TimingAppData", "data": {"Lines": {"6": {"Stints": {"4": {"LapTime": "1:11.774", "LapNumber": 25}}}}}}
+{"ts": 1782489537.666237, "topic": "TimingAppData", "data": {"Lines": {"6": {"Stints": {"4": {"TotalLaps": 18}}}, "87": {"Stints": {"5": {"TotalLaps": 13}}}}}}
+{"ts": 1782489537.748761, "topic": "TimingAppData", "data": {"Lines": {"87": {"Stints": {"5": {"LapTime": "1:12.372", "LapNumber": 30}}}}}}
+{"ts": 1782489542.6961188, "topic": "TimingAppData", "data": {"Lines": {"1": {"Stints": {"6": {"LapFlags": 0, "Compound": "SOFT", "New": "false", "TyresNotChanged": "0", "TotalLaps": 6, "StartLaps": 6}}}, "55": {"Stints": {"5": {"TotalLaps": 19}}}}}}
+{"ts": 1782489547.893918, "topic": "TimingAppData", "data": {"Lines": {"12": {"Stints": {"7": {"LapFlags": 0, "Compound": "SOFT", "New": "false", "TyresNotChanged": "0", "TotalLaps": 6, "StartLaps": 6}}}, "63": {"Stints": {"2": {"TotalLaps": 14}}}}}}
+{"ts": 1782489552.7195408, "topic": "TimingAppData", "data": {"Lines": {"14": {"Stints": {"4": {"TotalLaps": 12}}}}}}
+{"ts": 1782489557.7271757, "topic": "TimingAppData", "data": {"Lines": {"30": {"Stints": {"3": {"TotalLaps": 24}}}, "5": {"Stints": {"3": {"TotalLaps": 23}}}}}}
+{"ts": 1782489562.6916208, "topic": "TimingAppData", "data": {"Lines": {"31": {"Stints": {"3": {"TotalLaps": 23}}}, "81": {"Stints": {"4": {"TotalLaps": 22}}}}}}
+{"ts": 1782489567.806521, "topic": "TimingAppData", "data": {"Lines": {"63": {"Stints": {"3": {"LapFlags": 0, "Compound": "SOFT", "New": "false", "TyresNotChanged": "0", "TotalLaps": 7, "StartLaps": 7}}}}}}
+{"ts": 1782489572.7289646, "topic": "TimingAppData", "data": {"Lines": {"10": {"Stints": {"4": {"TotalLaps": 24}}}, "3": {"Stints": {"4": {"TotalLaps": 22}}}}}}
+{"ts": 1782489575.3380888, "topic": "TimingAppData", "data": {"Lines": {"18": {"Stints": {"5": {"LapTime": "1:14.091", "LapNumber": 29}}}}}}
+{"ts": 1782489577.7722895, "topic": "TimingAppData", "data": {"Lines": {"18": {"Stints": {"5": {"TotalLaps": 13}}}, "81": {"Stints": {"5": {"LapFlags": 0, "Compound": "SOFT", "New": "false", "TyresNotChanged": "0", "TotalLaps": 6, "StartLaps": 6}}}}}}
+{"ts": 1782489587.7379625, "topic": "TimingAppData", "data": {"Lines": {"23": {"Stints": {"6": {"TotalLaps": 23}}}, "44": {"Stints": {"4": {"TotalLaps": 7}}}}}}
+{"ts": 1782489592.7203858, "topic": "TimingAppData", "data": {"Lines": {"41": {"Stints": {"2": {"TotalLaps": 20}}}}}}
+{"ts": 1782489602.7680762, "topic": "TimingAppData", "data": {"Lines": {"16": {"Stints": {"4": {"TotalLaps": 24}}}}}}
+{"ts": 1782489606.5963728, "topic": "TimingAppData", "data": {"Lines": {"6": {"Stints": {"4": {"LapTime": "1:11.715", "LapNumber": 26}}}}}}
+{"ts": 1782489607.7505865, "topic": "TimingAppData", "data": {"Lines": {"43": {"Stints": {"4": {"TotalLaps": 20}}}, "6": {"Stints": {"4": {"TotalLaps": 19}}}}}}
+{"ts": 1782489609.6177967, "topic": "TimingAppData", "data": {"Lines": {"87": {"Stints": {"5": {"LapTime": "1:12.169", "LapNumber": 31}}}}}}
+{"ts": 1782489612.7310655, "topic": "TimingAppData", "data": {"Lines": {"27": {"Stints": {"5": {"TotalLaps": 9}}}, "87": {"Stints": {"5": {"TotalLaps": 14}}}}}}
+{"ts": 1782489617.7334213, "topic": "TimingAppData", "data": {"Lines": {"1": {"Stints": {"6": {"TotalLaps": 7}}}, "55": {"Stints": {"5": {"TotalLaps": 20}}}}}}
+{"ts": 1782489622.734531, "topic": "TimingAppData", "data": {"Lines": {"12": {"Stints": {"7": {"TotalLaps": 7}}}}}}
+{"ts": 1782489627.7338653, "topic": "TimingAppData", "data": {"Lines": {"5": {"Stints": {"3": {"TotalLaps": 24}}}}}}
+{"ts": 1782489632.6995063, "topic": "TimingAppData", "data": {"Lines": {"14": {"Stints": {"4": {"TotalLaps": 13}}}, "30": {"Stints": {"3": {"TotalLaps": 25}}}}}}
+{"ts": 1782489637.7196796, "topic": "TimingAppData", "data": {"Lines": {"31": {"Stints": {"3": {"TotalLaps": 24}}}, "63": {"Stints": {"3": {"TotalLaps": 8}}}}}}
+{"ts": 1782489642.7304718, "topic": "TimingAppData", "data": {"Lines": {"10": {"Stints": {"4": {"TotalLaps": 25}}}, "3": {"Stints": {"4": {"TotalLaps": 23}}}}}}
+{"ts": 1782489652.7792141, "topic": "TimingAppData", "data": {"Lines": {"18": {"Stints": {"5": {"TotalLaps": 14}}}}}}
+{"ts": 1782489657.7766552, "topic": "TimingAppData", "data": {"Lines": {"81": {"Stints": {"5": {"TotalLaps": 7}}}}}}
+{"ts": 1782489662.7198517, "topic": "TimingAppData", "data": {"Lines": {"23": {"Stints": {"6": {"TotalLaps": 24}}}, "44": {"Stints": {"4": {"TotalLaps": 8}}}}}}
+{"ts": 1782489662.7805126, "topic": "TimingAppData", "data": {"Lines": {"44": {"Stints": {"4": {"LapTime": "1:11.875", "LapNumber": 31}}}}}}
+{"ts": 1782489667.7123199, "topic": "TimingAppData", "data": {"Lines": {"41": {"Stints": {"2": {"TotalLaps": 21}}}}}}
+{"ts": 1782489677.6861398, "topic": "TimingAppData", "data": {"Lines": {"16": {"Stints": {"4": {"TotalLaps": 25}}}, "43": {"Stints": {"4": {"TotalLaps": 21}}}}}}
+{"ts": 1782489712.6932912, "topic": "TimingAppData", "data": {"Lines": {"87": {"Stints": {"5": {"TotalLaps": 15}}}}}}
+{"ts": 1782489722.714426, "topic": "TimingAppData", "data": {"Lines": {"27": {"Stints": {"5": {"TotalLaps": 10}}}}}}
+{"ts": 1782489727.7220697, "topic": "TimingAppData", "data": {"Lines": {"1": {"Stints": {"6": {"TotalLaps": 8}}}, "55": {"Stints": {"5": {"TotalLaps": 21}}}}}}
+{"ts": 1782489728.0778475, "topic": "TimingAppData", "data": {"Lines": {"1": {"Stints": {"6": {"LapTime": "1:49.745", "LapNumber": 31}}}}}}
+{"ts": 1782489732.7506754, "topic": "TimingAppData", "data": {"Lines": {"12": {"Stints": {"7": {"TotalLaps": 8}}}}}}
+{"ts": 1782489732.8950744, "topic": "TimingAppData", "data": {"Lines": {"12": {"Stints": {"7": {"LapTime": "1:49.444", "LapNumber": 31}}}}}}
+{"ts": 1782489737.6918223, "topic": "TimingAppData", "data": {"Lines": {"14": {"Stints": {"4": {"TotalLaps": 14}}}, "5": {"Stints": {"3": {"TotalLaps": 25}}}}}}
+{"ts": 1782489747.727383, "topic": "TimingAppData", "data": {"Lines": {"30": {"Stints": {"3": {"TotalLaps": 26}}}}}}
+{"ts": 1782489757.7023757, "topic": "TimingAppData", "data": {"Lines": {"10": {"Stints": {"4": {"TotalLaps": 26}}}, "31": {"Stints": {"3": {"TotalLaps": 25}}}, "6": {"Stints": {"4": {"TotalLaps": 20}}}}}}
+{"ts": 1782489762.7439823, "topic": "TimingAppData", "data": {"Lines": {"63": {"Stints": {"3": {"TotalLaps": 9}}}}}}
+{"ts": 1782489762.8760228, "topic": "TimingAppData", "data": {"Lines": {"63": {"Stints": {"3": {"LapTime": "2:03.909", "LapNumber": 24}}}}}}
+{"ts": 1782489767.6871226, "topic": "TimingAppData", "data": {"Lines": {"44": {"Stints": {"4": {"TotalLaps": 9}}}}}}
+{"ts": 1782489772.7147691, "topic": "TimingAppData", "data": {"Lines": {"18": {"Stints": {"5": {"TotalLaps": 15}}}, "81": {"Stints": {"5": {"TotalLaps": 8}}}}}}
+{"ts": 1782489772.8334749, "topic": "TimingAppData", "data": {"Lines": {"81": {"Stints": {"5": {"LapTime": "1:53.779", "LapNumber": 31}}}}}}
+{"ts": 1782489782.7465942, "topic": "TimingAppData", "data": {"Lines": {"23": {"Stints": {"6": {"TotalLaps": 25}}}}}}
+{"ts": 1782489812.6918688, "topic": "TimingAppData", "data": {"Lines": {"41": {"Stints": {"2": {"TotalLaps": 22}}}}}}
+{"ts": 1782489827.7206779, "topic": "TimingAppData", "data": {"Lines": {"3": {"Stints": {"4": {"TotalLaps": 24}}}}}}
+{"ts": 1782489832.7063646, "topic": "TimingAppData", "data": {"Lines": {"16": {"Stints": {"4": {"TotalLaps": 26}}}}}}
+{"ts": 1782489837.7122912, "topic": "TimingAppData", "data": {"Lines": {"43": {"Stints": {"4": {"TotalLaps": 22}}}}}}
+{"ts": 1782489847.7050135, "topic": "TimingAppData", "data": {"Lines": {"5": {"Stints": {"3": {"TotalLaps": 26}}}, "87": {"Stints": {"5": {"TotalLaps": 16}}}}}}
+{"ts": 1782489857.7145283, "topic": "TimingAppData", "data": {"Lines": {"1": {"Stints": {"6": {"TotalLaps": 9}}}, "27": {"Stints": {"5": {"TotalLaps": 11}}}}}}
+{"ts": 1782489862.7847652, "topic": "TimingAppData", "data": {"Lines": {"55": {"Stints": {"5": {"TotalLaps": 22}}}}}}
+{"ts": 1782489867.7015696, "topic": "TimingAppData", "data": {"Lines": {"12": {"Stints": {"7": {"TotalLaps": 9}}}, "14": {"Stints": {"4": {"TotalLaps": 15}}}}}}
+{"ts": 1782489882.7170148, "topic": "TimingAppData", "data": {"Lines": {"30": {"Stints": {"3": {"TotalLaps": 27}}}}}}
+{"ts": 1782489892.7637153, "topic": "TimingAppData", "data": {"Lines": {"10": {"Stints": {"4": {"TotalLaps": 27}}}}}}
+{"ts": 1782489897.6981018, "topic": "TimingAppData", "data": {"Lines": {"31": {"Stints": {"3": {"TotalLaps": 26}}}}}}
+{"ts": 1782489902.730529, "topic": "TimingAppData", "data": {"Lines": {"18": {"Stints": {"5": {"TotalLaps": 16}}}, "41": {"Stints": {"2": {"TotalLaps": 23}}}, "63": {"Stints": {"3": {"TotalLaps": 10}}}}}}
+{"ts": 1782489912.7215693, "topic": "TimingAppData", "data": {"Lines": {"44": {"Stints": {"4": {"TotalLaps": 10}}}, "6": {"Stints": {"4": {"TotalLaps": 21}}}}}}
+{"ts": 1782489917.7285728, "topic": "TimingAppData", "data": {"Lines": {"81": {"Stints": {"5": {"TotalLaps": 9}}}}}}
+{"ts": 1782489922.7745214, "topic": "TimingAppData", "data": {"Lines": {"23": {"Stints": {"6": {"TotalLaps": 26}}}}}}
+{"ts": 1782489957.7286787, "topic": "TimingAppData", "data": {"Lines": {"87": {"Stints": {"5": {"TotalLaps": 17}}}}}}
+{"ts": 1782489962.7362325, "topic": "TimingAppData", "data": {"Lines": {"3": {"Stints": {"4": {"TotalLaps": 25}}}}}}
+{"ts": 1782489967.7267354, "topic": "TimingAppData", "data": {"Lines": {"16": {"Stints": {"4": {"TotalLaps": 27}}}}}}
+{"ts": 1782489972.7148187, "topic": "TimingAppData", "data": {"Lines": {"1": {"Stints": {"6": {"TotalLaps": 10}}}, "5": {"Stints": {"3": {"TotalLaps": 27}}}}}}
+{"ts": 1782489977.8266633, "topic": "TimingAppData", "data": {"Lines": {"43": {"Stints": {"4": {"TotalLaps": 23}}}, "55": {"Stints": {"5": {"TotalLaps": 23}}}}}}
+{"ts": 1782489982.7220535, "topic": "TimingAppData", "data": {"Lines": {"14": {"Stints": {"4": {"TotalLaps": 16}}}}}}
+{"ts": 1782489987.7204363, "topic": "TimingAppData", "data": {"Lines": {"12": {"Stints": {"7": {"TotalLaps": 10}}}}}}
+{"ts": 1782489997.8684993, "topic": "TimingAppData", "data": {"Lines": {"30": {"Stints": {"3": {"TotalLaps": 28}}}}}}
+{"ts": 1782490002.7366977, "topic": "TimingAppData", "data": {"Lines": {"31": {"Stints": {"3": {"TotalLaps": 27}}}}}}
+{"ts": 1782490007.7340224, "topic": "TimingAppData", "data": {"Lines": {"27": {"Stints": {"5": {"TotalLaps": 12}}}}}}
+{"ts": 1782490012.7143688, "topic": "TimingAppData", "data": {"Lines": {"10": {"Stints": {"4": {"TotalLaps": 28}}}, "44": {"Stints": {"4": {"TotalLaps": 11}}}}}}
+{"ts": 1782490015.906276, "topic": "TimingAppData", "data": {"Lines": {"63": {"Stints": {"3": {"LapTime": "1:57.657", "LapNumber": 25}}}}}}
+{"ts": 1782490017.7182221, "topic": "TimingAppData", "data": {"Lines": {"63": {"Stints": {"3": {"TotalLaps": 11}}}}}}
+{"ts": 1782490026.726285, "topic": "TimingAppData", "data": {"Lines": {"81": {"Stints": {"5": {"LapTime": "1:51.665", "LapNumber": 32}}}}}}
+{"ts": 1782490027.7512288, "topic": "TimingAppData", "data": {"Lines": {"18": {"Stints": {"5": {"TotalLaps": 17}}}, "81": {"Stints": {"5": {"TotalLaps": 10}}}}}}
+{"ts": 1782490037.7134287, "topic": "TimingAppData", "data": {"Lines": {"23": {"Stints": {"6": {"TotalLaps": 27}}}}}}
+{"ts": 1782490042.7121553, "topic": "TimingAppData", "data": {"Lines": {"6": {"Stints": {"4": {"TotalLaps": 22}}}}}}
+{"ts": 1782490062.741973, "topic": "TimingAppData", "data": {"Lines": {"16": {"Stints": {"4": {"TotalLaps": 28}}}, "3": {"Stints": {"4": {"TotalLaps": 26}}}}}}
+{"ts": 1782490082.7233393, "topic": "TimingAppData", "data": {"Lines": {"43": {"Stints": {"4": {"TotalLaps": 24}}}}}}
