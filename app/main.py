@@ -126,7 +126,7 @@ async def f1_connection_loop():
                 start_offset = float(os.environ.get("LIVE_REPLAY_START_OFFSET", "0"))
                 logger.info(f"*** LIVE REPLAY MODE *** ({live_replay_dir}, {speed}x)")
                 f1_client = LiveReplayFeed(on_message=handle_f1_message, data_dir=live_replay_dir, speed=speed, start_offset=start_offset)
-                await asyncio.wait_for(f1_client.start(), timeout=30)
+                await f1_client.start()
             else:
                 logger.warning(f"Live replay directory invalid: {live_replay_dir}")
         except Exception as e:
@@ -143,7 +143,7 @@ async def f1_connection_loop():
         replay_speed = _replay_requested["speed"] if _replay_requested["active"] else float(os.environ.get("REPLAY_SPEED", "10"))
         logger.info(f"*** REPLAY MODE *** ({replay_speed}x speed)")
         f1_client = ReplayClient(on_message=handle_f1_message)
-        await asyncio.wait_for(f1_client.start(), timeout=30)
+        await f1_client.start()
         logger.info("Replay finished - server stays running for frontend")
     if _replay_requested["active"]:
         _replay_requested["active"] = False
