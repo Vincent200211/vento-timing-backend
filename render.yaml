@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: vento-timing-backend
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: TYRE_DB_PATH
+        value: data/tyre_raw.db
+      - key: PYTHON_VERSION
+        value: "3.11"
+      - key: F1_TOKEN
+        sync: false
+      - key: F1_EMAIL
+        sync: false
+      - key: F1_PASSWORD
+        sync: false
