@@ -101,12 +101,14 @@ async def f1_connection_loop():
     global f1_client
     # NEW: Live replay mode replays recorded SignalR JSONL data
     live_replay_dir = os.environ.get("LIVE_REPLAY_MODE", "")
+    if not live_replay_dir and _replay_requested["active"]:
+        live_replay_dir = "1"
     if live_replay_dir:
         try:
             if live_replay_dir.strip() == "1":
-                recordings_base = os.path.join(os.path.dirname(os.path.dirname(__file__)), "..", "..", "recordings")
+                recordings_base = os.path.join(os.path.dirname(__file__), "..", "..", "recordings")
                 if not os.path.isdir(recordings_base):
-                    recordings_base = os.path.join(os.path.dirname(os.path.dirname(__file__)), "..", "recordings")
+                    recordings_base = os.path.join(os.path.dirname(__file__), "..", "recordings")
                 recordings_base = os.path.normpath(recordings_base)
                 if os.path.isdir(recordings_base):
                     dates = sorted(d for d in os.listdir(recordings_base) if os.path.isdir(os.path.join(recordings_base, d)))
