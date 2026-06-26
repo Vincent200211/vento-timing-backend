@@ -5,7 +5,8 @@
 *.db
 tyre_raw.db
 data/*
-cache/
+cache/*
+!cache/centerline_*.json
 fastf1_cache/
 .vercel
 dist/
