@@ -122,7 +122,7 @@ class DataProcessor:
         self._pit_session_count: int = 0
         self._stint_history: dict[int, list] = {}
         self._stint_start_laps: dict[int, int] = {}
-        # circuits_xy.json lookup: circuit name éˆ?circuit_key
+        # circuits_xy.json lookup: circuit name -> circuit_key
         # Pit window smoothing (EMA)
         self._car_speed_history: dict[int, list] = {}
         self._pit_min_per_lap: dict[int, float] = {}
