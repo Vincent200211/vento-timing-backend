@@ -621,6 +621,11 @@ class DataProcessor:
         speed_kmh = PIT_LANE_SPEEDS.get(circuit_short, 80)
         self._pit_entry_speed_default = speed_kmh / 3.6
  
+    def _handle_ExtrapolatedClock(self, data: dict, ts: float):
+        remaining = data.get("Remaining")
+        if remaining and isinstance(remaining, str) and ":" in remaining:
+            self.session_info.remaining = remaining
+
     def _handle_DriverList(self, data: dict, ts: float):
         lines = data.get("Lines", data)
         for num_str, driver in lines.items():
