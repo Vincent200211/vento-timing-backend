@@ -35,14 +35,17 @@ class WebSocketManager:
             _logging.getLogger(__name__).warning(f"Broadcast [{msg_type}] too large, skipped ({_e})")
             return
         async with self._lock:
-            dead = []
-            for ws in self._connections:
-                try:
-                    await ws.send_text(message)
-                except Exception:
-                    dead.append(ws)
-            for ws in dead:
-                self._connections.remove(ws)
+            connections = list(self._connections)
+        results = await asyncio.gather(
+            *[ws.send_text(message) for ws in connections],
+            return_exceptions=True,
+        )
+        dead = [ws for ws, r in zip(connections, results) if isinstance(r, Exception)]
+        if dead:
+            async with self._lock:
+                for ws in dead:
+                    if ws in self._connections:
+                        self._connections.remove(ws)
 
     @property
     def active_connections(self) -> int:

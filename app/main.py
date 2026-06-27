@@ -153,6 +153,12 @@ async def f1_connection_loop():
 
     token = ensure_valid_token()
     while True:
+        if f1_client:
+            try:
+                await f1_client.stop()
+                logger.info("Previous SignalR client stopped")
+            except Exception as e:
+                logger.warning(f"Previous client stop error: {e}")
         try:
             logger.info("Starting F1 SignalR connection...")
             f1_client = F1SignalRClient(token=token, on_message=handle_f1_message, topics=TOPICS)
@@ -165,7 +171,7 @@ async def f1_connection_loop():
                 if new_token != token:
                     token = new_token
                     logger.info('Token refreshed, will retry')
-        await asyncio.sleep(10)
+            await asyncio.sleep(10)
 
 
 @asynccontextmanager
@@ -195,6 +201,7 @@ async def get_status():
         "session_name": processor.session_info.session_name,
         "drivers": len(processor.drivers),
         "clients": manager.active_connections,
+        "track_length": processor.current_circuit.get("length_m") if processor.current_circuit else None,
     }
 
 
