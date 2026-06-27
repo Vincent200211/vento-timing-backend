@@ -1,0 +1,1107 @@
+round,grand_prix,circuit,length_km,element_type,element_no,gps_lat,gps_lon
+
+
+
+
+
+
+
+1,Australian GP,Albert Park Circuit,5.278,start_line,0,-37.8497,144.9683
+
+
+
+
+
+
+
+1,Australian GP,Albert Park Circuit,5.278,corner,1,-37.8488,144.967
+
+
+
+
+
+
+
+1,Australian GP,Albert Park Circuit,5.278,corner,2,-37.8472,144.969
+
+
+
+
+
+
+
+1,Australian GP,Albert Park Circuit,5.278,corner,3,-37.8465,144.9715
+
+
+
+
+
+
+
+1,Australian GP,Albert Park Circuit,5.278,corner,4,-37.8478,144.9735
+
+
+
+
+
+
+
+1,Australian GP,Albert Park Circuit,5.278,corner,5,-37.8495,144.9738
+
+
+
+
+
+
+
+1,Australian GP,Albert Park Circuit,5.278,s1_split,1,-37.8505,144.972
+
+
+
+
+
+
+
+1,Australian GP,Albert Park Circuit,5.278,corner,6,-37.851,144.971
+
+
+
+
+
+
+
+1,Australian GP,Albert Park Circuit,5.278,corner,7,-37.8515,144.9695
+
+
+
+
+
+
+
+1,Australian GP,Albert Park Circuit,5.278,corner,8,-37.8518,144.968
+
+
+
+
+
+
+
+1,Australian GP,Albert Park Circuit,5.278,corner,9,-37.8512,144.9665
+
+
+
+
+
+
+
+1,Australian GP,Albert Park Circuit,5.278,corner,10,-37.85,144.9655
+
+
+
+
+
+
+
+1,Australian GP,Albert Park Circuit,5.278,s2_split,1,-37.8495,144.966
+
+
+
+
+
+
+
+1,Australian GP,Albert Park Circuit,5.278,corner,11,-37.849,144.9663
+
+
+
+
+
+
+
+1,Australian GP,Albert Park Circuit,5.278,corner,12,-37.8485,144.9668
+
+
+
+
+
+
+
+1,Australian GP,Albert Park Circuit,5.278,corner,13,-37.8488,144.9675
+
+
+
+
+
+
+
+1,Australian GP,Albert Park Circuit,5.278,corner,14,-37.8495,144.967
+
+
+
+
+
+
+
+2,Chinese GP,Shanghai International Circuit,5.451,start_line,0,31.3389,121.2197
+
+
+
+2,Chinese GP,Shanghai International Circuit,5.451,corner,1,31.3375,121.221
+
+
+
+2,Chinese GP,Shanghai International Circuit,5.451,corner,2,31.3365,121.2205
+
+
+
+2,Chinese GP,Shanghai International Circuit,5.451,corner,3,31.3358,121.2195
+
+
+
+2,Chinese GP,Shanghai International Circuit,5.451,corner,4,31.336,121.2175
+
+
+
+2,Chinese GP,Shanghai International Circuit,5.451,corner,5,31.337,121.2165
+
+
+
+2,Chinese GP,Shanghai International Circuit,5.451,corner,6,31.3385,121.216
+
+
+
+2,Chinese GP,Shanghai International Circuit,5.451,s1_split,1,31.339,121.217
+
+
+
+2,Chinese GP,Shanghai International Circuit,5.451,corner,7,31.3395,121.218
+
+
+
+2,Chinese GP,Shanghai International Circuit,5.451,corner,8,31.34,121.219
+
+
+
+2,Chinese GP,Shanghai International Circuit,5.451,corner,9,31.3405,121.22
+
+
+
+2,Chinese GP,Shanghai International Circuit,5.451,corner,10,31.34,121.222
+
+
+
+2,Chinese GP,Shanghai International Circuit,5.451,corner,11,31.3395,121.223
+
+
+
+2,Chinese GP,Shanghai International Circuit,5.451,corner,12,31.3385,121.2235
+
+
+
+2,Chinese GP,Shanghai International Circuit,5.451,corner,13,31.3375,121.2225
+
+
+
+2,Chinese GP,Shanghai International Circuit,5.451,s2_split,1,31.337,121.2215
+
+
+
+2,Chinese GP,Shanghai International Circuit,5.451,corner,14,31.3378,121.2202
+
+
+
+2,Chinese GP,Shanghai International Circuit,5.451,corner,15,31.3385,121.219
+
+
+
+2,Chinese GP,Shanghai International Circuit,5.451,corner,16,31.3385,121.22
+
+
+
+3,Japanese GP,Suzuka Circuit,5.807,start_line,0,34.8417,136.5389
+
+
+
+3,Japanese GP,Suzuka Circuit,5.807,corner,1,34.8405,136.5395
+
+
+
+3,Japanese GP,Suzuka Circuit,5.807,corner,2,34.8395,136.5385
+
+
+
+3,Japanese GP,Suzuka Circuit,5.807,corner,3,34.839,136.537
+
+
+
+3,Japanese GP,Suzuka Circuit,5.807,corner,4,34.8395,136.5355
+
+
+
+3,Japanese GP,Suzuka Circuit,5.807,corner,5,34.84,136.5345
+
+
+
+3,Japanese GP,Suzuka Circuit,5.807,corner,6,34.841,136.534
+
+
+
+3,Japanese GP,Suzuka Circuit,5.807,corner,7,34.842,136.5345
+
+
+
+3,Japanese GP,Suzuka Circuit,5.807,s1_split,1,34.8425,136.5355
+
+
+
+3,Japanese GP,Suzuka Circuit,5.807,corner,8,34.843,136.537
+
+
+
+3,Japanese GP,Suzuka Circuit,5.807,corner,9,34.8435,136.5385
+
+
+
+3,Japanese GP,Suzuka Circuit,5.807,corner,10,34.843,136.54
+
+
+
+3,Japanese GP,Suzuka Circuit,5.807,corner,11,34.842,136.541
+
+
+
+3,Japanese GP,Suzuka Circuit,5.807,corner,12,34.8415,136.542
+
+
+
+3,Japanese GP,Suzuka Circuit,5.807,corner,13,34.8405,136.5425
+
+
+
+3,Japanese GP,Suzuka Circuit,5.807,s2_split,1,34.84,136.5415
+
+
+
+3,Japanese GP,Suzuka Circuit,5.807,corner,14,34.84,136.54
+
+
+
+3,Japanese GP,Suzuka Circuit,5.807,corner,15,34.8405,136.538
+
+
+
+3,Japanese GP,Suzuka Circuit,5.807,corner,16,34.841,136.5365
+
+
+
+3,Japanese GP,Suzuka Circuit,5.807,corner,17,34.8415,136.537
+
+
+
+3,Japanese GP,Suzuka Circuit,5.807,corner,18,34.842,136.538
+
+
+
+4,Miami GP,Miami International Autodrome,5.412,start_line,0,25.9581,-80.2389
+
+
+
+4,Miami GP,Miami International Autodrome,5.412,corner,1,25.957,-80.2375
+
+
+
+4,Miami GP,Miami International Autodrome,5.412,corner,2,25.956,-80.238
+
+
+
+4,Miami GP,Miami International Autodrome,5.412,corner,3,25.9555,-80.2395
+
+
+
+4,Miami GP,Miami International Autodrome,5.412,corner,4,25.956,-80.241
+
+
+
+4,Miami GP,Miami International Autodrome,5.412,corner,5,25.957,-80.2415
+
+
+
+4,Miami GP,Miami International Autodrome,5.412,corner,6,25.9585,-80.2418
+
+
+
+4,Miami GP,Miami International Autodrome,5.412,corner,7,25.9595,-80.241
+
+
+
+4,Miami GP,Miami International Autodrome,5.412,s1_split,1,25.96,-80.24
+
+
+
+4,Miami GP,Miami International Autodrome,5.412,corner,8,25.9605,-80.2385
+
+
+
+4,Miami GP,Miami International Autodrome,5.412,corner,9,25.9608,-80.237
+
+
+
+4,Miami GP,Miami International Autodrome,5.412,corner,10,25.96,-80.2355
+
+
+
+4,Miami GP,Miami International Autodrome,5.412,corner,11,25.959,-80.235
+
+
+
+4,Miami GP,Miami International Autodrome,5.412,corner,12,25.958,-80.2355
+
+
+
+4,Miami GP,Miami International Autodrome,5.412,corner,13,25.957,-80.236
+
+
+
+4,Miami GP,Miami International Autodrome,5.412,corner,14,25.956,-80.2365
+
+
+
+4,Miami GP,Miami International Autodrome,5.412,corner,15,25.9555,-80.2375
+
+
+
+4,Miami GP,Miami International Autodrome,5.412,s2_split,1,25.956,-80.2385
+
+
+
+4,Miami GP,Miami International Autodrome,5.412,corner,16,25.9565,-80.2395
+
+
+
+4,Miami GP,Miami International Autodrome,5.412,corner,17,25.957,-80.2405
+
+
+
+4,Miami GP,Miami International Autodrome,5.412,corner,18,25.9575,-80.24
+
+
+
+4,Miami GP,Miami International Autodrome,5.412,corner,19,25.958,-80.2395
+
+
+
+5,Canadian GP,Circuit Gilles Villeneuve,4.361,start_line,0,45.5006,-73.5225
+
+
+
+5,Canadian GP,Circuit Gilles Villeneuve,4.361,corner,1,45.5,-73.521
+
+
+
+5,Canadian GP,Circuit Gilles Villeneuve,4.361,corner,2,45.4995,-73.5195
+
+
+
+5,Canadian GP,Circuit Gilles Villeneuve,4.361,corner,3,45.5,-73.518
+
+
+
+5,Canadian GP,Circuit Gilles Villeneuve,4.361,corner,4,45.501,-73.5175
+
+
+
+5,Canadian GP,Circuit Gilles Villeneuve,4.361,corner,5,45.502,-73.518
+
+
+
+5,Canadian GP,Circuit Gilles Villeneuve,4.361,corner,6,45.503,-73.519
+
+
+
+5,Canadian GP,Circuit Gilles Villeneuve,4.361,corner,7,45.5035,-73.521
+
+
+
+5,Canadian GP,Circuit Gilles Villeneuve,4.361,s1_split,1,45.503,-73.5225
+
+
+
+5,Canadian GP,Circuit Gilles Villeneuve,4.361,corner,8,45.5025,-73.524
+
+
+
+5,Canadian GP,Circuit Gilles Villeneuve,4.361,corner,9,45.502,-73.5255
+
+
+
+5,Canadian GP,Circuit Gilles Villeneuve,4.361,corner,10,45.5015,-73.5265
+
+
+
+5,Canadian GP,Circuit Gilles Villeneuve,4.361,corner,11,45.5005,-73.527
+
+
+
+5,Canadian GP,Circuit Gilles Villeneuve,4.361,corner,12,45.4995,-73.5265
+
+
+
+5,Canadian GP,Circuit Gilles Villeneuve,4.361,s2_split,1,45.499,-73.5255
+
+
+
+5,Canadian GP,Circuit Gilles Villeneuve,4.361,corner,13,45.499,-73.524
+
+
+
+5,Canadian GP,Circuit Gilles Villeneuve,4.361,corner,14,45.4995,-73.523
+
+
+
+6,Monaco GP,Circuit de Monaco,3.337,start_line,0,43.7347,7.4206
+
+
+
+6,Monaco GP,Circuit de Monaco,3.337,corner,1,43.735,7.4215
+
+
+
+6,Monaco GP,Circuit de Monaco,3.337,corner,2,43.7355,7.422
+
+
+
+6,Monaco GP,Circuit de Monaco,3.337,corner,3,43.736,7.423
+
+
+
+6,Monaco GP,Circuit de Monaco,3.337,corner,4,43.7365,7.4235
+
+
+
+6,Monaco GP,Circuit de Monaco,3.337,corner,5,43.737,7.423
+
+
+
+6,Monaco GP,Circuit de Monaco,3.337,corner,6,43.737,7.422
+
+
+
+6,Monaco GP,Circuit de Monaco,3.337,s1_split,1,43.7365,7.4215
+
+
+
+6,Monaco GP,Circuit de Monaco,3.337,corner,7,43.736,7.421
+
+
+
+6,Monaco GP,Circuit de Monaco,3.337,corner,8,43.7355,7.42
+
+
+
+6,Monaco GP,Circuit de Monaco,3.337,corner,9,43.735,7.419
+
+
+
+6,Monaco GP,Circuit de Monaco,3.337,corner,10,43.7345,7.4185
+
+
+
+6,Monaco GP,Circuit de Monaco,3.337,corner,11,43.734,7.418
+
+
+
+6,Monaco GP,Circuit de Monaco,3.337,corner,12,43.7335,7.419
+
+
+
+6,Monaco GP,Circuit de Monaco,3.337,corner,13,43.733,7.4195
+
+
+
+6,Monaco GP,Circuit de Monaco,3.337,s2_split,1,43.7335,7.42
+
+
+
+6,Monaco GP,Circuit de Monaco,3.337,corner,14,43.7338,7.4205
+
+
+
+6,Monaco GP,Circuit de Monaco,3.337,corner,15,43.734,7.4208
+
+
+
+6,Monaco GP,Circuit de Monaco,3.337,corner,16,43.7342,7.4205
+
+
+
+6,Monaco GP,Circuit de Monaco,3.337,corner,17,43.7345,7.4202
+
+
+
+6,Monaco GP,Circuit de Monaco,3.337,corner,18,43.7346,7.4204
+
+
+
+6,Monaco GP,Circuit de Monaco,3.337,corner,19,43.7345,7.4208
+
+
+
+7,Barcelona-Catalunya GP,Circuit de Barcelona-Catalunya,4.657,start_line,0,41.57,2.2611
+
+
+
+7,Barcelona-Catalunya GP,Circuit de Barcelona-Catalunya,4.657,corner,1,41.5685,2.262
+
+
+
+7,Barcelona-Catalunya GP,Circuit de Barcelona-Catalunya,4.657,corner,2,41.5675,2.2625
+
+
+
+7,Barcelona-Catalunya GP,Circuit de Barcelona-Catalunya,4.657,corner,3,41.5665,2.262
+
+
+
+7,Barcelona-Catalunya GP,Circuit de Barcelona-Catalunya,4.657,corner,4,41.566,2.261
+
+
+
+7,Barcelona-Catalunya GP,Circuit de Barcelona-Catalunya,4.657,corner,5,41.5665,2.2595
+
+
+
+7,Barcelona-Catalunya GP,Circuit de Barcelona-Catalunya,4.657,corner,6,41.5675,2.2585
+
+
+
+7,Barcelona-Catalunya GP,Circuit de Barcelona-Catalunya,4.657,corner,7,41.5685,2.258
+
+
+
+7,Barcelona-Catalunya GP,Circuit de Barcelona-Catalunya,4.657,corner,8,41.5695,2.2585
+
+
+
+7,Barcelona-Catalunya GP,Circuit de Barcelona-Catalunya,4.657,s1_split,1,41.57,2.2595
+
+
+
+7,Barcelona-Catalunya GP,Circuit de Barcelona-Catalunya,4.657,corner,9,41.5705,2.2605
+
+
+
+7,Barcelona-Catalunya GP,Circuit de Barcelona-Catalunya,4.657,corner,10,41.5715,2.261
+
+
+
+7,Barcelona-Catalunya GP,Circuit de Barcelona-Catalunya,4.657,corner,11,41.572,2.262
+
+
+
+7,Barcelona-Catalunya GP,Circuit de Barcelona-Catalunya,4.657,corner,12,41.5715,2.263
+
+
+
+7,Barcelona-Catalunya GP,Circuit de Barcelona-Catalunya,4.657,corner,13,41.5705,2.2635
+
+
+
+7,Barcelona-Catalunya GP,Circuit de Barcelona-Catalunya,4.657,s2_split,1,41.5698,2.263
+
+
+
+7,Barcelona-Catalunya GP,Circuit de Barcelona-Catalunya,4.657,corner,14,41.569,2.2625
+
+
+
+7,Barcelona-Catalunya GP,Circuit de Barcelona-Catalunya,4.657,corner,15,41.5685,2.2615
+
+
+
+7,Barcelona-Catalunya GP,Circuit de Barcelona-Catalunya,4.657,corner,16,41.569,2.2605
+
+
+
+8,Austrian GP,Red Bull Ring,4.318,start_line,0,47.2197,14.7647
+
+
+
+8,Austrian GP,Red Bull Ring,4.318,corner,1,47.2185,14.7655
+
+
+
+8,Austrian GP,Red Bull Ring,4.318,corner,2,47.219,14.7665
+
+
+
+8,Austrian GP,Red Bull Ring,4.318,corner,3,47.22,14.7665
+
+
+
+8,Austrian GP,Red Bull Ring,4.318,s1_split,1,47.2205,14.7655
+
+
+
+8,Austrian GP,Red Bull Ring,4.318,corner,4,47.221,14.7645
+
+
+
+8,Austrian GP,Red Bull Ring,4.318,corner,5,47.2215,14.7635
+
+
+
+8,Austrian GP,Red Bull Ring,4.318,corner,6,47.221,14.7625
+
+
+
+8,Austrian GP,Red Bull Ring,4.318,corner,7,47.22,14.762
+
+
+
+8,Austrian GP,Red Bull Ring,4.318,s2_split,1,47.2195,14.7625
+
+
+
+8,Austrian GP,Red Bull Ring,4.318,corner,8,47.219,14.763
+
+
+
+8,Austrian GP,Red Bull Ring,4.318,corner,9,47.219,14.764
+
+
+
+8,Austrian GP,Red Bull Ring,4.318,corner,10,47.2195,14.7645
+
+
+
+9,British GP,Silverstone Circuit,5.891,start_line,0,52.071,-1.016
+
+
+
+9,British GP,Silverstone Circuit,5.891,corner,1,52.07,-1.015
+
+
+
+9,British GP,Silverstone Circuit,5.891,corner,2,52.069,-1.0145
+
+
+
+9,British GP,Silverstone Circuit,5.891,corner,3,52.068,-1.014
+
+
+
+9,British GP,Silverstone Circuit,5.891,corner,4,52.0675,-1.015
+
+
+
+9,British GP,Silverstone Circuit,5.891,corner,5,52.0675,-1.0165
+
+
+
+9,British GP,Silverstone Circuit,5.891,corner,6,52.068,-1.018
+
+
+
+9,British GP,Silverstone Circuit,5.891,s1_split,1,52.069,-1.0185
+
+
+
+9,British GP,Silverstone Circuit,5.891,corner,7,52.07,-1.0185
+
+
+
+9,British GP,Silverstone Circuit,5.891,corner,8,52.071,-1.018
+
+
+
+9,British GP,Silverstone Circuit,5.891,corner,9,52.072,-1.0175
+
+
+
+9,British GP,Silverstone Circuit,5.891,corner,10,52.073,-1.0165
+
+
+
+9,British GP,Silverstone Circuit,5.891,corner,11,52.0735,-1.0155
+
+
+
+9,British GP,Silverstone Circuit,5.891,corner,12,52.0735,-1.014
+
+
+
+9,British GP,Silverstone Circuit,5.891,corner,13,52.073,-1.0125
+
+
+
+9,British GP,Silverstone Circuit,5.891,s2_split,1,52.072,-1.012
+
+
+
+9,British GP,Silverstone Circuit,5.891,corner,14,52.071,-1.012
+
+
+
+9,British GP,Silverstone Circuit,5.891,corner,15,52.07,-1.013
+
+
+
+9,British GP,Silverstone Circuit,5.891,corner,16,52.0695,-1.014
+
+
+
+9,British GP,Silverstone Circuit,5.891,corner,17,52.0695,-1.0155
+
+
+
+10,Belgian GP,Circuit de Spa-Francorchamps,7.004,start_line,0,50.4372,5.9714
+
+10,Belgian GP,Circuit de Spa-Francorchamps,7.004,corner,1,50.436,5.971
+
+10,Belgian GP,Circuit de Spa-Francorchamps,7.004,corner,2,50.4355,5.97
+
+10,Belgian GP,Circuit de Spa-Francorchamps,7.004,corner,3,50.435,5.969
+
+10,Belgian GP,Circuit de Spa-Francorchamps,7.004,corner,4,50.4345,5.968
+
+10,Belgian GP,Circuit de Spa-Francorchamps,7.004,corner,5,50.435,5.967
+
+10,Belgian GP,Circuit de Spa-Francorchamps,7.004,s1_split,1,50.436,5.9675
+
+10,Belgian GP,Circuit de Spa-Francorchamps,7.004,corner,6,50.437,5.968
+
+10,Belgian GP,Circuit de Spa-Francorchamps,7.004,corner,7,50.438,5.969
+
+10,Belgian GP,Circuit de Spa-Francorchamps,7.004,corner,8,50.439,5.97
+
+10,Belgian GP,Circuit de Spa-Francorchamps,7.004,corner,9,50.4395,5.9715
+
+10,Belgian GP,Circuit de Spa-Francorchamps,7.004,corner,10,50.439,5.973
+
+10,Belgian GP,Circuit de Spa-Francorchamps,7.004,corner,11,50.438,5.974
+
+10,Belgian GP,Circuit de Spa-Francorchamps,7.004,corner,12,50.437,5.975
+
+10,Belgian GP,Circuit de Spa-Francorchamps,7.004,corner,13,50.436,5.974
+
+10,Belgian GP,Circuit de Spa-Francorchamps,7.004,s2_split,1,50.4365,5.973
+
+10,Belgian GP,Circuit de Spa-Francorchamps,7.004,corner,14,50.437,5.972
+
+10,Belgian GP,Circuit de Spa-Francorchamps,7.004,corner,15,50.4375,5.971
+
+11,Hungarian GP,Hungaroring,4.381,start_line,0,47.5822,19.2511
+
+11,Hungarian GP,Hungaroring,4.381,corner,1,47.5815,19.2525
+
+11,Hungarian GP,Hungaroring,4.381,corner,2,47.5805,19.253
+
+11,Hungarian GP,Hungaroring,4.381,corner,3,47.5795,19.2525
+
+11,Hungarian GP,Hungaroring,4.381,corner,4,47.579,19.2515
+
+11,Hungarian GP,Hungaroring,4.381,corner,5,47.5795,19.25
+
+11,Hungarian GP,Hungaroring,4.381,s1_split,1,47.5805,19.2495
+
+11,Hungarian GP,Hungaroring,4.381,corner,6,47.5815,19.249
+
+11,Hungarian GP,Hungaroring,4.381,corner,7,47.5825,19.249
+
+11,Hungarian GP,Hungaroring,4.381,corner,8,47.5835,19.2495
+
+11,Hungarian GP,Hungaroring,4.381,corner,9,47.584,19.251
+
+11,Hungarian GP,Hungaroring,4.381,corner,10,47.5835,19.2525
+
+11,Hungarian GP,Hungaroring,4.381,corner,11,47.5825,19.253
+
+11,Hungarian GP,Hungaroring,4.381,s2_split,1,47.5818,19.2525
+
+11,Hungarian GP,Hungaroring,4.381,corner,12,47.581,19.2518
+
+11,Hungarian GP,Hungaroring,4.381,corner,13,47.5812,19.2508
+
+11,Hungarian GP,Hungaroring,4.381,corner,14,47.5818,19.2505
+
+12,Dutch GP,Circuit Zandvoort,4.259,start_line,0,52.3889,4.5408
+
+12,Dutch GP,Circuit Zandvoort,4.259,corner,1,52.388,4.5395
+
+12,Dutch GP,Circuit Zandvoort,4.259,corner,2,52.3875,4.5385
+
+12,Dutch GP,Circuit Zandvoort,4.259,corner,3,52.387,4.5395
+
+12,Dutch GP,Circuit Zandvoort,4.259,corner,4,52.3875,4.541
+
+12,Dutch GP,Circuit Zandvoort,4.259,corner,5,52.388,4.542
+
+12,Dutch GP,Circuit Zandvoort,4.259,corner,6,52.3885,4.543
+
+12,Dutch GP,Circuit Zandvoort,4.259,s1_split,1,52.3895,4.5425
+
+12,Dutch GP,Circuit Zandvoort,4.259,corner,7,52.39,4.5415
+
+12,Dutch GP,Circuit Zandvoort,4.259,corner,8,52.3905,4.5405
+
+12,Dutch GP,Circuit Zandvoort,4.259,corner,9,52.39,4.5395
+
+12,Dutch GP,Circuit Zandvoort,4.259,corner,10,52.3895,4.539
+
+12,Dutch GP,Circuit Zandvoort,4.259,corner,11,52.389,4.5395
+
+12,Dutch GP,Circuit Zandvoort,4.259,s2_split,1,52.3885,4.54
+
+12,Dutch GP,Circuit Zandvoort,4.259,corner,12,52.3885,4.5405
+
+12,Dutch GP,Circuit Zandvoort,4.259,corner,13,52.3888,4.5415
+
+12,Dutch GP,Circuit Zandvoort,4.259,corner,14,52.389,4.541
+
+13,Italian GP,Monza Circuit,5.793,start_line,0,45.6206,9.2894
+
+13,Italian GP,Monza Circuit,5.793,corner,1,45.6195,9.29
+
+13,Italian GP,Monza Circuit,5.793,corner,2,45.6185,9.2905
+
+13,Italian GP,Monza Circuit,5.793,corner,3,45.618,9.2915
+
+13,Italian GP,Monza Circuit,5.793,corner,4,45.6185,9.2925
+
+13,Italian GP,Monza Circuit,5.793,corner,5,45.6195,9.2925
+
+13,Italian GP,Monza Circuit,5.793,s1_split,1,45.62,9.2915
+
+13,Italian GP,Monza Circuit,5.793,corner,6,45.6205,9.2905
+
+13,Italian GP,Monza Circuit,5.793,corner,7,45.6215,9.2895
+
+13,Italian GP,Monza Circuit,5.793,corner,8,45.621,9.2885
+
+13,Italian GP,Monza Circuit,5.793,corner,9,45.6205,9.2875
+
+13,Italian GP,Monza Circuit,5.793,s2_split,1,45.62,9.2885
+
+13,Italian GP,Monza Circuit,5.793,corner,10,45.6195,9.289
+
+14,Spanish GP,Madring,5.474,start_line,0,40.4653,-3.6153
+
+14,Spanish GP,Madring,5.474,corner,1,40.4645,-3.6145
+
+14,Spanish GP,Madring,5.474,corner,2,40.4635,-3.614
+
+14,Spanish GP,Madring,5.474,corner,3,40.463,-3.615
+
+14,Spanish GP,Madring,5.474,corner,4,40.4635,-3.6165
+
+14,Spanish GP,Madring,5.474,corner,5,40.4645,-3.617
+
+14,Spanish GP,Madring,5.474,corner,6,40.4655,-3.6175
+
+14,Spanish GP,Madring,5.474,corner,7,40.4665,-3.6165
+
+14,Spanish GP,Madring,5.474,s1_split,1,40.467,-3.6155
+
+14,Spanish GP,Madring,5.474,corner,8,40.4675,-3.6145
+
+14,Spanish GP,Madring,5.474,corner,9,40.467,-3.6135
+
+14,Spanish GP,Madring,5.474,corner,10,40.4665,-3.6125
+
+14,Spanish GP,Madring,5.474,corner,11,40.4655,-3.612
+
+14,Spanish GP,Madring,5.474,corner,12,40.465,-3.613
+
+14,Spanish GP,Madring,5.474,corner,13,40.4645,-3.614
+
+14,Spanish GP,Madring,5.474,corner,14,40.464,-3.615
+
+14,Spanish GP,Madring,5.474,s2_split,1,40.4645,-3.616
+
+14,Spanish GP,Madring,5.474,corner,15,40.465,-3.6165
+
+14,Spanish GP,Madring,5.474,corner,16,40.4655,-3.616
+
+14,Spanish GP,Madring,5.474,corner,17,40.466,-3.6155
+
+14,Spanish GP,Madring,5.474,corner,18,40.4658,-3.615
+
+14,Spanish GP,Madring,5.474,corner,19,40.4655,-3.6145
+
+14,Spanish GP,Madring,5.474,corner,20,40.465,-3.6145
+
+15,Azerbaijan GP,Baku City Circuit,6.003,start_line,0,40.3725,49.8533
+
+15,Azerbaijan GP,Baku City Circuit,6.003,corner,1,40.3715,49.854
+
+15,Azerbaijan GP,Baku City Circuit,6.003,corner,2,40.3705,49.8545
+
+15,Azerbaijan GP,Baku City Circuit,6.003,corner,3,40.3695,49.854
+
+15,Azerbaijan GP,Baku City Circuit,6.003,corner,4,40.369,49.853
+
+15,Azerbaijan GP,Baku City Circuit,6.003,corner,5,40.3695,49.852
+
+15,Azerbaijan GP,Baku City Circuit,6.003,corner,6,40.3705,49.8515
+
+15,Azerbaijan GP,Baku City Circuit,6.003,corner,7,40.3715,49.8515
+
+15,Azerbaijan GP,Baku City Circuit,6.003,s1_split,1,40.3725,49.852
+
+15,Azerbaijan GP,Baku City Circuit,6.003,corner,8,40.3735,49.8525
+
+15,Azerbaijan GP,Baku City Circuit,6.003,corner,9,40.3745,49.8525
+
+15,Azerbaijan GP,Baku City Circuit,6.003,corner,10,40.375,49.853
+
+15,Azerbaijan GP,Baku City Circuit,6.003,corner,11,40.3745,49.8535
+
+15,Azerbaijan GP,Baku City Circuit,6.003,corner,12,40.374,49.854
+
+15,Azerbaijan GP,Baku City Circuit,6.003,corner,13,40.3735,49.8545
+
+15,Azerbaijan GP,Baku City Circuit,6.003,corner,14,40.373,49.8548
+
+15,Azerbaijan GP,Baku City Circuit,6.003,corner,15,40.3725,49.8545
+
+15,Azerbaijan GP,Baku City Circuit,6.003,s2_split,1,40.372,49.854
+
+15,Azerbaijan GP,Baku City Circuit,6.003,corner,16,40.3715,49.8535
+
+15,Azerbaijan GP,Baku City Circuit,6.003,corner,17,40.371,49.853
+
+16,Singapore GP,Marina Bay Street Circuit,4.94,start_line,0,1.2915,103.8639
+16,Singapore GP,Marina Bay Street Circuit,4.94,corner,1,1.2905,103.8645
+16,Singapore GP,Marina Bay Street Circuit,4.94,corner,2,1.2895,103.865
+16,Singapore GP,Marina Bay Street Circuit,4.94,corner,3,1.2885,103.8645
+16,Singapore GP,Marina Bay Street Circuit,4.94,corner,4,1.288,103.8635
+16,Singapore GP,Marina Bay Street Circuit,4.94,corner,5,1.2885,103.8625
+16,Singapore GP,Marina Bay Street Circuit,4.94,corner,6,1.2895,103.862
+16,Singapore GP,Marina Bay Street Circuit,4.94,corner,7,1.2905,103.862
+16,Singapore GP,Marina Bay Street Circuit,4.94,corner,8,1.2915,103.8625
+16,Singapore GP,Marina Bay Street Circuit,4.94,s1_split,1,1.292,103.863
+16,Singapore GP,Marina Bay Street Circuit,4.94,corner,9,1.2925,103.8635
+16,Singapore GP,Marina Bay Street Circuit,4.94,corner,10,1.293,103.8645
+16,Singapore GP,Marina Bay Street Circuit,4.94,corner,11,1.2925,103.8655
+16,Singapore GP,Marina Bay Street Circuit,4.94,corner,12,1.2915,103.866
+16,Singapore GP,Marina Bay Street Circuit,4.94,corner,13,1.2905,103.8655
+16,Singapore GP,Marina Bay Street Circuit,4.94,s2_split,1,1.29,103.8645
+16,Singapore GP,Marina Bay Street Circuit,4.94,corner,14,1.2895,103.864
+16,Singapore GP,Marina Bay Street Circuit,4.94,corner,15,1.29,103.8635
+16,Singapore GP,Marina Bay Street Circuit,4.94,corner,16,1.2905,103.863
+17,United States GP,Circuit of the Americas,5.513,start_line,0,30.1328,-97.6411
+17,United States GP,Circuit of the Americas,5.513,corner,1,30.1315,-97.64
+17,United States GP,Circuit of the Americas,5.513,corner,2,30.1305,-97.6405
+17,United States GP,Circuit of the Americas,5.513,corner,3,30.1295,-97.641
+17,United States GP,Circuit of the Americas,5.513,corner,4,30.129,-97.642
+17,United States GP,Circuit of the Americas,5.513,corner,5,30.13,-97.643
+17,United States GP,Circuit of the Americas,5.513,corner,6,30.131,-97.6435
+17,United States GP,Circuit of the Americas,5.513,corner,7,30.132,-97.6435
+17,United States GP,Circuit of the Americas,5.513,corner,8,30.133,-97.6425
+17,United States GP,Circuit of the Americas,5.513,corner,9,30.1335,-97.6415
+17,United States GP,Circuit of the Americas,5.513,s1_split,1,30.133,-97.6405
+17,United States GP,Circuit of the Americas,5.513,corner,10,30.1325,-97.6395
+17,United States GP,Circuit of the Americas,5.513,corner,11,30.1315,-97.639
+17,United States GP,Circuit of the Americas,5.513,corner,12,30.1305,-97.6385
+17,United States GP,Circuit of the Americas,5.513,corner,13,30.13,-97.6395
+17,United States GP,Circuit of the Americas,5.513,corner,14,30.1305,-97.641
+17,United States GP,Circuit of the Americas,5.513,corner,15,30.131,-97.642
+17,United States GP,Circuit of the Americas,5.513,s2_split,1,30.132,-97.6425
+17,United States GP,Circuit of the Americas,5.513,corner,16,30.1325,-97.6418
+17,United States GP,Circuit of the Americas,5.513,corner,17,30.133,-97.641
+17,United States GP,Circuit of the Americas,5.513,corner,18,30.1332,-97.6405
+18,Mexico City GP,Autodromo Hermanos Rodriguez,4.304,start_line,0,19.4061,-99.0925
+18,Mexico City GP,Autodromo Hermanos Rodriguez,4.304,corner,1,19.405,-99.0915
+18,Mexico City GP,Autodromo Hermanos Rodriguez,4.304,corner,2,19.404,-99.091
+18,Mexico City GP,Autodromo Hermanos Rodriguez,4.304,corner,3,19.4035,-99.092
+18,Mexico City GP,Autodromo Hermanos Rodriguez,4.304,corner,4,19.404,-99.0935
+18,Mexico City GP,Autodromo Hermanos Rodriguez,4.304,corner,5,19.405,-99.0945
+18,Mexico City GP,Autodromo Hermanos Rodriguez,4.304,corner,6,19.406,-99.0945
+18,Mexico City GP,Autodromo Hermanos Rodriguez,4.304,s1_split,1,19.407,-99.0935
+18,Mexico City GP,Autodromo Hermanos Rodriguez,4.304,corner,7,19.4075,-99.0925
+18,Mexico City GP,Autodromo Hermanos Rodriguez,4.304,corner,8,19.407,-99.0915
+18,Mexico City GP,Autodromo Hermanos Rodriguez,4.304,corner,9,19.4065,-99.0905
+18,Mexico City GP,Autodromo Hermanos Rodriguez,4.304,corner,10,19.406,-99.09
+18,Mexico City GP,Autodromo Hermanos Rodriguez,4.304,corner,11,19.4055,-99.091
+18,Mexico City GP,Autodromo Hermanos Rodriguez,4.304,corner,12,19.405,-99.092
+18,Mexico City GP,Autodromo Hermanos Rodriguez,4.304,s2_split,1,19.4055,-99.093
+18,Mexico City GP,Autodromo Hermanos Rodriguez,4.304,corner,13,19.406,-99.0935
+18,Mexico City GP,Autodromo Hermanos Rodriguez,4.304,corner,14,19.4065,-99.093
+18,Mexico City GP,Autodromo Hermanos Rodriguez,4.304,corner,15,19.4063,-99.092
+18,Mexico City GP,Autodromo Hermanos Rodriguez,4.304,corner,16,19.406,-99.0925
+19,Sao Paulo GP,Interlagos Circuit,4.309,start_line,0,-23.7011,-46.6972
+19,Sao Paulo GP,Interlagos Circuit,4.309,corner,1,-23.7,-46.6965
+19,Sao Paulo GP,Interlagos Circuit,4.309,corner,2,-23.699,-46.696
+19,Sao Paulo GP,Interlagos Circuit,4.309,corner,3,-23.6985,-46.697
+19,Sao Paulo GP,Interlagos Circuit,4.309,corner,4,-23.699,-46.6985
+19,Sao Paulo GP,Interlagos Circuit,4.309,corner,5,-23.7,-46.6995
+19,Sao Paulo GP,Interlagos Circuit,4.309,corner,6,-23.7015,-46.6995
+19,Sao Paulo GP,Interlagos Circuit,4.309,s1_split,1,-23.7025,-46.6985
+19,Sao Paulo GP,Interlagos Circuit,4.309,corner,7,-23.703,-46.6975
+19,Sao Paulo GP,Interlagos Circuit,4.309,corner,8,-23.7025,-46.6965
+19,Sao Paulo GP,Interlagos Circuit,4.309,corner,9,-23.702,-46.6955
+19,Sao Paulo GP,Interlagos Circuit,4.309,corner,10,-23.7015,-46.695
+19,Sao Paulo GP,Interlagos Circuit,4.309,corner,11,-23.701,-46.6955
+19,Sao Paulo GP,Interlagos Circuit,4.309,s2_split,1,-23.7005,-46.6965
+19,Sao Paulo GP,Interlagos Circuit,4.309,corner,12,-23.7005,-46.6975
+19,Sao Paulo GP,Interlagos Circuit,4.309,corner,13,-23.7008,-46.698
+19,Sao Paulo GP,Interlagos Circuit,4.309,corner,14,-23.701,-46.6978
+19,Sao Paulo GP,Interlagos Circuit,4.309,corner,15,-23.7015,-46.6975
+20,Las Vegas GP,Las Vegas Strip Circuit,6.201,start_line,0,36.11,-115.1622
+20,Las Vegas GP,Las Vegas Strip Circuit,6.201,corner,1,36.109,-115.161
+20,Las Vegas GP,Las Vegas Strip Circuit,6.201,corner,2,36.108,-115.1615
+20,Las Vegas GP,Las Vegas Strip Circuit,6.201,corner,3,36.1075,-115.1625
+20,Las Vegas GP,Las Vegas Strip Circuit,6.201,corner,4,36.108,-115.164
+20,Las Vegas GP,Las Vegas Strip Circuit,6.201,corner,5,36.109,-115.1645
+20,Las Vegas GP,Las Vegas Strip Circuit,6.201,corner,6,36.11,-115.165
+20,Las Vegas GP,Las Vegas Strip Circuit,6.201,s1_split,1,36.111,-115.164
+20,Las Vegas GP,Las Vegas Strip Circuit,6.201,corner,7,36.1115,-115.163
+20,Las Vegas GP,Las Vegas Strip Circuit,6.201,corner,8,36.1118,-115.1615
+20,Las Vegas GP,Las Vegas Strip Circuit,6.201,corner,9,36.1115,-115.16
+20,Las Vegas GP,Las Vegas Strip Circuit,6.201,corner,10,36.1105,-115.1595
+20,Las Vegas GP,Las Vegas Strip Circuit,6.201,corner,11,36.1095,-115.159
+20,Las Vegas GP,Las Vegas Strip Circuit,6.201,corner,12,36.109,-115.16
+20,Las Vegas GP,Las Vegas Strip Circuit,6.201,corner,13,36.1085,-115.161
+20,Las Vegas GP,Las Vegas Strip Circuit,6.201,s2_split,1,36.109,-115.162
+20,Las Vegas GP,Las Vegas Strip Circuit,6.201,corner,14,36.1095,-115.1625
+20,Las Vegas GP,Las Vegas Strip Circuit,6.201,corner,15,36.11,-115.163
+20,Las Vegas GP,Las Vegas Strip Circuit,6.201,corner,16,36.1105,-115.1628
+20,Las Vegas GP,Las Vegas Strip Circuit,6.201,corner,17,36.1108,-115.1625
+21,Qatar GP,Lusail International Circuit,5.419,start_line,0,25.49,51.4542
+21,Qatar GP,Lusail International Circuit,5.419,corner,1,25.4885,51.455
+21,Qatar GP,Lusail International Circuit,5.419,corner,2,25.4875,51.4555
+21,Qatar GP,Lusail International Circuit,5.419,corner,3,25.4865,51.455
+21,Qatar GP,Lusail International Circuit,5.419,corner,4,25.486,51.454
+21,Qatar GP,Lusail International Circuit,5.419,corner,5,25.4865,51.4525
+21,Qatar GP,Lusail International Circuit,5.419,corner,6,25.4875,51.452
+21,Qatar GP,Lusail International Circuit,5.419,s1_split,1,25.4885,51.4525
+21,Qatar GP,Lusail International Circuit,5.419,corner,7,25.4895,51.453
+21,Qatar GP,Lusail International Circuit,5.419,corner,8,25.4905,51.453
+21,Qatar GP,Lusail International Circuit,5.419,corner,9,25.4915,51.4535
+21,Qatar GP,Lusail International Circuit,5.419,corner,10,25.492,51.4545
+21,Qatar GP,Lusail International Circuit,5.419,corner,11,25.4915,51.4555
+21,Qatar GP,Lusail International Circuit,5.419,corner,12,25.4905,51.456
+21,Qatar GP,Lusail International Circuit,5.419,corner,13,25.4895,51.4565
+21,Qatar GP,Lusail International Circuit,5.419,s2_split,1,25.489,51.4555
+21,Qatar GP,Lusail International Circuit,5.419,corner,14,25.4885,51.4545
+21,Qatar GP,Lusail International Circuit,5.419,corner,15,25.489,51.4535
+21,Qatar GP,Lusail International Circuit,5.419,corner,16,25.4895,51.4538
+22,Abu Dhabi GP,Yas Marina Circuit,5.281,start_line,0,24.4672,54.6031
+22,Abu Dhabi GP,Yas Marina Circuit,5.281,corner,1,24.466,54.604
+22,Abu Dhabi GP,Yas Marina Circuit,5.281,corner,2,24.465,54.6045
+22,Abu Dhabi GP,Yas Marina Circuit,5.281,corner,3,24.4645,54.6035
+22,Abu Dhabi GP,Yas Marina Circuit,5.281,corner,4,24.465,54.602
+22,Abu Dhabi GP,Yas Marina Circuit,5.281,corner,5,24.466,54.6015
+22,Abu Dhabi GP,Yas Marina Circuit,5.281,corner,6,24.467,54.6015
+22,Abu Dhabi GP,Yas Marina Circuit,5.281,corner,7,24.468,54.602
+22,Abu Dhabi GP,Yas Marina Circuit,5.281,s1_split,1,24.4685,54.603
+22,Abu Dhabi GP,Yas Marina Circuit,5.281,corner,8,24.4685,54.604
+22,Abu Dhabi GP,Yas Marina Circuit,5.281,corner,9,24.468,54.605
+22,Abu Dhabi GP,Yas Marina Circuit,5.281,corner,10,24.4675,54.6055
+22,Abu Dhabi GP,Yas Marina Circuit,5.281,corner,11,24.467,54.605
+22,Abu Dhabi GP,Yas Marina Circuit,5.281,s2_split,1,24.4665,54.604
+22,Abu Dhabi GP,Yas Marina Circuit,5.281,corner,12,24.4665,54.603
+22,Abu Dhabi GP,Yas Marina Circuit,5.281,corner,13,24.4668,54.6025
+22,Abu Dhabi GP,Yas Marina Circuit,5.281,corner,14,24.467,54.6025
+22,Abu Dhabi GP,Yas Marina Circuit,5.281,corner,15,24.4675,54.6028
+22,Abu Dhabi GP,Yas Marina Circuit,5.281,corner,16,24.4675,54.6035

@@ -18,7 +18,7 @@ def haversine(lat1: float, lon1: float, lat2: float, lon2: float) -> float:
     return R * c
 
 
-DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), "f1_2026_circuits.csv")
+DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "f1_2026_circuits.csv")
 
 
 def load_circuits() -> dict:
