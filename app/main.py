@@ -236,13 +236,18 @@ async def get_circuit():
 
 @app.get("/api/circuit/set")
 async def set_circuit(name: str = ""):
-    if name and processor.current_circuit is None:
+    if name:
         for key, data in processor.circuits.items():
             if name.lower() in key.lower():
                 processor.current_circuit = data
                 return {"status": "ok", "circuit": key}
         for key, data in processor.circuits.items():
             if name.lower() in data["grand_prix"].lower():
+                processor.current_circuit = data
+                return {"status": "ok", "circuit": key}
+        for key, data in processor.circuits.items():
+            gp_lower = data["grand_prix"].lower().replace(" gp", "").strip()
+            if gp_lower in name.lower():
                 processor.current_circuit = data
                 return {"status": "ok", "circuit": key}
         return {"status": "not_found", "message": f"No circuit matching '{name}'"}
