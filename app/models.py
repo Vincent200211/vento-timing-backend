@@ -94,7 +94,7 @@ class SessionInfo(BaseModel):
     session_type: str = ''
     start_date: Optional[str] = None
     end_date: Optional[str] = None
-   gmt_offset: Optional[str] = None
+    gmt_offset: Optional[str] = None
     remaining: Optional[str] = None
 
 
