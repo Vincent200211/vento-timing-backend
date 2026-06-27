@@ -74,6 +74,8 @@ def handle_f1_message(topic: str, data, ts: float):
         _dirty_types.add("circuit")
     if clean == "CarData":
         _dirty_types.add("timing")
+    if clean == "ExtrapolatedClock":
+        _dirty_types.add("session")
     if clean == "TimingAppData":
         _dirty_types.add("stint_history")
     # Update JSON stream feed with session path
