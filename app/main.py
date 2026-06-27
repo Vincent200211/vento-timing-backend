@@ -153,16 +153,18 @@ async def f1_connection_loop():
 
     token = ensure_valid_token()
     while True:
-        if f1_client:
-            try:
-                await f1_client.stop()
-                logger.info("Previous SignalR client stopped")
-            except Exception as e:
-                logger.warning(f"Previous client stop error: {e}")
         try:
             logger.info("Starting F1 SignalR connection...")
-            f1_client = F1SignalRClient(token=token, on_message=handle_f1_message, topics=TOPICS)
-            await asyncio.wait_for(f1_client.start(), timeout=30)
+            new_client = F1SignalRClient(token=token, on_message=handle_f1_message, topics=TOPICS)
+            await asyncio.wait_for(new_client.start(), timeout=30)
+            # start() returns immediately (non-blocking daemon thread).
+            # Stop the OLD client to prevent thread leak; keep NEW one running.
+            if f1_client:
+                try:
+                    await f1_client.stop()
+                except Exception:
+                    pass
+            f1_client = new_client
         except Exception as e:
             logger.error(f"F1 connection error: {e}")
             if "401" in str(e) or "Unauthorized" in str(e):
