@@ -555,7 +555,6 @@ class DataProcessor:
 
     def _handle_SessionInfo(self, data: dict, ts: float):
         meeting = data.get("Meeting", {})
-        old_remaining = self.session_info.remaining if self.session_info else None
         self.session_info = SessionInfo(
             meeting_key=meeting.get("Key"),
             session_key=data.get("Key"),
@@ -568,9 +567,8 @@ class DataProcessor:
             start_date=data.get("StartDate"),
             end_date=data.get("EndDate"),
             gmt_offset=data.get("GmtOffset"),
+            remaining=self.session_info.remaining,
         )
-        if old_remaining and ":" in old_remaining:
-            self.session_info.remaining = old_remaining
         # Try to match circuit data from the CSV
         if meeting.get("Name") or meeting.get("Circuit", {}).get("ShortName"):
             matched = match_circuit(meeting.get("Name", ""), meeting.get("Circuit", {}).get("ShortName", ""), self.circuits)
