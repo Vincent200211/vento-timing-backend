@@ -46,6 +46,7 @@ class DataProcessor:
         self.timing: dict[int, TimingEntry] = {}
         self.app_data: dict[int, TimingAppDataEntry] = {}
         self.car_data: dict[int, list[CarTelemetry]] = defaultdict(list)
+        self._car_data_broadcast_state: dict[int, int] = {}
         self.positions: dict[int, list[CarPosition]] = defaultdict(list)
         self.prev_positions: dict[int, CarPosition] = {}
         self.weather: Optional[WeatherData] = None
@@ -1465,4 +1466,18 @@ class DataProcessor:
         if btype == "circuit": return self.current_circuit
         if btype == "pit_median": return self._pit_median
         return None
+
+    def get_car_data_for_broadcast(self) -> dict:
+        """Return only unsent car_data entries, updating broadcast state."""
+        result = {}
+        for dn, entries in self.car_data.items():
+            sent = self._car_data_broadcast_state.get(dn, 0)
+            if sent >= len(entries):
+                self._car_data_broadcast_state[dn] = len(entries)
+                continue
+            new_entries = entries[sent:]
+            if new_entries:
+                result[str(dn)] = [c.model_dump() for c in new_entries]
+                self._car_data_broadcast_state[dn] = len(entries)
+        return result
 

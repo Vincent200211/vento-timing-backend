@@ -94,7 +94,7 @@ async def _broadcast_loop():
         types = list(_dirty_types)
         _dirty_types.clear()
         for btype in types:
-            data = processor.get_field(btype)
+            data = processor.get_car_data_for_broadcast() if btype == "car_data" else processor.get_field(btype)
             if data is not None:
                 asyncio.create_task(manager.broadcast(btype, data))
 
