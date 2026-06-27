@@ -401,9 +401,9 @@ async def tyre_summary():
 
 @app.get("/api/mode")
 async def api_get_mode():
-    """Return current mode (live/replay)."""
+    """Return current mode (live/live_replay/replay/replay_env)."""
     return {
-        "mode": "replay" if _replay_requested["active"] else ("replay_env" if os.environ.get("REPLAY_MODE") else "live"),
+        "mode": "replay" if _replay_requested["active"] else ("replay_env" if os.environ.get("REPLAY_MODE") else ("live_replay" if os.environ.get("LIVE_REPLAY_MODE") else "live")),
         "speed": _replay_requested["speed"],
         "connected": f1_client is not None and (f1_client._running if hasattr(f1_client, "_running") else False),
         "session": getattr(f1_client, "name", ""),
